@@ -1,0 +1,66 @@
+{
+    "registrar": {
+        "_id": "6653c30921adb890f4515065",
+        "name": "NameBright",
+        "domain": "namebright.com",
+        "supportedRecordTypes": [
+            "A",
+            "AAAA",
+            "CNAME",
+            "MX",
+            "SRV",
+            "TXT",
+            "NS"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns1.namebrightdns.com",
+            "ns2.namebrightdns.com",
+            "expired1.namebrightdns.com",
+            "expired2.namebrightdns.com"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://api.namebright.com/rest/Help/Api/GET-account-domains-domain-nameservers",
+                "notes": "ns1.namebrightdns.com and ns2.namebrightdns.com",
+                "time": "2024-04-30T11:28:23+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.namebright.com/Contact",
+                "notes": "general info",
+                "time": "2024-04-30T11:28:38+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://api.namebright.com/rest/Help",
+                "notes": "A, AAAA, CNAME, MX, SRV, TXT, NS based on api",
+                "time": "2024-04-16T15:06:09+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.namebright.com/Terms",
+                "notes": "Upon expiration of your domain name, your nameservers will be changed to expired1.namebrightdns.com and expired2.namebrightdns.com ",
+                "time": "2024-05-11T16:55:29+02:00"
+            }
+        ]
+    },
+    "records": {
+        "A": 155,
+        "AAAA": 3,
+        "CNAME": 61,
+        "MX": 0,
+        "SRV": 0,
+        "TXT": 0,
+        "NS": 160
+    },
+    "unofficialRecords": {
+        "DMARC": 9,
+        "DNSKEY": 42
+    },
+    "domains": 160,
+    "percent": 0.00016000144001296012
+}

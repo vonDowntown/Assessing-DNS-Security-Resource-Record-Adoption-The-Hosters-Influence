@@ -1,0 +1,65 @@
+{
+    "registrar": {
+        "_id": "6653c30921adb890f4515061",
+        "name": "bluehost inc",
+        "domain": "https://www.bluehost.com",
+        "supportedRecordTypes": [
+            "A",
+            "CNAME",
+            "MX",
+            "TXT",
+            "SPF",
+            "DKIM",
+            "SRV",
+            "AAAA"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [
+            "162.88.60.37",
+            "162.88.61.37"
+        ],
+        "ipv6": [],
+        "nsServer": [
+            "ns1.bluehost.com",
+            "ns2.bluehost.com"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://www.bluehost.com",
+                "notes": "general info",
+                "time": "2024-04-28T12:52:07+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.bluehost.com/help/article/our-name-servers-ns",
+                "notes": "nameserver: ns1.bluehost.com ns2.bluehost.com and ips: 162.88.60.37 and 162.88.61.37",
+                "time": "2024-04-28T12:54:29+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.bluehost.com/help/article/dns-records-explained",
+                "notes": "A, CNAME, MX, TXT, SPF, DKIM, SRV, AAAA,  ",
+                "time": "2024-04-16T15:06:09+02:00"
+            }
+        ]
+    },
+    "records": {
+        "A": 1217,
+        "CNAME": 0,
+        "MX": 0,
+        "TXT": 0,
+        "SPF": 0,
+        "DKIM": 0,
+        "SRV": 0,
+        "AAAA": 7
+    },
+    "unofficialRecords": {
+        "DMARC": 70,
+        "DNSKEY": 2,
+        "DS": 1,
+        "NS": 1231
+    },
+    "domains": 1231,
+    "percent": 0.001231011079099712
+}

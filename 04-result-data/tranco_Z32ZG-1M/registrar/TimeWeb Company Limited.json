@@ -1,0 +1,58 @@
+{
+    "registrar": {
+        "_id": "6653c30921adb890f451503c",
+        "name": "TimeWeb Company Limited",
+        "domain": "timeweb.com",
+        "supportedRecordTypes": [
+            "NS",
+            "A",
+            "AAAA",
+            "MX",
+            "SRV",
+            "TXT",
+            "SPF",
+            "DKIM",
+            "CNAME"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns1.timeweb.ru",
+            "ns2.timeweb.ru",
+            "ns3.timeweb.org",
+            "ns4.timeweb.org"
+        ],
+        "source": [
+            {
+                "method": "Whois",
+                "link": "timeweb.ru",
+                "notes": "Name and NS",
+                "time": "2024-04-04T19:46:21+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://timeweb.com/ru/docs/domeny/resursnye-zapisi-domena-dns-zapisi/nastrojka-dns-zapisej/",
+                "notes": "supported dns records",
+                "time": "2024-04-04T19:49:30+02:00"
+            }
+        ]
+    },
+    "records": {
+        "NS": 1925,
+        "A": 1915,
+        "AAAA": 774,
+        "MX": 3,
+        "SRV": 0,
+        "TXT": 0,
+        "SPF": 0,
+        "DKIM": 0,
+        "CNAME": 0
+    },
+    "unofficialRecords": {
+        "DMARC": 187,
+        "DNSKEY": 479
+    },
+    "domains": 1925,
+    "percent": 0.0019250173251559265
+}

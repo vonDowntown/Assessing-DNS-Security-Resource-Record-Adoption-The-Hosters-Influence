@@ -1,0 +1,66 @@
+{
+    "registrar": {
+        "_id": "6653c30921adb890f4515022",
+        "name": "Openprovider",
+        "domain": "openprovider.com",
+        "supportedRecordTypes": [
+            "A",
+            "AAAA",
+            "CAA",
+            "CNAME",
+            "MX",
+            "NS",
+            "SOA",
+            "SFP",
+            "SRV",
+            "TXT"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns1.openprovider.nl",
+            "ns2.openprovider.be",
+            "ns3.openprovider.eu"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://support.openprovider.eu/hc/en-us/articles/216648808-DNS-Records",
+                "notes": "records",
+                "time": "2024-02-27T00:00:00+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.openprovider.com/company/about-us",
+                "notes": "Other company names use Openprovider because of corp branding and icann",
+                "time": "2024-02-27T00:00:00+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.openprovider.com/blog/nameserver-migration-possible-action-required",
+                "notes": "Nameservers and ips used company blog from 2018",
+                "time": "2024-02-27T00:00:00+01:00"
+            }
+        ]
+    },
+    "records": {
+        "A": 204,
+        "AAAA": 29,
+        "CAA": 12,
+        "CNAME": 0,
+        "MX": 0,
+        "NS": 219,
+        "SOA": 0,
+        "SFP": 0,
+        "SRV": 0,
+        "TXT": 0
+    },
+    "unofficialRecords": {
+        "DMARC": 31,
+        "DNSKEY": 29,
+        "DS": 37
+    },
+    "domains": 219,
+    "percent": 0.00021900197101773917
+}

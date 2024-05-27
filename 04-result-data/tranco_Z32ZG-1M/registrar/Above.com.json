@@ -1,0 +1,52 @@
+{
+    "registrar": {
+        "_id": "6653c30921adb890f451504e",
+        "name": "Above.com",
+        "domain": "www.above.com",
+        "supportedRecordTypes": [
+            "A",
+            "CNAME",
+            "MX",
+            "NS",
+            "TXT",
+            "SRV"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns1.abovedomains.com",
+            "ns2.abovedomains.com",
+            "ns1.above.com",
+            "ns2.above.com"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://www.above.com/manual/reg-registrar-settings.html",
+                "notes": ".DE domains will automatically be changed to ns1.abovedomains.com and ns2.abovedomains.com and picture of default settings(ns1.above.com and ns2.above.com) ",
+                "time": "2024-04-12T20:47:16+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.above.com/manual/reg-dns-records.html",
+                "notes": "DNS records: A, CNAME, MX, NS, TXT, SRV and advanced namserver dns1.above.com and dns2.above.com",
+                "time": "2024-04-12T20:49:15+02:00"
+            }
+        ]
+    },
+    "records": {
+        "A": 3939,
+        "CNAME": 0,
+        "MX": 5,
+        "NS": 3944,
+        "TXT": 0,
+        "SRV": 0
+    },
+    "unofficialRecords": {
+        "DMARC": 1173,
+        "DS": 2
+    },
+    "domains": 3944,
+    "percent": 0.003944035496319467
+}

@@ -1,0 +1,89 @@
+{
+    "registrar": {
+        "_id": "6653c30921adb890f4515045",
+        "name": "DNSimple Corporation.",
+        "domain": "https://dnsimple.com",
+        "supportedRecordTypes": [
+            "ALIAS",
+            "CNAME",
+            "A",
+            "AAAA",
+            "MX",
+            "NS",
+            "DKIM",
+            "DMARC",
+            "CAA",
+            "POOL",
+            "SOA",
+            "SPF",
+            "SRV",
+            "TXT",
+            "DS"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns1.dnsimple.com",
+            "ns2.dnsimple-edge.net",
+            "ns3.dnsimple.com",
+            "ns4.dnsimple-edge.org"
+        ],
+        "source": [
+            {
+                "method": "RecordScan",
+                "link": "",
+                "notes": "",
+                "time": "2024-03-15T20:45:00+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://support.dnsimple.com/articles/dnsimple-nameservers/",
+                "notes": "nameservers",
+                "time": "2024-03-15T20:37:00+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "dnsimple.com",
+                "notes": "Name and website",
+                "time": "2024-03-19T15:07:35+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://support.dnsimple.com/categories/dns/",
+                "notes": "records",
+                "time": "2024-04-05T00:49:28+02:00"
+            },
+            {
+                "method": "Whois",
+                "link": "dnsimple-edge.net",
+                "notes": "leads to dnsimple.com and nameservers",
+                "time": "2024-04-05T00:49:54+02:00"
+            }
+        ]
+    },
+    "records": {
+        "ALIAS": 0,
+        "CNAME": 0,
+        "A": 1709,
+        "AAAA": 213,
+        "MX": 1,
+        "NS": 1804,
+        "DKIM": 0,
+        "DMARC": 404,
+        "CAA": 56,
+        "POOL": 0,
+        "SOA": 0,
+        "SPF": 0,
+        "SRV": 0,
+        "TXT": 0,
+        "DS": 6
+    },
+    "unofficialRecords": {
+        "CDNSKEY": 38,
+        "CDS": 35,
+        "DNSKEY": 15
+    },
+    "domains": 1804,
+    "percent": 0.0018040162361461253
+}

@@ -1,0 +1,74 @@
+{
+    "registrar": {
+        "_id": "6653c30921adb890f4515050",
+        "name": "STRATO AG",
+        "domain": "strato.de",
+        "supportedRecordTypes": [
+            "NS",
+            "A",
+            "AAAA",
+            "MX",
+            "TXT",
+            "SPF",
+            "DKIM",
+            "SRV",
+            "CNAME"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "docks08.rzone.de",
+            "docks11.rzone.de",
+            "docks12.rzone.de",
+            "docks15.rzone.de",
+            "docks16.rzone.de",
+            "docks20.rzone.de",
+            "shades01.rzone.de",
+            "shades04.rzone.de",
+            "shades05.rzone.de",
+            "shades06.rzone.de",
+            "shades12.rzone.de",
+            "shades16.rzone.de",
+            "shades19.rzone.de"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://www.strato.de/faq/domains/wie-kann-ich-bei-strato-meine-dns-eintraege-verwalten/",
+                "notes": "DNSSEC, NS, A, AAAA, MX, TXT, SPF, DKIM, SRV, CNAME Records also referenceto rzone.de domain",
+                "time": "2024-04-13T17:57:33+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "dig <own domain> NS",
+                "notes": "own domain server dig -> hosted at strato",
+                "time": "2024-04-13T17:57:33+02:00"
+            },
+            {
+                "method": "RecordScan",
+                "link": "",
+                "notes": "docks*.rzone.de and shades*.rzone.de as nameserver",
+                "time": "2024-04-13T17:57:33+02:00"
+            }
+        ]
+    },
+    "records": {
+        "NS": 419,
+        "A": 417,
+        "AAAA": 250,
+        "MX": 1,
+        "TXT": 0,
+        "SPF": 0,
+        "DKIM": 0,
+        "SRV": 0,
+        "CNAME": 0
+    },
+    "unofficialRecords": {
+        "DMARC": 29,
+        "DNSKEY": 3,
+        "DS": 3
+    },
+    "domains": 419,
+    "percent": 0.0004190037710339393
+}

@@ -1,0 +1,45 @@
+{
+    "registrar": {
+        "_id": "6653c30921adb890f451503a",
+        "name": "ParkLogic",
+        "domain": "parklogic.com",
+        "supportedRecordTypes": [],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns1.parklogic.com",
+            "ns2.parklogic.com",
+            "ns3.parklogic.com",
+            "ns4.parklogic.com",
+            "ns5.parklogic.com"
+        ],
+        "source": [
+            {
+                "method": "Whois",
+                "link": "parklogic.com",
+                "notes": "",
+                "time": "2024-04-04T15:48:03+02:00"
+            },
+            {
+                "method": "RecordScan",
+                "link": "",
+                "notes": "",
+                "time": "2024-03-15T20:45:00+01:00"
+            }
+        ],
+        "notes": "Domain Reseller"
+    },
+    "records": {},
+    "unofficialRecords": {
+        "A": 6088,
+        "AAAA": 912,
+        "CNAME": 3,
+        "DMARC": 1907,
+        "DS": 6,
+        "MX": 3,
+        "NS": 6091
+    },
+    "domains": 6091,
+    "percent": 0.006091054819493375
+}

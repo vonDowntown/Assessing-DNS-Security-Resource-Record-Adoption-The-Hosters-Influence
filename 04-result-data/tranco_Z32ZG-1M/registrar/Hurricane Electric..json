@@ -1,0 +1,84 @@
+{
+    "registrar": {
+        "_id": "6653c30921adb890f4515027",
+        "name": "Hurricane Electric.",
+        "domain": "he.net",
+        "supportedRecordTypes": [
+            "A",
+            "AAAA",
+            "ALIAS",
+            "CNAME",
+            "CAA",
+            "MX",
+            "NS",
+            "TXT",
+            "SRV",
+            "SSHFP",
+            "SPF",
+            "RP",
+            "NAPTR",
+            "HINFO",
+            "LOC",
+            "PTR"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns1.he.net",
+            "ns2.he.net",
+            "ns3.he.net",
+            "ns4.he.net",
+            "ns5.he.net",
+            "slave.dns.he.net"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://he.net/",
+                "notes": "Name and purpose",
+                "time": "2024-03-15T20:20:30+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://dns.he.net/",
+                "notes": "Records, support: <support@he.net> ",
+                "time": "2024-03-15T20:20:30+01:00"
+            },
+            {
+                "method": "RecordScan",
+                "link": "",
+                "notes": "Nameserver",
+                "time": "2024-03-15T20:30:00+01:00"
+            }
+        ],
+        "notes": "global internet Backbone and colocation provider also free beta dns service"
+    },
+    "records": {
+        "A": 730,
+        "AAAA": 162,
+        "ALIAS": 0,
+        "CNAME": 0,
+        "CAA": 95,
+        "MX": 0,
+        "NS": 815,
+        "TXT": 0,
+        "SRV": 0,
+        "SSHFP": 0,
+        "SPF": 0,
+        "RP": 0,
+        "NAPTR": 0,
+        "HINFO": 0,
+        "LOC": 0,
+        "PTR": 0
+    },
+    "unofficialRecords": {
+        "CDNSKEY": 12,
+        "CDS": 12,
+        "DMARC": 109,
+        "DNSKEY": 13,
+        "DS": 13
+    },
+    "domains": 815,
+    "percent": 0.0008150073350660156
+}

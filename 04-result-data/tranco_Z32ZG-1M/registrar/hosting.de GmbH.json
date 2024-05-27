@@ -1,0 +1,80 @@
+{
+    "registrar": {
+        "_id": "6653c30921adb890f451505e",
+        "name": "hosting.de GmbH",
+        "domain": "hosting.de",
+        "supportedRecordTypes": [
+            "A",
+            "AAAA",
+            "ALIAS",
+            "CAA",
+            "CERT",
+            "CNAME",
+            "DNSKEY",
+            "DS",
+            "MX",
+            "NS",
+            "NSEC",
+            "NSEC3",
+            "NSEC3PARAM",
+            "OPENPGPKEY",
+            "PTR",
+            "RRSIG",
+            "SRV",
+            "SSHFP",
+            "TLSA",
+            "TXT"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns1.hosting.de",
+            "ns2.hosting.de",
+            "ns3.hosting.de"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://www.hosting.de/helpdesk/produkte/dns/nameserver-wechseln/",
+                "notes": "NS and general info",
+                "time": "2024-04-27T18:04:13+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.hosting.de/api/#the-record-object",
+                "notes": "A, AAAA, ALIAS, CAA, CERT, CNAME, DNSKEY, DS, MX, NS, NSEC, NSEC3, NSEC3PARAM, NULLMX, OPENPGPKEY, PTR, RRSIG, SRV, SSHFP, TLSA, and TXT are supported based on api",
+                "time": "2024-04-16T15:06:05+02:00"
+            }
+        ],
+        "notes": "Null MX Record removed because its a special MX Record "
+    },
+    "records": {
+        "A": 36,
+        "AAAA": 10,
+        "ALIAS": 0,
+        "CAA": 4,
+        "CERT": 0,
+        "CNAME": 0,
+        "DNSKEY": 5,
+        "DS": 0,
+        "MX": 1,
+        "NS": 41,
+        "NSEC": 0,
+        "NSEC3": 0,
+        "NSEC3PARAM": 0,
+        "OPENPGPKEY": 0,
+        "PTR": 0,
+        "RRSIG": 0,
+        "SRV": 0,
+        "SSHFP": 0,
+        "TLSA": 0,
+        "TXT": 0
+    },
+    "unofficialRecords": {
+        "CDS": 1,
+        "DMARC": 7
+    },
+    "domains": 41,
+    "percent": 4.100036900332103e-05
+}

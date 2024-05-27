@@ -1,0 +1,65 @@
+{
+    "registrar": {
+        "_id": "6653c30921adb890f4515048",
+        "name": "Automattic, Inc.",
+        "domain": "wordpress.com",
+        "supportedRecordTypes": [
+            "A",
+            "AAAA",
+            "CNAME",
+            "MX",
+            "TXT",
+            "SRV"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns1.wordpress.com",
+            "ns2.wordpress.com",
+            "ns3.wordpress.com",
+            "ns4.wordpress.com"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://wordpress.com/about/",
+                "notes": "Wordpress name and website",
+                "time": "2024-04-11T17:22:31+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://wordpress.com/support/domains/custom-dns/#add-a-new-dns-record",
+                "notes": "records: A, AAAA, CNAME, MX, TXT, SRV",
+                "time": "2024-04-11T17:22:31+02:00"
+            },
+            {
+                "method": "Whois",
+                "link": "wordpress.com",
+                "notes": "Automattic, Inc. and nameservers",
+                "time": "2024-04-11T17:27:14+02:00"
+            },
+            {
+                "method": "RecordScan",
+                "link": "wordpress.com",
+                "notes": "nameservers from Experiment, same as in whois",
+                "time": "2024-04-11T17:29:47+02:00"
+            }
+        ]
+    },
+    "records": {
+        "A": 850,
+        "AAAA": 6,
+        "CNAME": 0,
+        "MX": 0,
+        "TXT": 0,
+        "SRV": 0
+    },
+    "unofficialRecords": {
+        "CAA": 1,
+        "DMARC": 207,
+        "NS": 850
+    },
+    "domains": 850,
+    "percent": 0.0008500076500688506
+}

@@ -1,0 +1,47 @@
+{
+    "registrar": {
+        "_id": "6653c30921adb890f4515039",
+        "name": "MarkMonitor Inc.",
+        "domain": "markmonitor.com",
+        "supportedRecordTypes": [],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ha2.markmonitor.zone",
+            "ha4.markmonitor.zone",
+            "ns1.markmonitor.com",
+            "ns2.markmonitor.com",
+            "ns3.markmonitor.com",
+            "ns4.markmonitor.com",
+            "ns5.markmonitor.com",
+            "ns6.markmonitor.com",
+            "ns7.markmonitor.com"
+        ],
+        "source": [
+            {
+                "method": "Whois",
+                "link": "",
+                "notes": "",
+                "time": "2024-04-04T15:10:10+02:00"
+            },
+            {
+                "method": "RecordScan",
+                "link": "",
+                "notes": "",
+                "time": "2024-03-15T20:45:00+01:00"
+            }
+        ]
+    },
+    "records": {},
+    "unofficialRecords": {
+        "A": 2203,
+        "AAAA": 30,
+        "CAA": 64,
+        "DMARC": 291,
+        "MX": 1,
+        "NS": 2349
+    },
+    "domains": 2349,
+    "percent": 0.0023490211411902706
+}

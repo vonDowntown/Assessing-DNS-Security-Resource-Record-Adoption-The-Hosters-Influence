@@ -1,0 +1,82 @@
+{
+    "registrar": {
+        "_id": "6653c30921adb890f4515067",
+        "name": "1984 ehf.",
+        "domain": "https://1984.hosting/",
+        "supportedRecordTypes": [
+            "A",
+            "AAAA",
+            "CAA",
+            "CNAME",
+            "MX",
+            "SRV",
+            "TXT",
+            "SSHFP",
+            "TLSA"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns0.1984.is",
+            "ns1.1984.is",
+            "ns2.1984.is",
+            "ns1.1984hosting.com",
+            "ns2.1984hosting.com"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://1984.is/",
+                "notes": "general info islandic hosting-> link to .hosting for translation",
+                "time": "2024-05-11T18:54:36+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://1984.hosting/",
+                "notes": "general info  english site",
+                "time": "2024-05-11T18:54:36+02:00"
+            },
+            {
+                "method": "Whois",
+                "link": "1984.is",
+                "notes": "",
+                "time": "2024-05-11T18:55:33+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://1984.hosting/product/freedns/",
+                "notes": "A, AAAA, CAA, CNAME, MX, SRV, TXT, SSHFP, TLSA and support for DNSSEC, Web redirects and Dynamic DNS",
+                "time": "2024-05-11T19:01:36+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://kb.1984hosting.com/doku.php?id=freedns",
+                "notes": "nameserver: ns0.1984.is, ns1.1984.is, ns2.1984.is, ns1.1984hosting.com, ns2.1984hosting.com, ",
+                "time": "2024-05-11T19:09:55+02:00"
+            }
+        ],
+        "notes": "no DNSSEC documentation, How supported unclear"
+    },
+    "records": {
+        "A": 119,
+        "AAAA": 18,
+        "CAA": 9,
+        "CNAME": 0,
+        "MX": 0,
+        "SRV": 0,
+        "TXT": 0,
+        "SSHFP": 0,
+        "TLSA": 0
+    },
+    "unofficialRecords": {
+        "CDNSKEY": 5,
+        "CDS": 6,
+        "DMARC": 27,
+        "DNSKEY": 4,
+        "DS": 5,
+        "NS": 125
+    },
+    "domains": 125,
+    "percent": 0.0001250011250101251
+}

@@ -1,0 +1,110 @@
+{
+    "registrar": {
+        "_id": "6653c30921adb890f451505b",
+        "name": "Wix.com, Inc",
+        "domain": "wix.com",
+        "supportedRecordTypes": [
+            "A",
+            "CNAME",
+            "MX",
+            "TXT",
+            "SPF",
+            "SRV",
+            "NS"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns0.wixdns.net",
+            "ns1.wixdns.net",
+            "ns2.wixdns.net",
+            "ns3.wixdns.net",
+            "ns4.wixdns.net",
+            "ns5.wixdns.net",
+            "ns6.wixdns.net",
+            "ns7.wixdns.net",
+            "ns8.wixdns.net",
+            "ns9.wixdns.net",
+            "ns10.wixdns.net",
+            "ns11.wixdns.net",
+            "ns12.wixdns.net",
+            "ns13.wixdns.net",
+            "ns14.wixdns.net",
+            "ns15.wixdns.net"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://support.wix.com/de/article/eine-domain-mit-den-nameservern-von-wix-verbinden",
+                "notes": "general info and nameserver: ns'.wixdns.net",
+                "time": "2024-04-16T15:58:54+02:00"
+            },
+            {
+                "method": "RecordScan",
+                "link": "",
+                "notes": "wixdns.net as nameserver",
+                "time": "2024-04-16T15:06:09+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://support.wix.com/de/article/einen-mx-eintrag-hinzufuegen-oder-aktualisieren",
+                "notes": "MX",
+                "time": "2024-04-16T17:34:42+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://support.wix.com/de/article/a-eintr%C3%A4ge-in-deinem-konto-bei-wix-hinzuf%C3%BCgen-oder-aktualisieren",
+                "notes": "A",
+                "time": "2024-04-16T17:34:42+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://support.wix.com/de/article/einen-txt-eintrag-hinzufuegen-oder-aendern",
+                "notes": "TXT",
+                "time": "2024-04-16T17:34:42+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://support.wix.com/de/article/einen-srv-eintrag-hinzufuegen-oder-aendern",
+                "notes": "SRV",
+                "time": "2024-04-16T17:34:42+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://support.wix.com/de/article/dns-eintr%C3%A4ge-in-deinem-konto-bei-wix-verwalten",
+                "notes": "H\u00e4ufig gestelte Fragen: A, CNAME, MX, TXT, SPF, SRV, NS",
+                "time": "2024-04-16T17:34:42+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://support.wix.com/de/article/dkim-eintrag-txt-hinzuf%C3%BCgen",
+                "notes": "DKIM",
+                "time": "2024-04-16T17:39:02+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://support.wix.com/de/article/funktionsvorschlag-dnssec-zu-websites-von-wix-hinzuf%C3%BCgen",
+                "notes": "kein DNSSEC",
+                "time": "2024-04-16T17:39:38+02:00"
+            }
+        ]
+    },
+    "records": {
+        "A": 842,
+        "CNAME": 0,
+        "MX": 1,
+        "TXT": 0,
+        "SPF": 0,
+        "SRV": 0,
+        "NS": 843
+    },
+    "unofficialRecords": {
+        "CAA": 1,
+        "CDS": 74,
+        "DMARC": 69,
+        "DNSKEY": 32
+    },
+    "domains": 843,
+    "percent": 0.0008430075870682836
+}

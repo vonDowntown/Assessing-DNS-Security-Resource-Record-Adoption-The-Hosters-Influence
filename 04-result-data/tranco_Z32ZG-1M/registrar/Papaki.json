@@ -1,0 +1,85 @@
+{
+    "registrar": {
+        "_id": "6653c30921adb890f4515030",
+        "name": "Papaki",
+        "domain": "papaki.com",
+        "supportedRecordTypes": [
+            "A",
+            "MX",
+            "CNAME",
+            "TXT",
+            "AAAA",
+            "SRV",
+            "DS"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns180.papaki.gr",
+            "ns280.papaki.gr",
+            "dns1.papaki.gr",
+            "dns2.papaki.gr"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://support.papaki.com/help/what-is-dns-hosting-services/?lang=en",
+                "notes": "A, MX  and CNAME records",
+                "time": "2024-03-31T20:48:00+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://cdn.papaki.com/sites/all/themes/papaki3/n/freedns/img/dns2.jpg?_=9fkds",
+                "notes": "picture of ui: lists A, MX, CNAME, TXT, AAAA, SRV",
+                "time": "2024-03-31T20:50:00+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://support.papaki.com/help/connect-your-email-with-the-dns-service/?lang=en",
+                "notes": "lists nameservers in example screenshots",
+                "time": "2024-03-31T20:56:00+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "",
+                "notes": "",
+                "time": "2024-03-15T20:37:00+01:00"
+            },
+            {
+                "method": "Whois",
+                "link": "",
+                "notes": "",
+                "time": "2024-03-19T15:07:35+01:00"
+            },
+            {
+                "method": "RecordScan",
+                "link": "",
+                "notes": "",
+                "time": "2024-03-15T20:45:00+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://support.papaki.com/help/what-is-dnssec-and-how-do-i-use-it-manual-installation/?lang=en",
+                "notes": "DNSSEC: DS record ",
+                "time": "2024-05-20T14:14:00+02:00"
+            }
+        ]
+    },
+    "records": {
+        "A": 137,
+        "MX": 0,
+        "CNAME": 0,
+        "TXT": 0,
+        "AAAA": 3,
+        "SRV": 0,
+        "DS": 4
+    },
+    "unofficialRecords": {
+        "DMARC": 16,
+        "DNSKEY": 4,
+        "NS": 147
+    },
+    "domains": 147,
+    "percent": 0.0001470013230119071
+}

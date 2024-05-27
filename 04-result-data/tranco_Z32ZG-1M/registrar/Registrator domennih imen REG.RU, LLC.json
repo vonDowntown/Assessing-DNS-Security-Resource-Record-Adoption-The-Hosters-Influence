@@ -1,0 +1,86 @@
+{
+    "registrar": {
+        "_id": "6653c30921adb890f4515049",
+        "name": "Registrator domennih imen REG.RU, LLC",
+        "domain": "www.reg.ru",
+        "supportedRecordTypes": [
+            "A",
+            "AAAA",
+            "CNAME",
+            "MX",
+            "NS",
+            "TXT",
+            "SRV",
+            "CAA"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns1.reg.ru",
+            "ns2.reg.ru",
+            "ns1.hosting.reg.ru",
+            "ns2.hosting.reg.ru",
+            "ns5.hosting.reg.ru",
+            "ns6.hosting.reg.ru",
+            "ns1.expired.reg.ru",
+            "ns2.expired.reg.ru"
+        ],
+        "source": [
+            {
+                "method": "Whois",
+                "link": "reg.ru",
+                "notes": "Name, ns1.reg.ru and ns2.reg.ru",
+                "time": "2024-04-11T17:31:51+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://help.reg.ru/support/dns-servery-i-nastroyka-zony/obshchaya-informatsiya-o-dns-serverakh/v-chem-raznitsa-mezhdu-dns-serverami-ns1-reg-ru-ns2-reg-ru-i-ns1-hosting-reg-ru-ns2-hosting-reg-ru",
+                "notes": "ns1.reg.ru and ns2.reg.ru and ns1.hosting.reg.ru and ns2.hosting.reg.ru",
+                "time": "2024-04-11T17:37:09+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://help.reg.ru/support/dns-servery-i-nastroyka-zony/nastroyka-resursnykh-zapisey-dns/nastroyka-resursnykh-zapisey-v-lichnom-kabinete#0",
+                "notes": "DNS records on ns*.reg.ru: A, AAAA, CNAME, MX, NS, TXT, SRV, CAA",
+                "time": "2024-04-11T17:39:50+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://help.reg.ru/support/dns-servery-i-nastroyka-zony/nastroyka-resursnykh-zapisey-dns/nastroyka-resursnykh-zapisey-na-hostinge#0",
+                "notes": "DNS records on ns*.hosting.reg.ru: A, AAAA, CNAME, MX, TXT",
+                "time": "2024-04-11T17:41:35+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://help.reg.ru/support/dns-servery-i-nastroyka-zony/obshchaya-informatsiya-o-dns-serverakh/kakiye-dns-servery-propisat-dlya-domena",
+                "notes": "nameservers: ns5.hosting.reg.ru and ns6.hosting.reg.ru",
+                "time": "2024-04-11T17:52:05+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://help.reg.ru/support/domains/spravka-po-domennym-zonam/domennaya-zona-ru#1",
+                "notes": "ns1.expired.reg.ru and ns2.expired.reg.ru for expired domains",
+                "time": "2024-04-11T17:52:15+02:00"
+            }
+        ],
+        "notes": "What is ns1.shop.reg.ru?"
+    },
+    "records": {
+        "A": 4586,
+        "AAAA": 1239,
+        "CNAME": 0,
+        "MX": 2,
+        "NS": 4736,
+        "TXT": 0,
+        "SRV": 0,
+        "CAA": 33
+    },
+    "unofficialRecords": {
+        "DMARC": 303,
+        "DNSKEY": 3,
+        "DS": 6
+    },
+    "domains": 4736,
+    "percent": 0.00473604262438362
+}

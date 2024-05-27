@@ -1,0 +1,50 @@
+{
+    "registrar": {
+        "_id": "6653c30921adb890f451503f",
+        "name": "Hover",
+        "domain": "www.hover.com",
+        "supportedRecordTypes": [
+            "A",
+            "AAAA",
+            "CNAME",
+            "MX",
+            "TXT",
+            "SRV"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns1.hover.com",
+            "ns2.hover.com"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://help.hover.com/hc/en-us/articles/217282457-Managing-DNS-records",
+                "notes": "records",
+                "time": "2024-04-04T20:34:32+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://help.hover.com/hc/en-us/articles/217282477--Changing-your-domain-nameservers",
+                "notes": "nameservers",
+                "time": "2024-04-04T20:35:02+02:00"
+            }
+        ]
+    },
+    "records": {
+        "A": 767,
+        "AAAA": 53,
+        "CNAME": 0,
+        "MX": 0,
+        "TXT": 0,
+        "SRV": 0
+    },
+    "unofficialRecords": {
+        "DMARC": 104,
+        "NS": 796
+    },
+    "domains": 796,
+    "percent": 0.0007960071640644766
+}

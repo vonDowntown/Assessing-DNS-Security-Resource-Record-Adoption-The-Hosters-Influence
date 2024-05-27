@@ -1,0 +1,107 @@
+{
+    "registrar": {
+        "_id": "6653c30921adb890f4515037",
+        "name": "DNS Made Easy by DigiCert, Inc. ",
+        "domain": "dnsmadeeasy.com",
+        "supportedRecordTypes": [
+            "A",
+            "AAAA",
+            "ANAME",
+            "CAA",
+            "CNAME",
+            "TXT",
+            "DKIM",
+            "DMARC",
+            "HTTPRED",
+            "NS",
+            "PTR",
+            "SOA",
+            "SPF",
+            "SRV"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns0.dnsmadeeasy.com",
+            "ns1.dnsmadeeasy.com",
+            "ns2.dnsmadeeasy.com",
+            "ns3.dnsmadeeasy.com",
+            "ns4.dnsmadeeasy.com",
+            "ns5.dnsmadeeasy.com",
+            "ns6.dnsmadeeasy.com",
+            "ns7.dnsmadeeasy.com",
+            "ns8.dnsmadeeasy.com",
+            "ns9.dnsmadeeasy.com",
+            "ns10.dnsmadeeasy.com",
+            "ns11.dnsmadeeasy.com",
+            "ns12.dnsmadeeasy.com",
+            "ns13.dnsmadeeasy.com",
+            "ns14.dnsmadeeasy.com",
+            "ns15.dnsmadeeasy.com"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://dnsmadeeasy.com",
+                "notes": "general info",
+                "time": "2024-04-16T14:51:45+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://support.dnsmadeeasy.com/support/solutions/folders/47000695640/page/1",
+                "notes": "A, AAAA, ANAME, CAA, CNAME, TXT, DKIM, DMARC, HTTP Redirect Record(HTTPRED)",
+                "time": "2024-04-16T14:56:11+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://support.dnsmadeeasy.com/support/solutions/folders/47000695640/page/2",
+                "notes": "NS, 'Null MX'(MX RR), PTR, SOA, SPF, SRV, ANAME ",
+                "time": "2024-04-16T14:56:42+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://support.dnsmadeeasy.com/support/solutions/articles/47001001437-http-redirection-record",
+                "notes": "fancy redirect record",
+                "time": "2024-04-16T14:55:56+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://dnsmadeeasy.com/support/faq",
+                "notes": "ns5-ns7.dnsmadeeasy.com",
+                "time": "2024-04-16T15:01:43+02:00"
+            },
+            {
+                "method": "RecordScan",
+                "link": "",
+                "notes": "ns0.dnsmadeeasy.com - ns15.dnsmadeeasy.com",
+                "time": "2024-04-16T15:01:43+02:00"
+            }
+        ]
+    },
+    "records": {
+        "A": 5369,
+        "AAAA": 186,
+        "ANAME": 0,
+        "CAA": 407,
+        "CNAME": 0,
+        "TXT": 0,
+        "DKIM": 0,
+        "DMARC": 1208,
+        "HTTPRED": 0,
+        "NS": 5744,
+        "PTR": 0,
+        "SOA": 0,
+        "SPF": 0,
+        "SRV": 0
+    },
+    "unofficialRecords": {
+        "CDNSKEY": 42,
+        "CDS": 39,
+        "DNSKEY": 18,
+        "DS": 15,
+        "MX": 5
+    },
+    "domains": 5744,
+    "percent": 0.005744051696465268
+}
