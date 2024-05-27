@@ -1,0 +1,26 @@
+{
+    "missing_in_dnspython": [
+        "DKIM",
+        "DMARC"
+    ],
+    "missing_in_PowerDNS": [
+        "DKIM",
+        "DMARC",
+        "HIP",
+        "ISDN",
+        "NINFO",
+        "SIG",
+        "TA",
+        "WKS"
+    ],
+    "missing_overall": [
+        "HIP",
+        "TA",
+        "WKS",
+        "ISDN",
+        "DMARC",
+        "SIG",
+        "NINFO",
+        "DKIM"
+    ]
+}
