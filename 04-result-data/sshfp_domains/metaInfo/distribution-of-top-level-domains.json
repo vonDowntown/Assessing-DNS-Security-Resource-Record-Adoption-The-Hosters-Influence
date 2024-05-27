@@ -1,0 +1,1652 @@
+[
+    {
+        "tld": "com",
+        "count": 1920,
+        "percent": 0.2740117025831312
+    },
+    {
+        "tld": "net",
+        "count": 665,
+        "percent": 0.09490509490509491
+    },
+    {
+        "tld": "org",
+        "count": 519,
+        "percent": 0.07406878835450265
+    },
+    {
+        "tld": "de",
+        "count": 441,
+        "percent": 0.06293706293706294
+    },
+    {
+        "tld": "nl",
+        "count": 200,
+        "percent": 0.028542885685742828
+    },
+    {
+        "tld": "gr",
+        "count": 171,
+        "percent": 0.024404167261310117
+    },
+    {
+        "tld": "eu",
+        "count": 169,
+        "percent": 0.02411873840445269
+    },
+    {
+        "tld": "fr",
+        "count": 168,
+        "percent": 0.023976023976023976
+    },
+    {
+        "tld": "co.uk",
+        "count": 139,
+        "percent": 0.019837305551591265
+    },
+    {
+        "tld": "cz",
+        "count": 119,
+        "percent": 0.016983016983016984
+    },
+    {
+        "tld": "email",
+        "count": 81,
+        "percent": 0.011559868702725845
+    },
+    {
+        "tld": "me",
+        "count": 78,
+        "percent": 0.011131725417439703
+    },
+    {
+        "tld": "co.id",
+        "count": 76,
+        "percent": 0.010846296560582275
+    },
+    {
+        "tld": "xyz",
+        "count": 74,
+        "percent": 0.010560867703724847
+    },
+    {
+        "tld": "pl",
+        "count": 68,
+        "percent": 0.009704581133152562
+    },
+    {
+        "tld": "info",
+        "count": 66,
+        "percent": 0.009419152276295133
+    },
+    {
+        "tld": "it",
+        "count": 64,
+        "percent": 0.009133723419437705
+    },
+    {
+        "tld": "dev",
+        "count": 62,
+        "percent": 0.008848294562580277
+    },
+    {
+        "tld": "hu",
+        "count": 62,
+        "percent": 0.008848294562580277
+    },
+    {
+        "tld": "se",
+        "count": 62,
+        "percent": 0.008848294562580277
+    },
+    {
+        "tld": "uk",
+        "count": 61,
+        "percent": 0.008705580134151562
+    },
+    {
+        "tld": "dk",
+        "count": 60,
+        "percent": 0.00856286570572285
+    },
+    {
+        "tld": "ch",
+        "count": 57,
+        "percent": 0.008134722420436707
+    },
+    {
+        "tld": "ca",
+        "count": 55,
+        "percent": 0.007849293563579277
+    },
+    {
+        "tld": "io",
+        "count": 54,
+        "percent": 0.007706579135150563
+    },
+    {
+        "tld": "us",
+        "count": 49,
+        "percent": 0.006993006993006993
+    },
+    {
+        "tld": "org.uk",
+        "count": 44,
+        "percent": 0.006279434850863423
+    },
+    {
+        "tld": "co.nz",
+        "count": 44,
+        "percent": 0.006279434850863423
+    },
+    {
+        "tld": "lt",
+        "count": 42,
+        "percent": 0.005994005994005994
+    },
+    {
+        "tld": "ru",
+        "count": 40,
+        "percent": 0.005708577137148565
+    },
+    {
+        "tld": "com.au",
+        "count": 36,
+        "percent": 0.005137719423433709
+    },
+    {
+        "tld": "fi",
+        "count": 35,
+        "percent": 0.004995004995004995
+    },
+    {
+        "tld": "ro",
+        "count": 34,
+        "percent": 0.004852290566576281
+    },
+    {
+        "tld": "be",
+        "count": 33,
+        "percent": 0.004709576138147566
+    },
+    {
+        "tld": "in",
+        "count": 29,
+        "percent": 0.00413871842443271
+    },
+    {
+        "tld": "id",
+        "count": 27,
+        "percent": 0.0038532895675752817
+    },
+    {
+        "tld": "tech",
+        "count": 26,
+        "percent": 0.0037105751391465678
+    },
+    {
+        "tld": "cloud",
+        "count": 25,
+        "percent": 0.0035678607107178534
+    },
+    {
+        "tld": "es",
+        "count": 25,
+        "percent": 0.0035678607107178534
+    },
+    {
+        "tld": "at",
+        "count": 23,
+        "percent": 0.0032824318538604252
+    },
+    {
+        "tld": "com.br",
+        "count": 22,
+        "percent": 0.0031397174254317113
+    },
+    {
+        "tld": "desa.id",
+        "count": 21,
+        "percent": 0.002997002997002997
+    },
+    {
+        "tld": "co",
+        "count": 20,
+        "percent": 0.0028542885685742827
+    },
+    {
+        "tld": "biz",
+        "count": 18,
+        "percent": 0.0025688597117168544
+    },
+    {
+        "tld": "name",
+        "count": 18,
+        "percent": 0.0025688597117168544
+    },
+    {
+        "tld": "sk",
+        "count": 17,
+        "percent": 0.0024261452832881406
+    },
+    {
+        "tld": "space",
+        "count": 14,
+        "percent": 0.001998001998001998
+    },
+    {
+        "tld": "cl",
+        "count": 13,
+        "percent": 0.0018552875695732839
+    },
+    {
+        "tld": "no",
+        "count": 13,
+        "percent": 0.0018552875695732839
+    },
+    {
+        "tld": "cc",
+        "count": 13,
+        "percent": 0.0018552875695732839
+    },
+    {
+        "tld": "ovh",
+        "count": 12,
+        "percent": 0.0017125731411445698
+    },
+    {
+        "tld": "web.id",
+        "count": 12,
+        "percent": 0.0017125731411445698
+    },
+    {
+        "tld": "live",
+        "count": 12,
+        "percent": 0.0017125731411445698
+    },
+    {
+        "tld": "ml",
+        "count": 12,
+        "percent": 0.0017125731411445698
+    },
+    {
+        "tld": "dz",
+        "count": 12,
+        "percent": 0.0017125731411445698
+    },
+    {
+        "tld": "jp",
+        "count": 12,
+        "percent": 0.0017125731411445698
+    },
+    {
+        "tld": "app",
+        "count": 12,
+        "percent": 0.0017125731411445698
+    },
+    {
+        "tld": "com.ar",
+        "count": 11,
+        "percent": 0.0015698587127158557
+    },
+    {
+        "tld": "ee",
+        "count": 11,
+        "percent": 0.0015698587127158557
+    },
+    {
+        "tld": "rs",
+        "count": 11,
+        "percent": 0.0015698587127158557
+    },
+    {
+        "tld": "mx",
+        "count": 11,
+        "percent": 0.0015698587127158557
+    },
+    {
+        "tld": "online",
+        "count": 10,
+        "percent": 0.0014271442842871413
+    },
+    {
+        "tld": "one",
+        "count": 10,
+        "percent": 0.0014271442842871413
+    },
+    {
+        "tld": "li",
+        "count": 10,
+        "percent": 0.0014271442842871413
+    },
+    {
+        "tld": "pro",
+        "count": 9,
+        "percent": 0.0012844298558584272
+    },
+    {
+        "tld": "tk",
+        "count": 9,
+        "percent": 0.0012844298558584272
+    },
+    {
+        "tld": "re",
+        "count": 9,
+        "percent": 0.0012844298558584272
+    },
+    {
+        "tld": "network",
+        "count": 9,
+        "percent": 0.0012844298558584272
+    },
+    {
+        "tld": "moe",
+        "count": 9,
+        "percent": 0.0012844298558584272
+    },
+    {
+        "tld": "edu",
+        "count": 9,
+        "percent": 0.0012844298558584272
+    },
+    {
+        "tld": "systems",
+        "count": 9,
+        "percent": 0.0012844298558584272
+    },
+    {
+        "tld": "nu",
+        "count": 9,
+        "percent": 0.0012844298558584272
+    },
+    {
+        "tld": "nz",
+        "count": 9,
+        "percent": 0.0012844298558584272
+    },
+    {
+        "tld": "family",
+        "count": 9,
+        "percent": 0.0012844298558584272
+    },
+    {
+        "tld": "com.pl",
+        "count": 9,
+        "percent": 0.0012844298558584272
+    },
+    {
+        "tld": "com.co",
+        "count": 8,
+        "percent": 0.0011417154274297131
+    },
+    {
+        "tld": "site",
+        "count": 8,
+        "percent": 0.0011417154274297131
+    },
+    {
+        "tld": "ninja",
+        "count": 8,
+        "percent": 0.0011417154274297131
+    },
+    {
+        "tld": "lv",
+        "count": 8,
+        "percent": 0.0011417154274297131
+    },
+    {
+        "tld": "or.id",
+        "count": 8,
+        "percent": 0.0011417154274297131
+    },
+    {
+        "tld": "wtf",
+        "count": 8,
+        "percent": 0.0011417154274297131
+    },
+    {
+        "tld": "art",
+        "count": 8,
+        "percent": 0.0011417154274297131
+    },
+    {
+        "tld": "club",
+        "count": 8,
+        "percent": 0.0011417154274297131
+    },
+    {
+        "tld": "me.uk",
+        "count": 8,
+        "percent": 0.0011417154274297131
+    },
+    {
+        "tld": "id.au",
+        "count": 7,
+        "percent": 0.000999000999000999
+    },
+    {
+        "tld": "org.au",
+        "count": 7,
+        "percent": 0.000999000999000999
+    },
+    {
+        "tld": "ga",
+        "count": 7,
+        "percent": 0.000999000999000999
+    },
+    {
+        "tld": "sch.id",
+        "count": 7,
+        "percent": 0.000999000999000999
+    },
+    {
+        "tld": "work",
+        "count": 7,
+        "percent": 0.000999000999000999
+    },
+    {
+        "tld": "im",
+        "count": 6,
+        "percent": 0.0008562865705722849
+    },
+    {
+        "tld": "co.za",
+        "count": 6,
+        "percent": 0.0008562865705722849
+    },
+    {
+        "tld": "pw",
+        "count": 6,
+        "percent": 0.0008562865705722849
+    },
+    {
+        "tld": "net.au",
+        "count": 6,
+        "percent": 0.0008562865705722849
+    },
+    {
+        "tld": "lol",
+        "count": 5,
+        "percent": 0.0007135721421435707
+    },
+    {
+        "tld": "today",
+        "count": 5,
+        "percent": 0.0007135721421435707
+    },
+    {
+        "tld": "top",
+        "count": 5,
+        "percent": 0.0007135721421435707
+    },
+    {
+        "tld": "su",
+        "count": 5,
+        "percent": 0.0007135721421435707
+    },
+    {
+        "tld": "pm",
+        "count": 5,
+        "percent": 0.0007135721421435707
+    },
+    {
+        "tld": "tv",
+        "count": 5,
+        "percent": 0.0007135721421435707
+    },
+    {
+        "tld": "ac",
+        "count": 5,
+        "percent": 0.0007135721421435707
+    },
+    {
+        "tld": "group",
+        "count": 4,
+        "percent": 0.0005708577137148566
+    },
+    {
+        "tld": "com.es",
+        "count": 4,
+        "percent": 0.0005708577137148566
+    },
+    {
+        "tld": "link",
+        "count": 4,
+        "percent": 0.0005708577137148566
+    },
+    {
+        "tld": "is",
+        "count": 4,
+        "percent": 0.0005708577137148566
+    },
+    {
+        "tld": "team",
+        "count": 4,
+        "percent": 0.0005708577137148566
+    },
+    {
+        "tld": "website",
+        "count": 4,
+        "percent": 0.0005708577137148566
+    },
+    {
+        "tld": "asia",
+        "count": 4,
+        "percent": 0.0005708577137148566
+    },
+    {
+        "tld": "fun",
+        "count": 4,
+        "percent": 0.0005708577137148566
+    },
+    {
+        "tld": "ac.uk",
+        "count": 4,
+        "percent": 0.0005708577137148566
+    },
+    {
+        "tld": "pub",
+        "count": 4,
+        "percent": 0.0005708577137148566
+    },
+    {
+        "tld": "mk",
+        "count": 4,
+        "percent": 0.0005708577137148566
+    },
+    {
+        "tld": "lu",
+        "count": 4,
+        "percent": 0.0005708577137148566
+    },
+    {
+        "tld": "si",
+        "count": 4,
+        "percent": 0.0005708577137148566
+    },
+    {
+        "tld": "ac.id",
+        "count": 4,
+        "percent": 0.0005708577137148566
+    },
+    {
+        "tld": "org.nz",
+        "count": 4,
+        "percent": 0.0005708577137148566
+    },
+    {
+        "tld": "win",
+        "count": 4,
+        "percent": 0.0005708577137148566
+    },
+    {
+        "tld": "codes",
+        "count": 4,
+        "percent": 0.0005708577137148566
+    },
+    {
+        "tld": "ws",
+        "count": 4,
+        "percent": 0.0005708577137148566
+    },
+    {
+        "tld": "com.mx",
+        "count": 4,
+        "percent": 0.0005708577137148566
+    },
+    {
+        "tld": "host",
+        "count": 3,
+        "percent": 0.00042814328528614244
+    },
+    {
+        "tld": "services",
+        "count": 3,
+        "percent": 0.00042814328528614244
+    },
+    {
+        "tld": "solutions",
+        "count": 3,
+        "percent": 0.00042814328528614244
+    },
+    {
+        "tld": "science",
+        "count": 3,
+        "percent": 0.00042814328528614244
+    },
+    {
+        "tld": "moscow",
+        "count": 3,
+        "percent": 0.00042814328528614244
+    },
+    {
+        "tld": "cx",
+        "count": 3,
+        "percent": 0.00042814328528614244
+    },
+    {
+        "tld": "so",
+        "count": 3,
+        "percent": 0.00042814328528614244
+    },
+    {
+        "tld": "tg",
+        "count": 3,
+        "percent": 0.00042814328528614244
+    },
+    {
+        "tld": "sh",
+        "count": 3,
+        "percent": 0.00042814328528614244
+    },
+    {
+        "tld": "my.id",
+        "count": 3,
+        "percent": 0.00042814328528614244
+    },
+    {
+        "tld": "cy",
+        "count": 3,
+        "percent": 0.00042814328528614244
+    },
+    {
+        "tld": "cyou",
+        "count": 3,
+        "percent": 0.00042814328528614244
+    },
+    {
+        "tld": "company",
+        "count": 3,
+        "percent": 0.00042814328528614244
+    },
+    {
+        "tld": "hk",
+        "count": 3,
+        "percent": 0.00042814328528614244
+    },
+    {
+        "tld": "bg",
+        "count": 3,
+        "percent": 0.00042814328528614244
+    },
+    {
+        "tld": "waw.pl",
+        "count": 3,
+        "percent": 0.00042814328528614244
+    },
+    {
+        "tld": "co.in",
+        "count": 3,
+        "percent": 0.00042814328528614244
+    },
+    {
+        "tld": "net.nz",
+        "count": 3,
+        "percent": 0.00042814328528614244
+    },
+    {
+        "tld": "com.sg",
+        "count": 3,
+        "percent": 0.00042814328528614244
+    },
+    {
+        "tld": "mobi",
+        "count": 3,
+        "percent": 0.00042814328528614244
+    },
+    {
+        "tld": "ax",
+        "count": 3,
+        "percent": 0.00042814328528614244
+    },
+    {
+        "tld": "vip",
+        "count": 3,
+        "percent": 0.00042814328528614244
+    },
+    {
+        "tld": "land",
+        "count": 3,
+        "percent": 0.00042814328528614244
+    },
+    {
+        "tld": "nyc",
+        "count": 3,
+        "percent": 0.00042814328528614244
+    },
+    {
+        "tld": "pt",
+        "count": 3,
+        "percent": 0.00042814328528614244
+    },
+    {
+        "tld": "store",
+        "count": 3,
+        "percent": 0.00042814328528614244
+    },
+    {
+        "tld": "ltd",
+        "count": 3,
+        "percent": 0.00042814328528614244
+    },
+    {
+        "tld": "digital",
+        "count": 3,
+        "percent": 0.00042814328528614244
+    },
+    {
+        "tld": "tw",
+        "count": 3,
+        "percent": 0.00042814328528614244
+    },
+    {
+        "tld": "ir",
+        "count": 3,
+        "percent": 0.00042814328528614244
+    },
+    {
+        "tld": "cn",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "do",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "co.ke",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "co.jp",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "com.ua",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "tn",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "agency",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "immo",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "wales",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "al",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "vision",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "wf",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "cf",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "farm",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "ly",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "fm",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "world",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "pizza",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "dev.br",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "community",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "ski",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "net.uk",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "com.tr",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "gy",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "zone",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "design",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "tel",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "bz",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "bzh",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "works",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "studio",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "ac.za",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "idv.tw",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "stream",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "bayern",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "gs",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "rocks",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "scot",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "museum",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "com.ve",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "social",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "expert",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "wiki",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "best",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "pk",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "technology",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "net.br",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "house",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "ai",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "earth",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "net.pl",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "sx",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "co.il",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "shop",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "coop",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "ba",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "org.za",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "international",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "business",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "or.at",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "by",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "or.jp",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "to",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "click",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "rent",
+        "count": 2,
+        "percent": 0.0002854288568574283
+    },
+    {
+        "tld": "pub.sa",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "go.id",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "edu.pl",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "hr",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "vote",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "kitchen",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "law",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "treviso.it",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "melbourne",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "com.gr",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "com.eg",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "org.es",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "com.ni",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "icu",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "center",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "cafe",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "ky",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "com.ng",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "money",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "sa",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "garden",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "org.in",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "ac.th",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "com.pk",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "ac.cn",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "events",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "eti.br",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "blue",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "ist",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "com.cn",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "as",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "pink",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "com.bd",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "berlin",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "bio",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "builders",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "media",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "cam",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "ca.us",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "soy",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "page",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "la",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "sg",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "engineering",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "ne.jp",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "ink",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "bar",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "engineer",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "tj",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "education",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "sbs",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "band",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "co.at",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "ie",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "consulting",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "com.hk",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "koeln",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "computer",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "catering",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "co.rs",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "software",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "faith",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "training",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "om",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "co.th",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "black",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "navy",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "red",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "gen.nz",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "gov",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "casa",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "monster",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "fyi",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "domains",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "foundation",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "vu",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "qa",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "kim",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "tc",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "industries",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "help",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "beer",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "ae",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "eng.br",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "amsterdam",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "wroclaw.pl",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "ac.at",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "co.bw",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "qc.ca",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "guru",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "tools",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "xn--qxam",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "rotherham.sch.uk",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "tokyo",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "cab",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "arq.br",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "gq",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "run",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "taipei",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "pictures",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "style",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "kiev.ua",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "nom.es",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "sc",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "from.hr",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "care",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "tf",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "photos",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "institute",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "plus",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "gmbh",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "uno",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "mb.ca",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "blog",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "geek.nz",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    },
+    {
+        "tld": "llc",
+        "count": 1,
+        "percent": 0.00014271442842871414
+    }
+]

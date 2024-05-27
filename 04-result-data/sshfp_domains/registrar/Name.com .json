@@ -1,0 +1,57 @@
+{
+    "registrar": {
+        "_id": "6653cbee86427d6716d419f9",
+        "name": "Name.com ",
+        "domain": "name.com",
+        "supportedRecordTypes": [
+            "A",
+            "CNAME",
+            "MX",
+            "TXT"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns1.name.com",
+            "ns2.name.com",
+            "ns3.name.com",
+            "ns4.name.com"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "name.com",
+                "notes": "general info",
+                "time": "2024-04-28T13:02:51+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.name.com/de-de/support/articles/205516858-understanding-dns-record-types",
+                "notes": "A, CNAME MX, TXT",
+                "time": "2024-04-28T13:03:41+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.name.com/de-de/support/articles/360011979333-dnssec-faq",
+                "notes": "no DNSSEC",
+                "time": "2024-04-28T13:05:12+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.name.com/de-de/support/articles/205188648-using-name-com-s-default-nameservers",
+                "notes": "ns1.name.com ns2.name.com ns3.name.com ns4.name.com in picture",
+                "time": "2024-04-28T13:06:25+02:00"
+            }
+        ]
+    },
+    "records": {
+        "A": 0,
+        "CNAME": 0,
+        "MX": 0,
+        "TXT": 0
+    },
+    "unofficialRecords": {},
+    "domains": 0,
+    "percent": 0.0
+}

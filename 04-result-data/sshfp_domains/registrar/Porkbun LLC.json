@@ -1,0 +1,81 @@
+{
+    "registrar": {
+        "_id": "6653cbee86427d6716d419db",
+        "name": "Porkbun LLC",
+        "domain": "https://porkbun.com/",
+        "supportedRecordTypes": [
+            "A",
+            "AAAA",
+            "MX",
+            "CNAME",
+            "ALIAS",
+            "TXT",
+            "NS",
+            "SRV"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "curitiba.ns.porkbun.com",
+            "fortaleza.ns.porkbun.com",
+            "maceio.ns.porkbun.com",
+            "salvador.ns.porkbun.com"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://porkbun.com/",
+                "notes": "Website and name",
+                "time": "2024-04-05T00:35:18+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://kb.porkbun.com/article/231-how-to-add-dns-records-on-porkbun",
+                "notes": "DNS records",
+                "time": "2024-04-05T00:38:17+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://kb.porkbun.com/article/63-how-to-switch-to-porkbuns-nameservers",
+                "notes": "nameserver",
+                "time": "2024-04-05T00:40:48+02:00"
+            },
+            {
+                "method": "Whois",
+                "link": "",
+                "notes": "",
+                "time": "2024-03-19T15:07:35+01:00"
+            },
+            {
+                "method": "RecordScan",
+                "link": "",
+                "notes": "",
+                "time": "2024-03-15T20:45:00+01:00"
+            }
+        ]
+    },
+    "records": {
+        "A": 14,
+        "AAAA": 1,
+        "MX": 9,
+        "CNAME": 0,
+        "ALIAS": 0,
+        "TXT": 8,
+        "NS": 17,
+        "SRV": 0
+    },
+    "unofficialRecords": {
+        "CAA": 2,
+        "CDNSKEY": 3,
+        "CDS": 3,
+        "DMARC": 6,
+        "DNSKEY": 3,
+        "DS": 5,
+        "NSEC": 3,
+        "SOA": 17,
+        "SPF": 8
+    },
+    "domains": 17,
+    "percent": 0.0024261452832881406
+}

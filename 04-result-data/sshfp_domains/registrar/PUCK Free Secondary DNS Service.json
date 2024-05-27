@@ -1,0 +1,56 @@
+{
+    "registrar": {
+        "_id": "6653cbed86427d6716d419b5",
+        "name": "PUCK Free Secondary DNS Service",
+        "domain": "nether.net",
+        "supportedRecordTypes": [],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "puck.nether.net"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://puck.nether.net/dns/static/faq.html",
+                "notes": "FREE secondary service, no primary service, puck.nether.net as NSserver",
+                "time": "2024-02-26T00:00:00+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://puck.nether.net/dns/login",
+                "notes": "PUCK Free Secondary DNS Service Homepage",
+                "time": "2024-02-26T00:00:00+01:00"
+            }
+        ],
+        "notes": ""
+    },
+    "records": {},
+    "unofficialRecords": {
+        "A": 84,
+        "AAAA": 51,
+        "CAA": 41,
+        "CDNSKEY": 16,
+        "CDS": 15,
+        "DMARC": 71,
+        "DNAME": 1,
+        "DNSKEY": 86,
+        "DS": 72,
+        "HINFO": 1,
+        "HTTPS": 3,
+        "LOC": 3,
+        "MX": 90,
+        "NAPTR": 4,
+        "NS": 92,
+        "NSEC": 22,
+        "NSEC3PARAM": 64,
+        "RP": 3,
+        "SOA": 92,
+        "SPF": 85,
+        "SSHFP": 19,
+        "TXT": 85
+    },
+    "domains": 92,
+    "percent": 0.013129727415441701
+}

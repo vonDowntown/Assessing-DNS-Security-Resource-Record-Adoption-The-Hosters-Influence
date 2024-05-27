@@ -1,0 +1,45 @@
+{
+    "registrar": {
+        "_id": "6653cbee86427d6716d419fb",
+        "name": " GoDaddy Operating Company, LLC",
+        "domain": "afternic.com",
+        "supportedRecordTypes": [
+            "NS",
+            "TXT"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns1.afternic.com",
+            "ns2.afternic.com"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://help.afternic.com/s/article/How-to-enable-Afternic-Parking",
+                "notes": "ns1.afternic.com and ns2.afternic.com",
+                "time": "2024-04-30T11:14:43+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://help.afternic.com/s/article/Where-can-I-find-my-TXT-record-and-Nameserver",
+                "notes": "TXT and NS",
+                "time": "2024-04-30T11:16:32+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.afternic.com/",
+                "notes": "general info Name sale platform",
+                "time": "2024-04-16T15:06:09+02:00"
+            }
+        ]
+    },
+    "records": {
+        "NS": 0,
+        "TXT": 0
+    },
+    "unofficialRecords": {},
+    "domains": 0,
+    "percent": 0.0
+}

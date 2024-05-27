@@ -1,0 +1,74 @@
+{
+    "registrar": {
+        "_id": "6653cbed86427d6716d419cf",
+        "name": "SiteGround Spain S.L.",
+        "domain": "",
+        "supportedRecordTypes": [
+            "A",
+            "AAAA",
+            "CNAME",
+            "MX",
+            "SRV",
+            "TXT",
+            "SPF",
+            "DKIM",
+            "DMARC"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns1.siteground.net",
+            "ns2.siteground.net"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://de.siteground.com/privacy.htm",
+                "notes": "legal name",
+                "time": "2024-04-04T14:57:36+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://de.siteground.com/kb/wo-finde-ich-das-dns-meiner-website/",
+                "notes": "nameserver ns1.siteground.net, ns2.siteground.net",
+                "time": "2024-04-04T14:57:36+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.siteground.com/kb/manage-dns-records/",
+                "notes": "A, AAAA, CNAME, MX, SRV, TXT",
+                "time": "2024-04-04T15:00:36+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.siteground.com/kb/configure-spf-dkim-dmarc-records/",
+                "notes": "SPF, DKIM, DMARC",
+                "time": "2024-03-15T20:45:00+01:00"
+            },
+            {
+                "method": "RecordScan",
+                "link": "",
+                "notes": "",
+                "time": "2024-03-15T20:45:00+01:00"
+            }
+        ]
+    },
+    "records": {
+        "A": 11,
+        "AAAA": 0,
+        "CNAME": 0,
+        "MX": 11,
+        "SRV": 0,
+        "TXT": 11,
+        "SPF": 11,
+        "DKIM": 0,
+        "DMARC": 12
+    },
+    "unofficialRecords": {
+        "NS": 12,
+        "SOA": 12
+    },
+    "domains": 12,
+    "percent": 0.0017125731411445698
+}

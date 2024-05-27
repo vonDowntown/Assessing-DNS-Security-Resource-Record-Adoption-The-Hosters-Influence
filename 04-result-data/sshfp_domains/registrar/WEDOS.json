@@ -1,0 +1,76 @@
+{
+    "registrar": {
+        "_id": "6653cbee86427d6716d419e8",
+        "name": "WEDOS",
+        "domain": "wedos.com",
+        "supportedRecordTypes": [
+            "A",
+            "AAAA",
+            "NS",
+            "CNAME",
+            "MX",
+            "SPF",
+            "SRV",
+            "CAA",
+            "TXT",
+            "TLSA",
+            "SSHFP",
+            "DKIM",
+            "DMARC"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns.wedos.net",
+            "ns.wedos.eu",
+            "ns.wedos.cz",
+            "ns.wedos.com"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://kb.wedos.com/en/domain/dns-servers-of-wedos/",
+                "notes": "ns.wedos.net, ns.wedos.eu, ns.wedos.cz, ns.wedos.com",
+                "time": "2024-04-13T17:57:25+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.wedos.com/domains/dns-management/",
+                "notes": "Supported Records: A, AAAA, NS, CNAME, MX, SPF, SRV, CAA, TXT, TLSA, SSHFP and partial dnssec support",
+                "time": "2024-03-15T20:37:00+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://kb.wedos.com/en/e-mails/emails-spf-dkim-and-dmarc/",
+                "notes": "DKIM and DMARC by them???",
+                "time": "2024-04-13T18:06:02+02:00"
+            }
+        ]
+    },
+    "records": {
+        "A": 24,
+        "AAAA": 12,
+        "NS": 27,
+        "CNAME": 0,
+        "MX": 26,
+        "SPF": 22,
+        "SRV": 0,
+        "CAA": 14,
+        "TXT": 22,
+        "TLSA": 0,
+        "SSHFP": 11,
+        "DKIM": 0,
+        "DMARC": 10
+    },
+    "unofficialRecords": {
+        "DNSKEY": 22,
+        "DS": 20,
+        "LOC": 1,
+        "NSEC": 21,
+        "NSEC3PARAM": 1,
+        "SOA": 27
+    },
+    "domains": 27,
+    "percent": 0.0038532895675752817
+}

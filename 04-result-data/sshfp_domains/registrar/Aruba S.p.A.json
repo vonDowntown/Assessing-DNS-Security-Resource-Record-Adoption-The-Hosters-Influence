@@ -1,0 +1,77 @@
+{
+    "registrar": {
+        "_id": "6653cbee86427d6716d419d9",
+        "name": "Aruba S.p.A",
+        "domain": "https://hosting.aruba.it",
+        "supportedRecordTypes": [
+            "A",
+            "AAAA",
+            "CNAME",
+            "TXT",
+            "MX",
+            "SRV",
+            "NS"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "dns.technorail.com",
+            "dns2.technorail.com",
+            "dns3.arubadns.net",
+            "dns4.arubadns.cz",
+            "arudns1.aruba.it",
+            "arudns2.aruba.it",
+            "arudns3.aruba.it",
+            "arudns4.aruba.it"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://hosting.aruba.it",
+                "notes": "name",
+                "time": "2024-04-04T21:32:18+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://guide.hosting.aruba.it/servizi-dominio/gestione-dns/name-server-aruba/utilizzare-name-server-aruba.aspx",
+                "notes": "nameserver",
+                "time": "2024-04-04T21:33:05+02:00"
+            },
+            {
+                "method": "Whois",
+                "link": "arubadns.net",
+                "notes": "nameserver and connection to aruba.it",
+                "time": "2024-04-04T21:35:29+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://guide.hosting.aruba.it/servizi-dominio/gestione-dns/gestione-record/aggiungere-record-dns.aspx",
+                "notes": "DNS records",
+                "time": "2024-04-04T21:37:18+02:00"
+            },
+            {
+                "method": "RecordScan",
+                "link": "",
+                "notes": "",
+                "time": "2024-03-15T20:45:00+01:00"
+            }
+        ]
+    },
+    "records": {
+        "A": 1,
+        "AAAA": 0,
+        "CNAME": 0,
+        "TXT": 1,
+        "MX": 1,
+        "SRV": 0,
+        "NS": 1
+    },
+    "unofficialRecords": {
+        "DMARC": 1,
+        "SOA": 1,
+        "SPF": 1
+    },
+    "domains": 1,
+    "percent": 0.00014271442842871414
+}

@@ -1,0 +1,483 @@
+{
+    "AWS_PERCENT": {
+        "ALL": 100,
+        "AWS": 38,
+        "NOT_AWS": 62
+    },
+    "AWSOWNED_COUNT": 4,
+    "NOT_AWSOWNED_COUNT": 62,
+    "AWSOWNED_SOURCE_COUNT": 2,
+    "AWSOWNED": [
+        "ns-517.awsdns-00.net",
+        "ns-519.awsdns-00.net",
+        "ns-66.awsdns-08.com",
+        "ns-71.awsdns-08.com"
+    ],
+    "AWSOWNED_SOURCE": [
+        {
+            "method": "Whois",
+            "link": "awsdns-00.net",
+            "notes": "",
+            "time": "2024-05-27T01:56:31+02:00"
+        },
+        {
+            "method": "Whois",
+            "link": "awsdns-08.com",
+            "notes": "",
+            "time": "2024-05-27T01:56:33+02:00"
+        }
+    ],
+    "not-AWSOWNED": [
+        {
+            "domain": "awsdns-00.co.uk",
+            "nameserver": [
+                "ns-1537.awsdns-00.co.uk",
+                "ns-1539.awsdns-00.co.uk"
+            ],
+            "data": "{\n  \"domain_name\": \"awsdns-00.co.uk\",\n  \"registrar\": \"Markmonitor Inc. [Tag = MARKMONITOR]\",\n  \"registrar_url\": \"https://www.markmonitor.com\",\n  \"status\": \"Registered until expiry date.\",\n  \"registrant_name\": null,\n  \"registrant_type\": null,\n  \"registrant_street\": null,\n  \"registrant_city\": null,\n  \"registrant_country\": null,\n  \"creation_date\": \"2010-10-21 00:00:00\",\n  \"expiration_date\": \"2024-10-21 00:00:00\",\n  \"updated_date\": \"2019-05-07 00:00:00\",\n  \"name_servers\": [\n    \"g-ns-1475.awsdns-00.co.uk\",\n    \"g-ns-1796.awsdns-00.co.uk\",\n    \"g-ns-320.awsdns-00.co.uk\",\n    \"g-ns-896.awsdns-00.co.uk\"\n  ]\n}"
+        },
+        {
+            "domain": "awsdns-01.net",
+            "nameserver": [
+                "ns-520.awsdns-01.net"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-01.NET\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 20:46:19\",\n  \"creation_date\": \"2010-10-21 21:02:53\",\n  \"expiration_date\": \"2024-10-21 21:02:53\",\n  \"name_servers\": [\n    \"G-NS-1345.AWSDNS-01.NET\",\n    \"G-NS-1921.AWSDNS-01.NET\",\n    \"G-NS-450.AWSDNS-01.NET\",\n    \"G-NS-771.AWSDNS-01.NET\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-05.com",
+            "nameserver": [
+                "ns-43.awsdns-05.com"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-05.COM\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 20:42:59\",\n  \"creation_date\": \"2010-10-21 21:02:33\",\n  \"expiration_date\": \"2024-10-21 21:02:33\",\n  \"name_servers\": [\n    \"G-NS-1157.AWSDNS-05.COM\",\n    \"G-NS-1733.AWSDNS-05.COM\",\n    \"G-NS-581.AWSDNS-05.COM\",\n    \"G-NS-6.AWSDNS-05.COM\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-07.co.uk",
+            "nameserver": [
+                "ns-1596.awsdns-07.co.uk",
+                "ns-1598.awsdns-07.co.uk"
+            ],
+            "data": "{\n  \"domain_name\": \"awsdns-07.co.uk\",\n  \"registrar\": \"Markmonitor Inc. [Tag = MARKMONITOR]\",\n  \"registrar_url\": \"https://www.markmonitor.com\",\n  \"status\": \"Registered until expiry date.\",\n  \"registrant_name\": null,\n  \"registrant_type\": null,\n  \"registrant_street\": null,\n  \"registrant_city\": null,\n  \"registrant_country\": null,\n  \"creation_date\": \"2010-10-21 00:00:00\",\n  \"expiration_date\": \"2024-10-21 00:00:00\",\n  \"updated_date\": \"2019-05-07 00:00:00\",\n  \"name_servers\": [\n    \"g-ns-1482.awsdns-07.co.uk\",\n    \"g-ns-1803.awsdns-07.co.uk\",\n    \"g-ns-327.awsdns-07.co.uk\",\n    \"g-ns-903.awsdns-07.co.uk\"\n  ]\n}"
+        },
+        {
+            "domain": "awsdns-08.co.uk",
+            "nameserver": [
+                "ns-1602.awsdns-08.co.uk"
+            ],
+            "data": "{\n  \"domain_name\": \"awsdns-08.co.uk\",\n  \"registrar\": \"Markmonitor Inc. [Tag = MARKMONITOR]\",\n  \"registrar_url\": \"https://www.markmonitor.com\",\n  \"status\": \"Registered until expiry date.\",\n  \"registrant_name\": null,\n  \"registrant_type\": null,\n  \"registrant_street\": null,\n  \"registrant_city\": null,\n  \"registrant_country\": null,\n  \"creation_date\": \"2010-10-21 00:00:00\",\n  \"expiration_date\": \"2024-10-21 00:00:00\",\n  \"updated_date\": \"2019-05-07 00:00:00\",\n  \"name_servers\": [\n    \"g-ns-1483.awsdns-08.co.uk\",\n    \"g-ns-1804.awsdns-08.co.uk\",\n    \"g-ns-328.awsdns-08.co.uk\",\n    \"g-ns-904.awsdns-08.co.uk\"\n  ]\n}"
+        },
+        {
+            "domain": "awsdns-10.com",
+            "nameserver": [
+                "ns-80.awsdns-10.com",
+                "ns-82.awsdns-10.com"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-10.COM\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 20:59:52\",\n  \"creation_date\": \"2010-10-21 21:02:34\",\n  \"expiration_date\": \"2024-10-21 21:02:34\",\n  \"name_servers\": [\n    \"G-NS-11.AWSDNS-10.COM\",\n    \"G-NS-1162.AWSDNS-10.COM\",\n    \"G-NS-1738.AWSDNS-10.COM\",\n    \"G-NS-586.AWSDNS-10.COM\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-13.com",
+            "nameserver": [
+                "ns-109.awsdns-13.com"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-13.COM\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 21:12:36\",\n  \"creation_date\": \"2010-10-21 21:02:28\",\n  \"expiration_date\": \"2024-10-21 21:02:28\",\n  \"name_servers\": [\n    \"G-NS-1165.AWSDNS-13.COM\",\n    \"G-NS-14.AWSDNS-13.COM\",\n    \"G-NS-1741.AWSDNS-13.COM\",\n    \"G-NS-589.AWSDNS-13.COM\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-14.co.uk",
+            "nameserver": [
+                "ns-1649.awsdns-14.co.uk",
+                "ns-1655.awsdns-14.co.uk"
+            ],
+            "data": "{\n  \"domain_name\": \"awsdns-14.co.uk\",\n  \"registrar\": \"Markmonitor Inc. [Tag = MARKMONITOR]\",\n  \"registrar_url\": \"https://www.markmonitor.com\",\n  \"status\": \"Registered until expiry date.\",\n  \"registrant_name\": null,\n  \"registrant_type\": null,\n  \"registrant_street\": null,\n  \"registrant_city\": null,\n  \"registrant_country\": null,\n  \"creation_date\": \"2010-10-21 00:00:00\",\n  \"expiration_date\": \"2024-10-21 00:00:00\",\n  \"updated_date\": \"2019-05-07 00:00:00\",\n  \"name_servers\": [\n    \"g-ns-1489.awsdns-14.co.uk\",\n    \"g-ns-1810.awsdns-14.co.uk\",\n    \"g-ns-334.awsdns-14.co.uk\",\n    \"g-ns-910.awsdns-14.co.uk\"\n  ]\n}"
+        },
+        {
+            "domain": "awsdns-14.com",
+            "nameserver": [
+                "ns-117.awsdns-14.com"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-14.COM\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 21:12:36\",\n  \"creation_date\": \"2010-10-21 21:02:59\",\n  \"expiration_date\": \"2024-10-21 21:02:59\",\n  \"name_servers\": [\n    \"G-NS-1166.AWSDNS-14.COM\",\n    \"G-NS-15.AWSDNS-14.COM\",\n    \"G-NS-1742.AWSDNS-14.COM\",\n    \"G-NS-590.AWSDNS-14.COM\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-14.net",
+            "nameserver": [
+                "ns-627.awsdns-14.net"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-14.NET\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 21:12:36\",\n  \"creation_date\": \"2010-10-21 21:02:50\",\n  \"expiration_date\": \"2024-10-21 21:02:50\",\n  \"name_servers\": [\n    \"G-NS-1358.AWSDNS-14.NET\",\n    \"G-NS-1934.AWSDNS-14.NET\",\n    \"G-NS-463.AWSDNS-14.NET\",\n    \"G-NS-784.AWSDNS-14.NET\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-15.co.uk",
+            "nameserver": [
+                "ns-1662.awsdns-15.co.uk"
+            ],
+            "data": "{\n  \"domain_name\": \"awsdns-15.co.uk\",\n  \"registrar\": \"Markmonitor Inc. [Tag = MARKMONITOR]\",\n  \"registrar_url\": \"https://www.markmonitor.com\",\n  \"status\": \"Registered until expiry date.\",\n  \"registrant_name\": null,\n  \"registrant_type\": null,\n  \"registrant_street\": null,\n  \"registrant_city\": null,\n  \"registrant_country\": null,\n  \"creation_date\": \"2010-10-21 00:00:00\",\n  \"expiration_date\": \"2024-10-21 00:00:00\",\n  \"updated_date\": \"2019-05-07 00:00:00\",\n  \"name_servers\": [\n    \"g-ns-1490.awsdns-15.co.uk\",\n    \"g-ns-1811.awsdns-15.co.uk\",\n    \"g-ns-335.awsdns-15.co.uk\",\n    \"g-ns-911.awsdns-15.co.uk\"\n  ]\n}"
+        },
+        {
+            "domain": "awsdns-15.com",
+            "nameserver": [
+                "ns-121.awsdns-15.com"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-15.COM\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 21:12:36\",\n  \"creation_date\": \"2010-10-21 21:02:47\",\n  \"expiration_date\": \"2024-10-21 21:02:47\",\n  \"name_servers\": [\n    \"G-NS-1167.AWSDNS-15.COM\",\n    \"G-NS-16.AWSDNS-15.COM\",\n    \"G-NS-1743.AWSDNS-15.COM\",\n    \"G-NS-591.AWSDNS-15.COM\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-17.net",
+            "nameserver": [
+                "ns-648.awsdns-17.net"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-17.NET\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 21:19:28\",\n  \"creation_date\": \"2010-10-21 21:02:31\",\n  \"expiration_date\": \"2024-10-21 21:02:31\",\n  \"name_servers\": [\n    \"G-NS-1361.AWSDNS-17.NET\",\n    \"G-NS-1937.AWSDNS-17.NET\",\n    \"G-NS-466.AWSDNS-17.NET\",\n    \"G-NS-787.AWSDNS-17.NET\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-19.co.uk",
+            "nameserver": [
+                "ns-1691.awsdns-19.co.uk",
+                "ns-1694.awsdns-19.co.uk"
+            ],
+            "data": "{\n  \"domain_name\": \"awsdns-19.co.uk\",\n  \"registrar\": \"Markmonitor Inc. [Tag = MARKMONITOR]\",\n  \"registrar_url\": \"https://www.markmonitor.com\",\n  \"status\": \"Registered until expiry date.\",\n  \"registrant_name\": null,\n  \"registrant_type\": null,\n  \"registrant_street\": null,\n  \"registrant_city\": null,\n  \"registrant_country\": null,\n  \"creation_date\": \"2010-10-21 00:00:00\",\n  \"expiration_date\": \"2024-10-21 00:00:00\",\n  \"updated_date\": \"2019-05-07 00:00:00\",\n  \"name_servers\": [\n    \"g-ns-1494.awsdns-19.co.uk\",\n    \"g-ns-1815.awsdns-19.co.uk\",\n    \"g-ns-339.awsdns-19.co.uk\",\n    \"g-ns-915.awsdns-19.co.uk\"\n  ]\n}"
+        },
+        {
+            "domain": "awsdns-20.net",
+            "nameserver": [
+                "ns-672.awsdns-20.net"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-20.NET\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 21:25:39\",\n  \"creation_date\": \"2010-10-21 21:02:54\",\n  \"expiration_date\": \"2024-10-21 21:02:54\",\n  \"name_servers\": [\n    \"G-NS-1364.AWSDNS-20.NET\",\n    \"G-NS-1940.AWSDNS-20.NET\",\n    \"G-NS-469.AWSDNS-20.NET\",\n    \"G-NS-790.AWSDNS-20.NET\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-21.co.uk",
+            "nameserver": [
+                "ns-1706.awsdns-21.co.uk"
+            ],
+            "data": "{\n  \"domain_name\": \"awsdns-21.co.uk\",\n  \"registrar\": \"Markmonitor Inc. [Tag = MARKMONITOR]\",\n  \"registrar_url\": \"https://www.markmonitor.com\",\n  \"status\": \"Registered until expiry date.\",\n  \"registrant_name\": null,\n  \"registrant_type\": null,\n  \"registrant_street\": null,\n  \"registrant_city\": null,\n  \"registrant_country\": null,\n  \"creation_date\": \"2010-10-21 00:00:00\",\n  \"expiration_date\": \"2024-10-21 00:00:00\",\n  \"updated_date\": \"2019-05-07 00:00:00\",\n  \"name_servers\": [\n    \"g-ns-1496.awsdns-21.co.uk\",\n    \"g-ns-1817.awsdns-21.co.uk\",\n    \"g-ns-341.awsdns-21.co.uk\",\n    \"g-ns-917.awsdns-21.co.uk\"\n  ]\n}"
+        },
+        {
+            "domain": "awsdns-22.co.uk",
+            "nameserver": [
+                "ns-1712.awsdns-22.co.uk",
+                "ns-1719.awsdns-22.co.uk"
+            ],
+            "data": "{\n  \"domain_name\": \"awsdns-22.co.uk\",\n  \"registrar\": \"Markmonitor Inc. [Tag = MARKMONITOR]\",\n  \"registrar_url\": \"https://www.markmonitor.com\",\n  \"status\": \"Registered until expiry date.\",\n  \"registrant_name\": null,\n  \"registrant_type\": null,\n  \"registrant_street\": null,\n  \"registrant_city\": null,\n  \"registrant_country\": null,\n  \"creation_date\": \"2010-10-21 00:00:00\",\n  \"expiration_date\": \"2024-10-21 00:00:00\",\n  \"updated_date\": \"2019-05-07 00:00:00\",\n  \"name_servers\": [\n    \"g-ns-1497.awsdns-22.co.uk\",\n    \"g-ns-1818.awsdns-22.co.uk\",\n    \"g-ns-342.awsdns-22.co.uk\",\n    \"g-ns-918.awsdns-22.co.uk\"\n  ]\n}"
+        },
+        {
+            "domain": "awsdns-24.co.uk",
+            "nameserver": [
+                "ns-1732.awsdns-24.co.uk"
+            ],
+            "data": "{\n  \"domain_name\": \"awsdns-24.co.uk\",\n  \"registrar\": \"Markmonitor Inc. [Tag = MARKMONITOR]\",\n  \"registrar_url\": \"https://www.markmonitor.com\",\n  \"status\": \"Registered until expiry date.\",\n  \"registrant_name\": null,\n  \"registrant_type\": null,\n  \"registrant_street\": null,\n  \"registrant_city\": null,\n  \"registrant_country\": null,\n  \"creation_date\": \"2010-10-21 00:00:00\",\n  \"expiration_date\": \"2024-10-21 00:00:00\",\n  \"updated_date\": \"2019-05-07 00:00:00\",\n  \"name_servers\": [\n    \"g-ns-1499.awsdns-24.co.uk\",\n    \"g-ns-1820.awsdns-24.co.uk\",\n    \"g-ns-344.awsdns-24.co.uk\",\n    \"g-ns-920.awsdns-24.co.uk\"\n  ]\n}"
+        },
+        {
+            "domain": "awsdns-25.co.uk",
+            "nameserver": [
+                "ns-1736.awsdns-25.co.uk"
+            ],
+            "data": "{\n  \"domain_name\": \"awsdns-25.co.uk\",\n  \"registrar\": \"Markmonitor Inc. [Tag = MARKMONITOR]\",\n  \"registrar_url\": \"https://www.markmonitor.com\",\n  \"status\": \"Registered until expiry date.\",\n  \"registrant_name\": null,\n  \"registrant_type\": null,\n  \"registrant_street\": null,\n  \"registrant_city\": null,\n  \"registrant_country\": null,\n  \"creation_date\": \"2010-10-21 00:00:00\",\n  \"expiration_date\": \"2024-10-21 00:00:00\",\n  \"updated_date\": \"2019-05-07 00:00:00\",\n  \"name_servers\": [\n    \"g-ns-1500.awsdns-25.co.uk\",\n    \"g-ns-1821.awsdns-25.co.uk\",\n    \"g-ns-345.awsdns-25.co.uk\",\n    \"g-ns-921.awsdns-25.co.uk\"\n  ]\n}"
+        },
+        {
+            "domain": "awsdns-25.com",
+            "nameserver": [
+                "ns-200.awsdns-25.com",
+                "ns-204.awsdns-25.com"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-25.COM\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 21:30:08\",\n  \"creation_date\": \"2010-10-21 21:03:05\",\n  \"expiration_date\": \"2024-10-21 21:03:05\",\n  \"name_servers\": [\n    \"G-NS-1177.AWSDNS-25.COM\",\n    \"G-NS-1753.AWSDNS-25.COM\",\n    \"G-NS-26.AWSDNS-25.COM\",\n    \"G-NS-601.AWSDNS-25.COM\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-26.net",
+            "nameserver": [
+                "ns-725.awsdns-26.net"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-26.NET\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 21:36:38\",\n  \"creation_date\": \"2010-10-21 21:02:28\",\n  \"expiration_date\": \"2024-10-21 21:02:28\",\n  \"name_servers\": [\n    \"G-NS-1370.AWSDNS-26.NET\",\n    \"G-NS-1946.AWSDNS-26.NET\",\n    \"G-NS-475.AWSDNS-26.NET\",\n    \"G-NS-796.AWSDNS-26.NET\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-27.co.uk",
+            "nameserver": [
+                "ns-1754.awsdns-27.co.uk"
+            ],
+            "data": "{\n  \"domain_name\": \"awsdns-27.co.uk\",\n  \"registrar\": \"Markmonitor Inc. [Tag = MARKMONITOR]\",\n  \"registrar_url\": \"https://www.markmonitor.com\",\n  \"status\": \"Registered until expiry date.\",\n  \"registrant_name\": null,\n  \"registrant_type\": null,\n  \"registrant_street\": null,\n  \"registrant_city\": null,\n  \"registrant_country\": null,\n  \"creation_date\": \"2010-10-21 00:00:00\",\n  \"expiration_date\": \"2024-10-21 00:00:00\",\n  \"updated_date\": \"2019-05-07 00:00:00\",\n  \"name_servers\": [\n    \"g-ns-1502.awsdns-27.co.uk\",\n    \"g-ns-1823.awsdns-27.co.uk\",\n    \"g-ns-347.awsdns-27.co.uk\",\n    \"g-ns-923.awsdns-27.co.uk\"\n  ]\n}"
+        },
+        {
+            "domain": "awsdns-27.com",
+            "nameserver": [
+                "ns-218.awsdns-27.com"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-27.COM\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 21:36:38\",\n  \"creation_date\": \"2010-10-21 21:03:03\",\n  \"expiration_date\": \"2024-10-21 21:03:03\",\n  \"name_servers\": [\n    \"G-NS-1179.AWSDNS-27.COM\",\n    \"G-NS-1755.AWSDNS-27.COM\",\n    \"G-NS-28.AWSDNS-27.COM\",\n    \"G-NS-603.AWSDNS-27.COM\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-27.net",
+            "nameserver": [
+                "ns-732.awsdns-27.net"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-27.NET\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 21:36:38\",\n  \"creation_date\": \"2010-10-21 21:02:48\",\n  \"expiration_date\": \"2024-10-21 21:02:48\",\n  \"name_servers\": [\n    \"G-NS-1371.AWSDNS-27.NET\",\n    \"G-NS-1947.AWSDNS-27.NET\",\n    \"G-NS-476.AWSDNS-27.NET\",\n    \"G-NS-797.AWSDNS-27.NET\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-30.co.uk",
+            "nameserver": [
+                "ns-1780.awsdns-30.co.uk"
+            ],
+            "data": "{\n  \"domain_name\": \"awsdns-30.co.uk\",\n  \"registrar\": \"Markmonitor Inc. [Tag = MARKMONITOR]\",\n  \"registrar_url\": \"https://www.markmonitor.com\",\n  \"status\": \"Registered until expiry date.\",\n  \"registrant_name\": null,\n  \"registrant_type\": null,\n  \"registrant_street\": null,\n  \"registrant_city\": null,\n  \"registrant_country\": null,\n  \"creation_date\": \"2010-10-21 00:00:00\",\n  \"expiration_date\": \"2024-10-21 00:00:00\",\n  \"updated_date\": \"2019-05-07 00:00:00\",\n  \"name_servers\": [\n    \"g-ns-1505.awsdns-30.co.uk\",\n    \"g-ns-1826.awsdns-30.co.uk\",\n    \"g-ns-350.awsdns-30.co.uk\",\n    \"g-ns-926.awsdns-30.co.uk\"\n  ]\n}"
+        },
+        {
+            "domain": "awsdns-33.co.uk",
+            "nameserver": [
+                "ns-1803.awsdns-33.co.uk",
+                "ns-1807.awsdns-33.co.uk"
+            ],
+            "data": "{\n  \"domain_name\": \"awsdns-33.co.uk\",\n  \"registrar\": \"Markmonitor Inc. [Tag = MARKMONITOR]\",\n  \"registrar_url\": \"https://www.markmonitor.com\",\n  \"status\": \"Registered until expiry date.\",\n  \"registrant_name\": null,\n  \"registrant_type\": null,\n  \"registrant_street\": null,\n  \"registrant_city\": null,\n  \"registrant_country\": null,\n  \"creation_date\": \"2010-10-21 00:00:00\",\n  \"expiration_date\": \"2024-10-21 00:00:00\",\n  \"updated_date\": \"2019-05-07 00:00:00\",\n  \"name_servers\": [\n    \"g-ns-1508.awsdns-33.co.uk\",\n    \"g-ns-1829.awsdns-33.co.uk\",\n    \"g-ns-353.awsdns-33.co.uk\",\n    \"g-ns-929.awsdns-33.co.uk\"\n  ]\n}"
+        },
+        {
+            "domain": "awsdns-34.co.uk",
+            "nameserver": [
+                "ns-1808.awsdns-34.co.uk",
+                "ns-1812.awsdns-34.co.uk"
+            ],
+            "data": "{\n  \"domain_name\": \"awsdns-34.co.uk\",\n  \"registrar\": \"Markmonitor Inc. [Tag = MARKMONITOR]\",\n  \"registrar_url\": \"https://www.markmonitor.com\",\n  \"status\": \"Registered until expiry date.\",\n  \"registrant_name\": null,\n  \"registrant_type\": null,\n  \"registrant_street\": null,\n  \"registrant_city\": null,\n  \"registrant_country\": null,\n  \"creation_date\": \"2010-10-21 00:00:00\",\n  \"expiration_date\": \"2024-10-21 00:00:00\",\n  \"updated_date\": \"2019-05-07 00:00:00\",\n  \"name_servers\": [\n    \"g-ns-1509.awsdns-34.co.uk\",\n    \"g-ns-1830.awsdns-34.co.uk\",\n    \"g-ns-354.awsdns-34.co.uk\",\n    \"g-ns-930.awsdns-34.co.uk\"\n  ]\n}"
+        },
+        {
+            "domain": "awsdns-35.com",
+            "nameserver": [
+                "ns-280.awsdns-35.com",
+                "ns-286.awsdns-35.com"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-35.COM\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 21:54:23\",\n  \"creation_date\": \"2010-10-21 21:02:55\",\n  \"expiration_date\": \"2024-10-21 21:02:55\",\n  \"name_servers\": [\n    \"G-NS-1187.AWSDNS-35.COM\",\n    \"G-NS-1763.AWSDNS-35.COM\",\n    \"G-NS-36.AWSDNS-35.COM\",\n    \"G-NS-611.AWSDNS-35.COM\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-36.com",
+            "nameserver": [
+                "ns-288.awsdns-36.com"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-36.COM\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 21:54:23\",\n  \"creation_date\": \"2010-10-21 21:02:39\",\n  \"expiration_date\": \"2024-10-21 21:02:39\",\n  \"name_servers\": [\n    \"G-NS-1188.AWSDNS-36.COM\",\n    \"G-NS-1764.AWSDNS-36.COM\",\n    \"G-NS-37.AWSDNS-36.COM\",\n    \"G-NS-612.AWSDNS-36.COM\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-36.net",
+            "nameserver": [
+                "ns-803.awsdns-36.net"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-36.NET\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 21:54:23\",\n  \"creation_date\": \"2010-10-21 21:03:06\",\n  \"expiration_date\": \"2024-10-21 21:03:06\",\n  \"name_servers\": [\n    \"G-NS-1380.AWSDNS-36.NET\",\n    \"G-NS-1956.AWSDNS-36.NET\",\n    \"G-NS-485.AWSDNS-36.NET\",\n    \"G-NS-806.AWSDNS-36.NET\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-37.com",
+            "nameserver": [
+                "ns-296.awsdns-37.com"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-37.COM\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 21:54:23\",\n  \"creation_date\": \"2010-10-21 21:02:45\",\n  \"expiration_date\": \"2024-10-21 21:02:45\",\n  \"name_servers\": [\n    \"G-NS-1189.AWSDNS-37.COM\",\n    \"G-NS-1765.AWSDNS-37.COM\",\n    \"G-NS-38.AWSDNS-37.COM\",\n    \"G-NS-613.AWSDNS-37.COM\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-37.net",
+            "nameserver": [
+                "ns-808.awsdns-37.net",
+                "ns-810.awsdns-37.net"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-37.NET\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 21:54:24\",\n  \"creation_date\": \"2010-10-21 21:02:36\",\n  \"expiration_date\": \"2024-10-21 21:02:36\",\n  \"name_servers\": [\n    \"G-NS-1381.AWSDNS-37.NET\",\n    \"G-NS-1957.AWSDNS-37.NET\",\n    \"G-NS-486.AWSDNS-37.NET\",\n    \"G-NS-807.AWSDNS-37.NET\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-38.co.uk",
+            "nameserver": [
+                "ns-1840.awsdns-38.co.uk"
+            ],
+            "data": "{\n  \"domain_name\": \"awsdns-38.co.uk\",\n  \"registrar\": \"Markmonitor Inc. [Tag = MARKMONITOR]\",\n  \"registrar_url\": \"https://www.markmonitor.com\",\n  \"status\": \"Registered until expiry date.\",\n  \"registrant_name\": null,\n  \"registrant_type\": null,\n  \"registrant_street\": null,\n  \"registrant_city\": null,\n  \"registrant_country\": null,\n  \"creation_date\": \"2010-10-21 00:00:00\",\n  \"expiration_date\": \"2024-10-21 00:00:00\",\n  \"updated_date\": \"2019-05-07 00:00:00\",\n  \"name_servers\": [\n    \"g-ns-1513.awsdns-38.co.uk\",\n    \"g-ns-1834.awsdns-38.co.uk\",\n    \"g-ns-358.awsdns-38.co.uk\",\n    \"g-ns-934.awsdns-38.co.uk\"\n  ]\n}"
+        },
+        {
+            "domain": "awsdns-38.net",
+            "nameserver": [
+                "ns-817.awsdns-38.net",
+                "ns-823.awsdns-38.net"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-38.NET\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 21:54:24\",\n  \"creation_date\": \"2010-10-21 21:02:46\",\n  \"expiration_date\": \"2024-10-21 21:02:46\",\n  \"name_servers\": [\n    \"G-NS-1382.AWSDNS-38.NET\",\n    \"G-NS-1958.AWSDNS-38.NET\",\n    \"G-NS-487.AWSDNS-38.NET\",\n    \"G-NS-808.AWSDNS-38.NET\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-39.co.uk",
+            "nameserver": [
+                "ns-1851.awsdns-39.co.uk"
+            ],
+            "data": "{\n  \"domain_name\": \"awsdns-39.co.uk\",\n  \"registrar\": \"Markmonitor Inc. [Tag = MARKMONITOR]\",\n  \"registrar_url\": \"https://www.markmonitor.com\",\n  \"status\": \"Registered until expiry date.\",\n  \"registrant_name\": null,\n  \"registrant_type\": null,\n  \"registrant_street\": null,\n  \"registrant_city\": null,\n  \"registrant_country\": null,\n  \"creation_date\": \"2010-10-21 00:00:00\",\n  \"expiration_date\": \"2024-10-21 00:00:00\",\n  \"updated_date\": \"2019-05-07 00:00:00\",\n  \"name_servers\": [\n    \"g-ns-1514.awsdns-39.co.uk\",\n    \"g-ns-1835.awsdns-39.co.uk\",\n    \"g-ns-359.awsdns-39.co.uk\",\n    \"g-ns-935.awsdns-39.co.uk\"\n  ]\n}"
+        },
+        {
+            "domain": "awsdns-39.net",
+            "nameserver": [
+                "ns-827.awsdns-39.net"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-39.NET\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 22:08:37\",\n  \"creation_date\": \"2010-10-21 21:02:41\",\n  \"expiration_date\": \"2024-10-21 21:02:41\",\n  \"name_servers\": [\n    \"G-NS-1383.AWSDNS-39.NET\",\n    \"G-NS-1959.AWSDNS-39.NET\",\n    \"G-NS-488.AWSDNS-39.NET\",\n    \"G-NS-809.AWSDNS-39.NET\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-40.net",
+            "nameserver": [
+                "ns-836.awsdns-40.net"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-40.NET\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 22:08:37\",\n  \"creation_date\": \"2010-10-21 21:02:42\",\n  \"expiration_date\": \"2024-10-21 21:02:42\",\n  \"name_servers\": [\n    \"G-NS-1384.AWSDNS-40.NET\",\n    \"G-NS-1960.AWSDNS-40.NET\",\n    \"G-NS-489.AWSDNS-40.NET\",\n    \"G-NS-810.AWSDNS-40.NET\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-41.com",
+            "nameserver": [
+                "ns-328.awsdns-41.com"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-41.COM\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 22:08:37\",\n  \"creation_date\": \"2010-10-21 21:03:04\",\n  \"expiration_date\": \"2024-10-21 21:03:04\",\n  \"name_servers\": [\n    \"G-NS-1193.AWSDNS-41.COM\",\n    \"G-NS-1769.AWSDNS-41.COM\",\n    \"G-NS-42.AWSDNS-41.COM\",\n    \"G-NS-617.AWSDNS-41.COM\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-41.net",
+            "nameserver": [
+                "ns-845.awsdns-41.net",
+                "ns-846.awsdns-41.net"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-41.NET\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 22:08:37\",\n  \"creation_date\": \"2010-10-21 21:02:36\",\n  \"expiration_date\": \"2024-10-21 21:02:36\",\n  \"name_servers\": [\n    \"G-NS-1385.AWSDNS-41.NET\",\n    \"G-NS-1961.AWSDNS-41.NET\",\n    \"G-NS-490.AWSDNS-41.NET\",\n    \"G-NS-811.AWSDNS-41.NET\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-42.net",
+            "nameserver": [
+                "ns-854.awsdns-42.net"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-42.NET\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 22:08:37\",\n  \"creation_date\": \"2010-10-21 21:02:30\",\n  \"expiration_date\": \"2024-10-21 21:02:30\",\n  \"name_servers\": [\n    \"G-NS-1386.AWSDNS-42.NET\",\n    \"G-NS-1962.AWSDNS-42.NET\",\n    \"G-NS-491.AWSDNS-42.NET\",\n    \"G-NS-812.AWSDNS-42.NET\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-43.com",
+            "nameserver": [
+                "ns-351.awsdns-43.com"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-43.COM\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 22:08:37\",\n  \"creation_date\": \"2010-10-21 21:02:41\",\n  \"expiration_date\": \"2024-10-21 21:02:41\",\n  \"name_servers\": [\n    \"G-NS-1195.AWSDNS-43.COM\",\n    \"G-NS-1771.AWSDNS-43.COM\",\n    \"G-NS-44.AWSDNS-43.COM\",\n    \"G-NS-619.AWSDNS-43.COM\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-43.net",
+            "nameserver": [
+                "ns-856.awsdns-43.net"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-43.NET\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 22:08:37\",\n  \"creation_date\": \"2010-10-21 21:02:52\",\n  \"expiration_date\": \"2024-10-21 21:02:52\",\n  \"name_servers\": [\n    \"G-NS-1387.AWSDNS-43.NET\",\n    \"G-NS-1963.AWSDNS-43.NET\",\n    \"G-NS-492.AWSDNS-43.NET\",\n    \"G-NS-813.AWSDNS-43.NET\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-44.co.uk",
+            "nameserver": [
+                "ns-1892.awsdns-44.co.uk"
+            ],
+            "data": "{\n  \"domain_name\": \"awsdns-44.co.uk\",\n  \"registrar\": \"Markmonitor Inc. [Tag = MARKMONITOR]\",\n  \"registrar_url\": \"https://www.markmonitor.com\",\n  \"status\": \"Registered until expiry date.\",\n  \"registrant_name\": null,\n  \"registrant_type\": null,\n  \"registrant_street\": null,\n  \"registrant_city\": null,\n  \"registrant_country\": null,\n  \"creation_date\": \"2010-10-21 00:00:00\",\n  \"expiration_date\": \"2024-10-21 00:00:00\",\n  \"updated_date\": \"2019-05-07 00:00:00\",\n  \"name_servers\": [\n    \"g-ns-1519.awsdns-44.co.uk\",\n    \"g-ns-1840.awsdns-44.co.uk\",\n    \"g-ns-364.awsdns-44.co.uk\",\n    \"g-ns-940.awsdns-44.co.uk\"\n  ]\n}"
+        },
+        {
+            "domain": "awsdns-45.co.uk",
+            "nameserver": [
+                "ns-1902.awsdns-45.co.uk"
+            ],
+            "data": "{\n  \"domain_name\": \"awsdns-45.co.uk\",\n  \"registrar\": \"Markmonitor Inc. [Tag = MARKMONITOR]\",\n  \"registrar_url\": \"https://www.markmonitor.com\",\n  \"status\": \"Registered until expiry date.\",\n  \"registrant_name\": null,\n  \"registrant_type\": null,\n  \"registrant_street\": null,\n  \"registrant_city\": null,\n  \"registrant_country\": null,\n  \"creation_date\": \"2010-10-21 00:00:00\",\n  \"expiration_date\": \"2024-10-21 00:00:00\",\n  \"updated_date\": \"2019-05-07 00:00:00\",\n  \"name_servers\": [\n    \"g-ns-1520.awsdns-45.co.uk\",\n    \"g-ns-1841.awsdns-45.co.uk\",\n    \"g-ns-365.awsdns-45.co.uk\",\n    \"g-ns-941.awsdns-45.co.uk\"\n  ]\n}"
+        },
+        {
+            "domain": "awsdns-46.com",
+            "nameserver": [
+                "ns-369.awsdns-46.com"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-46.COM\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 22:21:49\",\n  \"creation_date\": \"2010-10-21 21:02:56\",\n  \"expiration_date\": \"2024-10-21 21:02:56\",\n  \"name_servers\": [\n    \"G-NS-1198.AWSDNS-46.COM\",\n    \"G-NS-1774.AWSDNS-46.COM\",\n    \"G-NS-47.AWSDNS-46.COM\",\n    \"G-NS-622.AWSDNS-46.COM\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-47.com",
+            "nameserver": [
+                "ns-379.awsdns-47.com"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-47.COM\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 22:21:49\",\n  \"creation_date\": \"2010-10-21 21:03:00\",\n  \"expiration_date\": \"2024-10-21 21:03:00\",\n  \"name_servers\": [\n    \"G-NS-1199.AWSDNS-47.COM\",\n    \"G-NS-1775.AWSDNS-47.COM\",\n    \"G-NS-48.AWSDNS-47.COM\",\n    \"G-NS-623.AWSDNS-47.COM\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-49.net",
+            "nameserver": [
+                "ns-905.awsdns-49.net"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-49.NET\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 22:21:50\",\n  \"creation_date\": \"2010-10-21 21:02:27\",\n  \"expiration_date\": \"2024-10-21 21:02:27\",\n  \"name_servers\": [\n    \"G-NS-1393.AWSDNS-49.NET\",\n    \"G-NS-1969.AWSDNS-49.NET\",\n    \"G-NS-498.AWSDNS-49.NET\",\n    \"G-NS-819.AWSDNS-49.NET\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-51.net",
+            "nameserver": [
+                "ns-920.awsdns-51.net"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-51.NET\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 22:21:50\",\n  \"creation_date\": \"2010-10-21 21:03:06\",\n  \"expiration_date\": \"2024-10-21 21:03:06\",\n  \"name_servers\": [\n    \"G-NS-1395.AWSDNS-51.NET\",\n    \"G-NS-1971.AWSDNS-51.NET\",\n    \"G-NS-500.AWSDNS-51.NET\",\n    \"G-NS-821.AWSDNS-51.NET\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-52.co.uk",
+            "nameserver": [
+                "ns-1957.awsdns-52.co.uk"
+            ],
+            "data": "{\n  \"domain_name\": \"awsdns-52.co.uk\",\n  \"registrar\": \"Markmonitor Inc. [Tag = MARKMONITOR]\",\n  \"registrar_url\": \"https://www.markmonitor.com\",\n  \"status\": \"Registered until expiry date.\",\n  \"registrant_name\": null,\n  \"registrant_type\": null,\n  \"registrant_street\": null,\n  \"registrant_city\": null,\n  \"registrant_country\": null,\n  \"creation_date\": \"2010-10-21 00:00:00\",\n  \"expiration_date\": \"2024-10-21 00:00:00\",\n  \"updated_date\": \"2019-05-07 00:00:00\",\n  \"name_servers\": [\n    \"g-ns-1527.awsdns-52.co.uk\",\n    \"g-ns-1848.awsdns-52.co.uk\",\n    \"g-ns-372.awsdns-52.co.uk\",\n    \"g-ns-948.awsdns-52.co.uk\"\n  ]\n}"
+        },
+        {
+            "domain": "awsdns-53.com",
+            "nameserver": [
+                "ns-431.awsdns-53.com"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-53.COM\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 22:21:49\",\n  \"creation_date\": \"2010-10-21 21:02:38\",\n  \"expiration_date\": \"2024-10-21 21:02:38\",\n  \"name_servers\": [\n    \"G-NS-1205.AWSDNS-53.COM\",\n    \"G-NS-1781.AWSDNS-53.COM\",\n    \"G-NS-54.AWSDNS-53.COM\",\n    \"G-NS-629.AWSDNS-53.COM\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-53.net",
+            "nameserver": [
+                "ns-943.awsdns-53.net"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-53.NET\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 22:21:50\",\n  \"creation_date\": \"2010-10-21 21:03:02\",\n  \"expiration_date\": \"2024-10-21 21:03:02\",\n  \"name_servers\": [\n    \"G-NS-1397.AWSDNS-53.NET\",\n    \"G-NS-1973.AWSDNS-53.NET\",\n    \"G-NS-502.AWSDNS-53.NET\",\n    \"G-NS-823.AWSDNS-53.NET\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-54.co.uk",
+            "nameserver": [
+                "ns-1973.awsdns-54.co.uk"
+            ],
+            "data": "{\n  \"domain_name\": \"awsdns-54.co.uk\",\n  \"registrar\": \"Markmonitor Inc. [Tag = MARKMONITOR]\",\n  \"registrar_url\": \"https://www.markmonitor.com\",\n  \"status\": \"Registered until expiry date.\",\n  \"registrant_name\": null,\n  \"registrant_type\": null,\n  \"registrant_street\": null,\n  \"registrant_city\": null,\n  \"registrant_country\": null,\n  \"creation_date\": \"2010-10-21 00:00:00\",\n  \"expiration_date\": \"2024-10-21 00:00:00\",\n  \"updated_date\": \"2019-05-07 00:00:00\",\n  \"name_servers\": [\n    \"g-ns-1529.awsdns-54.co.uk\",\n    \"g-ns-1850.awsdns-54.co.uk\",\n    \"g-ns-374.awsdns-54.co.uk\",\n    \"g-ns-950.awsdns-54.co.uk\"\n  ]\n}"
+        },
+        {
+            "domain": "awsdns-54.com",
+            "nameserver": [
+                "ns-438.awsdns-54.com"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-54.COM\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 22:41:56\",\n  \"creation_date\": \"2010-10-21 21:02:58\",\n  \"expiration_date\": \"2024-10-21 21:02:58\",\n  \"name_servers\": [\n    \"G-NS-1206.AWSDNS-54.COM\",\n    \"G-NS-1782.AWSDNS-54.COM\",\n    \"G-NS-55.AWSDNS-54.COM\",\n    \"G-NS-630.AWSDNS-54.COM\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-55.com",
+            "nameserver": [
+                "ns-441.awsdns-55.com"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-55.COM\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 22:41:56\",\n  \"creation_date\": \"2010-10-21 21:02:38\",\n  \"expiration_date\": \"2024-10-21 21:02:38\",\n  \"name_servers\": [\n    \"G-NS-1207.AWSDNS-55.COM\",\n    \"G-NS-1783.AWSDNS-55.COM\",\n    \"G-NS-56.AWSDNS-55.COM\",\n    \"G-NS-631.AWSDNS-55.COM\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-56.co.uk",
+            "nameserver": [
+                "ns-1987.awsdns-56.co.uk"
+            ],
+            "data": "{\n  \"domain_name\": \"awsdns-56.co.uk\",\n  \"registrar\": \"Markmonitor Inc. [Tag = MARKMONITOR]\",\n  \"registrar_url\": \"https://www.markmonitor.com\",\n  \"status\": \"Registered until expiry date.\",\n  \"registrant_name\": null,\n  \"registrant_type\": null,\n  \"registrant_street\": null,\n  \"registrant_city\": null,\n  \"registrant_country\": null,\n  \"creation_date\": \"2010-10-21 00:00:00\",\n  \"expiration_date\": \"2024-10-21 00:00:00\",\n  \"updated_date\": \"2019-05-07 00:00:00\",\n  \"name_servers\": [\n    \"g-ns-1531.awsdns-56.co.uk\",\n    \"g-ns-1852.awsdns-56.co.uk\",\n    \"g-ns-376.awsdns-56.co.uk\",\n    \"g-ns-952.awsdns-56.co.uk\"\n  ]\n}"
+        },
+        {
+            "domain": "awsdns-56.com",
+            "nameserver": [
+                "ns-449.awsdns-56.com"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-56.COM\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 22:41:56\",\n  \"creation_date\": \"2010-10-21 21:02:47\",\n  \"expiration_date\": \"2024-10-21 21:02:47\",\n  \"name_servers\": [\n    \"G-NS-1208.AWSDNS-56.COM\",\n    \"G-NS-1784.AWSDNS-56.COM\",\n    \"G-NS-57.AWSDNS-56.COM\",\n    \"G-NS-632.AWSDNS-56.COM\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-59.co.uk",
+            "nameserver": [
+                "ns-2010.awsdns-59.co.uk"
+            ],
+            "data": "{\n  \"domain_name\": \"awsdns-59.co.uk\",\n  \"registrar\": \"Markmonitor Inc. [Tag = MARKMONITOR]\",\n  \"registrar_url\": \"https://www.markmonitor.com\",\n  \"status\": \"Registered until expiry date.\",\n  \"registrant_name\": null,\n  \"registrant_type\": null,\n  \"registrant_street\": null,\n  \"registrant_city\": null,\n  \"registrant_country\": null,\n  \"creation_date\": \"2010-10-21 00:00:00\",\n  \"expiration_date\": \"2024-10-21 00:00:00\",\n  \"updated_date\": \"2019-05-07 00:00:00\",\n  \"name_servers\": [\n    \"g-ns-1534.awsdns-59.co.uk\",\n    \"g-ns-1855.awsdns-59.co.uk\",\n    \"g-ns-379.awsdns-59.co.uk\",\n    \"g-ns-955.awsdns-59.co.uk\"\n  ]\n}"
+        },
+        {
+            "domain": "awsdns-60.co.uk",
+            "nameserver": [
+                "ns-2016.awsdns-60.co.uk",
+                "ns-2019.awsdns-60.co.uk"
+            ],
+            "data": "{\n  \"domain_name\": \"awsdns-60.co.uk\",\n  \"registrar\": \"Markmonitor Inc. [Tag = MARKMONITOR]\",\n  \"registrar_url\": \"https://www.markmonitor.com\",\n  \"status\": \"Registered until expiry date.\",\n  \"registrant_name\": null,\n  \"registrant_type\": null,\n  \"registrant_street\": null,\n  \"registrant_city\": null,\n  \"registrant_country\": null,\n  \"creation_date\": \"2010-10-21 00:00:00\",\n  \"expiration_date\": \"2024-10-21 00:00:00\",\n  \"updated_date\": \"2019-05-07 00:00:00\",\n  \"name_servers\": [\n    \"g-ns-1216.awsdns-60.co.uk\",\n    \"g-ns-1537.awsdns-60.co.uk\",\n    \"g-ns-380.awsdns-60.co.uk\",\n    \"g-ns-956.awsdns-60.co.uk\"\n  ]\n}"
+        },
+        {
+            "domain": "awsdns-60.com",
+            "nameserver": [
+                "ns-483.awsdns-60.com"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-60.COM\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 22:41:56\",\n  \"creation_date\": \"2010-10-21 21:03:02\",\n  \"expiration_date\": \"2024-10-21 21:03:02\",\n  \"name_servers\": [\n    \"G-NS-1212.AWSDNS-60.COM\",\n    \"G-NS-1788.AWSDNS-60.COM\",\n    \"G-NS-61.AWSDNS-60.COM\",\n    \"G-NS-636.AWSDNS-60.COM\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-61.co.uk",
+            "nameserver": [
+                "ns-2025.awsdns-61.co.uk"
+            ],
+            "data": "{\n  \"domain_name\": \"awsdns-61.co.uk\",\n  \"registrar\": \"Markmonitor Inc. [Tag = MARKMONITOR]\",\n  \"registrar_url\": \"https://www.markmonitor.com\",\n  \"status\": \"Registered until expiry date.\",\n  \"registrant_name\": null,\n  \"registrant_type\": null,\n  \"registrant_street\": null,\n  \"registrant_city\": null,\n  \"registrant_country\": null,\n  \"creation_date\": \"2010-10-21 00:00:00\",\n  \"expiration_date\": \"2024-10-21 00:00:00\",\n  \"updated_date\": \"2019-05-07 00:00:00\",\n  \"name_servers\": [\n    \"g-ns-1217.awsdns-61.co.uk\",\n    \"g-ns-1538.awsdns-61.co.uk\",\n    \"g-ns-381.awsdns-61.co.uk\",\n    \"g-ns-957.awsdns-61.co.uk\"\n  ]\n}"
+        },
+        {
+            "domain": "awsdns-61.com",
+            "nameserver": [
+                "ns-491.awsdns-61.com",
+                "ns-492.awsdns-61.com",
+                "ns-494.awsdns-61.com"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-61.COM\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 22:41:56\",\n  \"creation_date\": \"2010-10-21 21:02:40\",\n  \"expiration_date\": \"2024-10-21 21:02:40\",\n  \"name_servers\": [\n    \"G-NS-1213.AWSDNS-61.COM\",\n    \"G-NS-1789.AWSDNS-61.COM\",\n    \"G-NS-62.AWSDNS-61.COM\",\n    \"G-NS-637.AWSDNS-61.COM\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        },
+        {
+            "domain": "awsdns-63.com",
+            "nameserver": [
+                "ns-504.awsdns-63.com",
+                "ns-510.awsdns-63.com"
+            ],
+            "data": "{\n  \"domain_name\": \"AWSDNS-63.COM\",\n  \"registrar\": \"MarkMonitor Inc.\",\n  \"whois_server\": \"whois.markmonitor.com\",\n  \"referral_url\": null,\n  \"updated_date\": \"2019-05-07 22:41:56\",\n  \"creation_date\": \"2010-10-21 21:02:43\",\n  \"expiration_date\": \"2024-10-21 21:02:43\",\n  \"name_servers\": [\n    \"G-NS-1215.AWSDNS-63.COM\",\n    \"G-NS-1984.AWSDNS-63.COM\",\n    \"G-NS-257.AWSDNS-63.COM\",\n    \"G-NS-639.AWSDNS-63.COM\"\n  ],\n  \"status\": [\n    \"clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\",\n    \"clientTransferProhibited https://icann.org/epp#clientTransferProhibited\",\n    \"clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\",\n    \"serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited\",\n    \"serverTransferProhibited https://icann.org/epp#serverTransferProhibited\",\n    \"serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited\"\n  ],\n  \"emails\": \"abusecomplaints@markmonitor.com\",\n  \"dnssec\": \"unsigned\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+        }
+    ]
+}

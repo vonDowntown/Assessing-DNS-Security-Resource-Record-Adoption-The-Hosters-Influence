@@ -1,0 +1,34 @@
+{
+    "registrar": {
+        "_id": "6653cbed86427d6716d419ca",
+        "name": "GNAME.COM PTE. LTD.",
+        "domain": "gname.net",
+        "supportedRecordTypes": [],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns1.gname.net",
+            "ns2.gname.net"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://www.gname.net/about",
+                "notes": "Company Name",
+                "time": "2024-04-04T13:02:00+01:00"
+            },
+            {
+                "method": "RecordScan",
+                "link": "",
+                "notes": "add ns1.gname.net and ns2.gname.net ns server",
+                "time": "2024-04-04T12:45:00+01:00"
+            }
+        ],
+        "notes": "chinese domain reseller"
+    },
+    "records": {},
+    "unofficialRecords": {},
+    "domains": 0,
+    "percent": 0.0
+}

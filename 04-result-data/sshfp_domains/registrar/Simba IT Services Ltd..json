@@ -1,0 +1,43 @@
+{
+    "registrar": {
+        "_id": "6653cbee86427d6716d419ee",
+        "name": "Simba IT Services Ltd.",
+        "domain": "https://www.simbahosting.co.uk",
+        "supportedRecordTypes": [],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns1.simbahosting.co.uk",
+            "ns2.simbahosting.co.uk",
+            "ns4.simbahosting.co.uk"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://www.simbahosting.co.uk",
+                "notes": "general information",
+                "time": "2024-04-15T19:42:24+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.simbahosting.co.uk/s3/faqs/what-do-i-need-to-do-about-transferring-name-servers/",
+                "notes": "ns1.simbahosting.co.uk, ns2.simbahosting.co.uk, ns4.simbahosting.co.uk",
+                "time": "2024-04-15T19:43:34+02:00"
+            }
+        ]
+    },
+    "records": {},
+    "unofficialRecords": {
+        "A": 30,
+        "AAAA": 1,
+        "DMARC": 30,
+        "MX": 30,
+        "NS": 30,
+        "SOA": 30,
+        "SPF": 30,
+        "TXT": 30
+    },
+    "domains": 30,
+    "percent": 0.004281432852861425
+}

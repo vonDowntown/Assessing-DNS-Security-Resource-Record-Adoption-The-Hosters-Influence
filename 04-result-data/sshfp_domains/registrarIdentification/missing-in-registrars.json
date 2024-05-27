@@ -1,0 +1,58 @@
+{
+    "gandi.net": [
+        "ns-133-b.gandi.net",
+        "ns-137-b.gandi.net",
+        "ns-175-a.gandi.net",
+        "ns-183-a.gandi.net",
+        "ns-195-a.gandi.net",
+        "ns-5-c.gandi.net",
+        "z.dns.gandi.net"
+    ],
+    "www.cloudns.net": [
+        "dns1.cloudns.net",
+        "dns2.cloudns.net",
+        "dns3.cloudns.net",
+        "dns4.cloudns.net",
+        "dns41.cloudns.net",
+        "dns42.cloudns.net",
+        "dns43.cloudns.net",
+        "dns44.cloudns.net",
+        "dns5.cloudns.net",
+        "dns51.cloudns.net",
+        "dns52.cloudns.net",
+        "dns6.cloudns.net",
+        "dns7.cloudns.net",
+        "dns8.cloudns.net",
+        "pns101.cloudns.net",
+        "pns102.cloudns.net",
+        "pns103.cloudns.net",
+        "pns104.cloudns.net",
+        "pns3.cloudns.net",
+        "pns31.cloudns.net",
+        "pns32.cloudns.net",
+        "pns33.cloudns.net",
+        "pns34.cloudns.net",
+        "pns4.cloudns.net",
+        "pns41.cloudns.net",
+        "pns42.cloudns.net",
+        "pns43.cloudns.net",
+        "pns44.cloudns.net",
+        "pns6.cloudns.net"
+    ],
+    "https://www.buddyns.com/": [
+        "c.ns.buddyns.com",
+        "d.ns.buddyns.com",
+        "e.ns.buddyns.com",
+        "f.ns.buddyns.com",
+        "g.ns.buddyns.com"
+    ],
+    "www.nic.ru/en/": [
+        "ns3-geo.nic.ru",
+        "ns4-geo.nic.ru",
+        "ns8-geo.nic.ru"
+    ],
+    "https://dnsimple.com": [
+        "ns2.dnsimple.com",
+        "ns4.dnsimple.com"
+    ]
+}

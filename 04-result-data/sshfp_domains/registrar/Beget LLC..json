@@ -1,0 +1,67 @@
+{
+    "registrar": {
+        "_id": "6653cbed86427d6716d419cc",
+        "name": "Beget LLC.",
+        "domain": "beget.com",
+        "supportedRecordTypes": [
+            "A",
+            "MX",
+            "TXT",
+            "NS",
+            "CNAME"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns1.beget.com",
+            "ns2.beget.com",
+            "ns1.beget.pro",
+            "ns2.beget.pro",
+            "ns1.beget.ru",
+            "ns2.beget.ru"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://beget.com/en#about-us-block",
+                "notes": "Name",
+                "time": "2024-04-04T13:44:10+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://beget.com/en/kb/manual/domains#move",
+                "notes": "Nameserver add ns1.beget.com, ns2.beget.com, ns1.beget.pro, ns2.beget.pro",
+                "time": "2024-04-04T13:47:05+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://beget.com/en/kb/api/dns-administration-functions",
+                "notes": "add Records based on api documentation",
+                "time": "2024-04-04T13:49:38+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://beget.com/ru/kb/faq/domains/delegirovanie-domenov-2#kak-dobavit-domen-s-drugogo-hostinga-dlya-posleduyushchego-delegirovaniya-etogo-domena",
+                "notes": "*.ru domains translated using firefox ",
+                "time": "2024-04-04T14:17:08+02:00"
+            },
+            {
+                "method": "RecordScan",
+                "link": "",
+                "notes": "",
+                "time": "2024-03-15T20:45:00+01:00"
+            }
+        ]
+    },
+    "records": {
+        "A": 0,
+        "MX": 0,
+        "TXT": 0,
+        "NS": 0,
+        "CNAME": 0
+    },
+    "unofficialRecords": {},
+    "domains": 0,
+    "percent": 0.0
+}

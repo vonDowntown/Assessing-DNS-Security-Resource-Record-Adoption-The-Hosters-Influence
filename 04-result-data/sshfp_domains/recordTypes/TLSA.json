@@ -1,0 +1,8 @@
+{
+    "type": "TLSA",
+    "SupportedByRegistrars": 953,
+    "SupportedAndUsedByRegistrars": 2,
+    "unofficialByRegistrars": 3,
+    "domains": 7,
+    "registeredDomains": 5
+}

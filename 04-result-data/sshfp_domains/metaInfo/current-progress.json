@@ -1,0 +1,12 @@
+{
+    "all": 7007,
+    "haveNS": 5956,
+    "haveNSPercent": "85.0007%",
+    "haveRegistrar": "2561",
+    "haveRegistrarPercent": "36.5492%",
+    "count of NS": 6519,
+    "count of invalid NS": 2,
+    "percent of invalid NS": "0.0307%",
+    "count of ip NS": 1,
+    "percent of ip NS": "0.0153%"
+}

@@ -1,0 +1,8 @@
+{
+    "type": "CDNSKEY",
+    "SupportedByRegistrars": 21,
+    "SupportedAndUsedByRegistrars": 19,
+    "unofficialByRegistrars": 495,
+    "domains": 743,
+    "registeredDomains": 514
+}

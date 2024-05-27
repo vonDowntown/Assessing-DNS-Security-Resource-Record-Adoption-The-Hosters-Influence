@@ -1,0 +1,103 @@
+{
+    "registrar": {
+        "_id": "6653cbed86427d6716d419bb",
+        "name": "Core Networks GmbH",
+        "domain": "core-networks.de",
+        "supportedRecordTypes": [
+            "A",
+            "AAAA",
+            "AFSDB",
+            "APL",
+            "CAA",
+            "CERT",
+            "CNAME",
+            "DHCID",
+            "DNAME",
+            "DS",
+            "HINFO",
+            "HTTPS",
+            "ISDN",
+            "LOC",
+            "MX",
+            "NAPTR",
+            "NINFO",
+            "NS",
+            "OPENPGPKEY",
+            "PTR",
+            "RP",
+            "SMIMEA",
+            "SFP",
+            "SRV",
+            "SVCB",
+            "SSHFP",
+            "TLSA",
+            "TXT",
+            "URI",
+            "WKS"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns1.core-networks.de",
+            "ns2.core-networks.eu",
+            "ns3.core-networks.com"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://www.core-networks.de/faq/nameserver-adressen.html",
+                "notes": "Name, domain, nsServers",
+                "time": "2024-02-27T00:00:00+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.core-networks.de/faq/dns-records.html",
+                "notes": "records",
+                "time": "2024-02-27T00:00:00+01:00"
+            }
+        ]
+    },
+    "records": {
+        "A": 33,
+        "AAAA": 32,
+        "AFSDB": 0,
+        "APL": 0,
+        "CAA": 35,
+        "CERT": 0,
+        "CNAME": 0,
+        "DHCID": 0,
+        "DNAME": 0,
+        "DS": 36,
+        "HINFO": 18,
+        "HTTPS": 0,
+        "ISDN": 0,
+        "LOC": 18,
+        "MX": 36,
+        "NAPTR": 1,
+        "NINFO": 0,
+        "NS": 37,
+        "OPENPGPKEY": 0,
+        "PTR": 0,
+        "RP": 18,
+        "SMIMEA": 0,
+        "SFP": 0,
+        "SRV": 0,
+        "SVCB": 0,
+        "SSHFP": 20,
+        "TLSA": 0,
+        "TXT": 35,
+        "URI": 0,
+        "WKS": 0
+    },
+    "unofficialRecords": {
+        "DMARC": 35,
+        "DNSKEY": 37,
+        "NSEC": 2,
+        "NSEC3PARAM": 36,
+        "SOA": 37,
+        "SPF": 35
+    },
+    "domains": 37,
+    "percent": 0.005280433851862424
+}

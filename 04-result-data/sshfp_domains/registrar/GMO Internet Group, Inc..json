@@ -1,0 +1,85 @@
+{
+    "registrar": {
+        "_id": "6653cbee86427d6716d419fd",
+        "name": "GMO Internet Group, Inc.",
+        "domain": "https://www.onamae.com/",
+        "supportedRecordTypes": [
+            "A",
+            "AAAA",
+            "CNAME",
+            "MX",
+            "NS",
+            "TXT",
+            "SRV",
+            "DS",
+            "CAA",
+            "DKIM",
+            "DMARC",
+            "SPF"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "01.dnsv.jp",
+            "02.dnsv.jp",
+            "03.dnsv.jp",
+            "04.dnsv.jp",
+            "ns-rs1.gmoserver.jp",
+            "ns-rs2.gmoserver.jp",
+            "dns01.gmoserver.jp",
+            "dns02.gmoserver.jp",
+            "dns1.onomae.com",
+            "dns2.onomae.com"
+        ],
+        "source": [
+            {
+                "method": "Whois",
+                "link": "dnsv.jp",
+                "notes": "GMO Internet Group, Inc. and Website address in contact email",
+                "time": "2024-05-11T14:58:12+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://help.onamae.com/answer/7878",
+                "notes": "01.dnsv.jp, 02.dnsv.jp, 03.dnsv.jp, 04.dnsv.jp nameserver, no caching",
+                "time": "2024-05-11T15:02:43+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://help.onamae.com/answer/20390",
+                "notes": "01-04.dnsv.jp, RS-Plan: ns-rs1.gmoserver.jp, ns-rs2.gmoserver.jp  SD Server: dns01.gmoserver.jp dns02.gmoserver.jp, base settings dns1.onomae.com, dns2.onomae.com",
+                "time": "2024-05-11T15:06:58+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.onamae.com/guide/p/70",
+                "notes": "A, AAAA, CNAME, MX, NS, TXT, SRV, DS, CAA",
+                "time": "2024-05-11T15:28:55+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://help.onamae.com/answer/20697",
+                "notes": "DKIM, DMARC SPF",
+                "time": "2024-05-11T15:28:55+02:00"
+            }
+        ]
+    },
+    "records": {
+        "A": 0,
+        "AAAA": 0,
+        "CNAME": 0,
+        "MX": 0,
+        "NS": 0,
+        "TXT": 0,
+        "SRV": 0,
+        "DS": 0,
+        "CAA": 0,
+        "DKIM": 0,
+        "DMARC": 0,
+        "SPF": 0
+    },
+    "unofficialRecords": {},
+    "domains": 0,
+    "percent": 0.0
+}

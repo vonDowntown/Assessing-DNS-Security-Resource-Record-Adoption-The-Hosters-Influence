@@ -1,0 +1,143 @@
+{
+    "registrar": {
+        "_id": "6653cbee86427d6716d419f4",
+        "name": "Vercara, LLC",
+        "domain": "ultradns.com",
+        "supportedRecordTypes": [
+            "A",
+            "NS",
+            "CNAME",
+            "SOA",
+            "PTR",
+            "MX",
+            "TXT",
+            "RP",
+            "AAAA",
+            "LOC",
+            "SRV",
+            "NAPTR",
+            "SSHFP",
+            "SPF",
+            "CAA",
+            "DS",
+            "TLSA",
+            "DNSKEY",
+            "NSEC3",
+            "NSEC3PARAM"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "udns1.ultradns.net",
+            "udns2.ultradns.net",
+            "pdns1.ultradns.net",
+            "pdns2.ultradns.net",
+            "pdns3.ultradns.org",
+            "pdns4.ultradns.org",
+            "pdns5.ultradns.info",
+            "pdns6.ultradns.co.uk",
+            "ns100.ultradns2.com",
+            "ns100.ultradns2.org"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://ultradns.com",
+                "notes": "general info",
+                "time": "2024-04-16T18:09:51+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://docs.ultradns.com/Content/REST%20API/Content/REST%20API/Introduction.htm",
+                "notes": "Records: A, NS, CNAME, SOA, PTR, MX, TXT, RP, AAAA, LOC, SRV, NAPTR, SSHFP, SPF, CAA",
+                "time": "2024-04-16T15:06:05+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://docs.ultradns.com/Content/REST%20API/Content/REST%20API/DS%20Records.htm",
+                "notes": "Record: DS",
+                "time": "2024-04-16T18:14:46+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://docs.ultradns.com/Content/REST%20API/Content/REST%20API/TLSA%20Records%20API.htm",
+                "notes": "Record: DTLSA",
+                "time": "2024-04-16T18:15:07+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://docs.ultradns.com/Content/REST%20API/Content/REST%20API/Zone%20DNSSEC%20APIs.htm",
+                "notes": "More info about DNSSEC: DNSKEY, NSEC3, NSEC3PARAMS mentioned",
+                "time": "2024-04-16T18:18:28+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://docs.ultradns.com/Content/MSP_User_Guide/Content/User%20Guides/MSP_User_Guide/Records/NS%20Records.htm",
+                "notes": "udns1.ultradns.net, udns2.ultradns.net",
+                "time": "2024-04-16T18:26:54+02:00"
+            },
+            {
+                "method": "Whois",
+                "link": "ultradns.org",
+                "notes": "part of Vercara LLC and links to ultradns.com",
+                "time": "2024-04-16T18:27:23+02:00"
+            },
+            {
+                "method": "Whois",
+                "link": "ultradns.com",
+                "notes": "part of Vercara LLC",
+                "time": "2024-04-16T18:27:39+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://vercara.com/support",
+                "notes": "https://www.ultraproducts.support/ is official support for UltraDNS",
+                "time": "2024-04-16T18:42:06+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://dns.ultraproducts.support/hc/en-us/articles/4411985190043-What-are-the-PDNS1-6-name-servers-in-IPv6",
+                "notes": "IPv6 nameserver and theri ipv6: pdns1.ultradns.net, pdns2.ultradns.net, pdns3.ultradns.org, pdns4.ultradns.org pdns5.ultradns.info, pdns6.ultradns.co.uk",
+                "time": "2024-04-16T18:45:33+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://dns.ultraproducts.support/hc/en-us/articles/17405091766811-UltraDNS2-Quick-Start-Guide#01H84SND4J2ZD2S3728Y51274P",
+                "notes": "ns100.ultradns2.com and ns100.ultradns2.org",
+                "time": "2024-04-16T19:02:33+02:00"
+            },
+            {
+                "method": "Whois",
+                "link": "ultradns.biz",
+                "notes": "part of Vercara LLC, but which nameserver?",
+                "time": "2024-04-30T10:58:10+02:00"
+            }
+        ]
+    },
+    "records": {
+        "A": 0,
+        "NS": 0,
+        "CNAME": 0,
+        "SOA": 0,
+        "PTR": 0,
+        "MX": 0,
+        "TXT": 0,
+        "RP": 0,
+        "AAAA": 0,
+        "LOC": 0,
+        "SRV": 0,
+        "NAPTR": 0,
+        "SSHFP": 0,
+        "SPF": 0,
+        "CAA": 0,
+        "DS": 0,
+        "TLSA": 0,
+        "DNSKEY": 0,
+        "NSEC3": 0,
+        "NSEC3PARAM": 0
+    },
+    "unofficialRecords": {},
+    "domains": 0,
+    "percent": 0.0
+}

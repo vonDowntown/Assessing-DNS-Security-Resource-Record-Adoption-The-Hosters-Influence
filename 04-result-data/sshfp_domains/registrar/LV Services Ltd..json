@@ -1,0 +1,45 @@
+{
+    "registrar": {
+        "_id": "6653cbee86427d6716d419ed",
+        "name": "LV Services Ltd.",
+        "domain": "https://www.lvservices.hu",
+        "supportedRecordTypes": [],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "butterfly.bitfarm.hu",
+            "unicorn.bitfarm.hu"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "bitfarm.hu",
+                "notes": "relayes to lvservices.hu",
+                "time": "2024-04-15T19:33:32+02:00"
+            },
+            {
+                "method": "RecordScan",
+                "link": "bitfarm.hu",
+                "notes": " nameserver: butterfly.bitfarm.hu and unicorn.bitfarm.hu",
+                "time": "2024-04-15T19:33:21+02:00"
+            }
+        ]
+    },
+    "records": {},
+    "unofficialRecords": {
+        "A": 42,
+        "CAA": 42,
+        "DMARC": 42,
+        "DNSKEY": 42,
+        "MX": 38,
+        "NS": 42,
+        "NSEC3PARAM": 42,
+        "SOA": 42,
+        "SPF": 42,
+        "SSHFP": 42,
+        "TXT": 42
+    },
+    "domains": 42,
+    "percent": 0.005994005994005994
+}

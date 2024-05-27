@@ -1,0 +1,89 @@
+{
+    "registrar": {
+        "_id": "6653cbed86427d6716d419be",
+        "name": "Hurricane Electric.",
+        "domain": "he.net",
+        "supportedRecordTypes": [
+            "A",
+            "AAAA",
+            "ALIAS",
+            "CNAME",
+            "CAA",
+            "MX",
+            "NS",
+            "TXT",
+            "SRV",
+            "SSHFP",
+            "SPF",
+            "RP",
+            "NAPTR",
+            "HINFO",
+            "LOC",
+            "PTR"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns1.he.net",
+            "ns2.he.net",
+            "ns3.he.net",
+            "ns4.he.net",
+            "ns5.he.net",
+            "slave.dns.he.net"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://he.net/",
+                "notes": "Name and purpose",
+                "time": "2024-03-15T20:20:30+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://dns.he.net/",
+                "notes": "Records, support: <support@he.net> ",
+                "time": "2024-03-15T20:20:30+01:00"
+            },
+            {
+                "method": "RecordScan",
+                "link": "",
+                "notes": "Nameserver",
+                "time": "2024-03-15T20:30:00+01:00"
+            }
+        ],
+        "notes": "global internet Backbone and colocation provider also free beta dns service"
+    },
+    "records": {
+        "A": 117,
+        "AAAA": 80,
+        "ALIAS": 0,
+        "CNAME": 0,
+        "CAA": 100,
+        "MX": 131,
+        "NS": 133,
+        "TXT": 129,
+        "SRV": 0,
+        "SSHFP": 47,
+        "SPF": 129,
+        "RP": 12,
+        "NAPTR": 5,
+        "HINFO": 0,
+        "LOC": 6,
+        "PTR": 0
+    },
+    "unofficialRecords": {
+        "CDNSKEY": 21,
+        "CDS": 22,
+        "DMARC": 96,
+        "DNSKEY": 76,
+        "DS": 64,
+        "HTTPS": 4,
+        "NSEC": 30,
+        "NSEC3PARAM": 51,
+        "SOA": 133,
+        "TLSA": 1
+    },
+    "domains": 133,
+    "percent": 0.01898101898101898
+}

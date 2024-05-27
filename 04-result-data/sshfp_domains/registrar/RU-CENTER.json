@@ -1,0 +1,161 @@
+{
+    "registrar": {
+        "_id": "6653cbee86427d6716d419e4",
+        "name": "RU-CENTER",
+        "domain": "www.nic.ru/en/",
+        "supportedRecordTypes": [
+            "DNSKEY",
+            "DS",
+            "A",
+            "AAAA",
+            "CNAME",
+            "NS",
+            "MX",
+            "SRV",
+            "PTR",
+            "TXT",
+            "HINFO",
+            "NAPTR",
+            "RP"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns4-l2.nic.ru",
+            "ns8-l2.nic.ru",
+            "ns4-cloud.nic.ru",
+            "ns8-cloud.nic.ru",
+            "ns4-l3.nic.ru",
+            "ns8-l3.nic.ru",
+            "ns4-l4.nic.ru",
+            "ns8-l4.nic.ru",
+            "ns4-l5.nic.ru",
+            "ns8-l5.nic.ru",
+            "ns3-l2.nic.ru",
+            "ns4-l2.nic.ru",
+            "ns8-l2.nic.ru",
+            "ns4-cloud.nic.ru",
+            "ns8-cloud.nic.ru",
+            "ns3-l3.nic.ru",
+            "ns4-l3.nic.ru",
+            "ns8-l3.nic.ru",
+            "ns3-l4.nic.ru",
+            "ns4-l4.nic.ru",
+            "ns8-l4.nic.ru",
+            "ns3-l5.nic.ru",
+            "ns4-l5.nic.ru",
+            "ns8-l5.nic.ru",
+            "ns3.nic.ru",
+            "ns4.nic.ru",
+            "ns8.nic.ru",
+            "ns3-fwl2.nic.ru",
+            "ns4-fwl2.nic.ru",
+            "ns8-fwl2.nic.ru",
+            "ns3-fwl3.nic.ru",
+            "ns4-fwl3.nic.ru",
+            "ns8-fwl3.nic.ru",
+            "ns3-fwl4.nic.ru",
+            "ns4-fwl4.nic.ru",
+            "ns8-fwl4.nic.ru",
+            "ns3-fwl5.nic.ru",
+            "ns4-fwl5.nic.ru",
+            "ns8-fwl5.nic.ru",
+            "ns3-fwl2.nic.ru",
+            "ns4-fwl2.nic.ru",
+            "ns8-fwl2.nic.ru",
+            "ns3-fwl3.nic.ru",
+            "ns4-fwl3.nic.ru",
+            "ns8-fwl3.nic.ru",
+            "ns3-fwl4.nic.ru",
+            "ns4-fwl4.nic.ru",
+            "ns8-fwl4.nic.ru",
+            "ns3-fwl5.nic.ru",
+            "ns4-fwl5.nic.ru",
+            "ns8-fwl5.nic.ru"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://www.nic.ru/en/",
+                "notes": "general information",
+                "time": "2024-04-12T19:50:53+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.nic.ru/help/secondary-service-settings_5812.html",
+                "notes": "secondary nameservers information",
+                "time": "2024-04-12T19:51:40+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.nic.ru/help/dns-hosting-setup_5808.html",
+                "notes": "nameservers",
+                "time": "2024-04-12T20:10:55+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.nic.ru/help/dnssec-setup_5805.html",
+                "notes": "DNSSEC Setup: DNSKEY and DS records",
+                "time": "2024-04-12T20:11:45+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.nic.ru/help/how-do-i-point-a-domain-name-to-hosting_7846.html",
+                "notes": "ns3.nic.ru, ns4.nic.ru, ns8.nic.ru",
+                "time": "2024-04-12T20:20:15+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.nic.ru/help/dns-settings_6072.html",
+                "notes": "more nameservers",
+                "time": "2024-04-12T20:21:18+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.nic.ru/help/dns-setting_6074.html",
+                "notes": "more nameserver",
+                "time": "2024-04-12T20:24:22+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.nic.ru/help/how-can-i-change-dns-records-in-the-zone-file_5823.html",
+                "notes": "link to dns-master.ru",
+                "time": "2024-04-12T20:31:13+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "http://dns-master.ru/tariff/en/",
+                "notes": "some stats about service: records: A, AAAA, CNAME, NS, MX, SRV, PTR, TXT, HINFO, NAPTR, RP and Wildcard",
+                "time": "2024-04-12T20:31:13+02:00"
+            }
+        ]
+    },
+    "records": {
+        "DNSKEY": 2,
+        "DS": 2,
+        "A": 3,
+        "AAAA": 0,
+        "CNAME": 0,
+        "NS": 4,
+        "MX": 4,
+        "SRV": 0,
+        "PTR": 0,
+        "TXT": 4,
+        "HINFO": 0,
+        "NAPTR": 0,
+        "RP": 0
+    },
+    "unofficialRecords": {
+        "CAA": 2,
+        "CDNSKEY": 1,
+        "CDS": 1,
+        "DMARC": 3,
+        "NSEC": 1,
+        "NSEC3PARAM": 1,
+        "SOA": 4,
+        "SPF": 4
+    },
+    "domains": 4,
+    "percent": 0.0005708577137148566
+}

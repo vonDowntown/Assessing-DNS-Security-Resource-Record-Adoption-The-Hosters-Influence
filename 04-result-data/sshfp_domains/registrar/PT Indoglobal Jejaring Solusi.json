@@ -1,0 +1,84 @@
+{
+    "registrar": {
+        "_id": "6653cbee86427d6716d419ec",
+        "name": "PT Indoglobal Jejaring Solusi",
+        "domain": "induglobal.com",
+        "supportedRecordTypes": [
+            "MX",
+            "SRV",
+            "SPF",
+            "DKIM"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "odns1.idgx.net",
+            "odns2.idgx.net",
+            "odns3.idgx.net",
+            "odns4.idgx.net",
+            "odns5.idgx.net",
+            "odns6.idgx.net",
+            "canopus.idgx.net",
+            "dns1.atria.idgx.net",
+            "dns1.avior.idgx.net",
+            "dns1.capella.idgx.net",
+            "dns1.castor.idgx.net",
+            "dns1.vega.idgx.net",
+            "dns2.atria.idgx.net",
+            "dns2.avior.idgx.net",
+            "dns2.capella.idgx.net",
+            "dns2.castor.idgx.net",
+            "dns2.vega.idgx.net"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://control.atria.idgx.net/user/",
+                "notes": "copyright mentions name",
+                "time": "2024-04-15T18:18:29+02:00"
+            },
+            {
+                "method": "Whois",
+                "link": "idgx.net",
+                "notes": "odns*.idgx.net nameserver",
+                "time": "2024-04-15T18:18:33+02:00"
+            },
+            {
+                "method": "RecordScan",
+                "link": "",
+                "notes": "nameserver",
+                "time": "2024-04-15T18:18:43+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://indoglobal.com/",
+                "notes": "general information, induglobal is hoster",
+                "time": "2024-04-15T18:22:45+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://indoglobal.com/tabel-perbandingan-paket/",
+                "notes": "hosting packages: Subdomain, MX, SRV, SPF, DKIM, Cloudflare compatible??",
+                "time": "2024-04-15T18:27:45+02:00"
+            }
+        ]
+    },
+    "records": {
+        "MX": 165,
+        "SRV": 0,
+        "SPF": 163,
+        "DKIM": 0
+    },
+    "unofficialRecords": {
+        "A": 164,
+        "DMARC": 156,
+        "NS": 165,
+        "NSEC": 83,
+        "SOA": 165,
+        "SSHFP": 151,
+        "TXT": 163
+    },
+    "domains": 165,
+    "percent": 0.023547880690737835
+}

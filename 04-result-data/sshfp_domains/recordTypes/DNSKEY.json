@@ -1,0 +1,8 @@
+{
+    "type": "DNSKEY",
+    "SupportedByRegistrars": 840,
+    "SupportedAndUsedByRegistrars": 482,
+    "unofficialByRegistrars": 863,
+    "domains": 3382,
+    "registeredDomains": 1345
+}

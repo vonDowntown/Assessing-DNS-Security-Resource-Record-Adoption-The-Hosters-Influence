@@ -1,0 +1,75 @@
+{
+    "registrar": {
+        "_id": "6653cbed86427d6716d419ba",
+        "name": "Linode LLC",
+        "domain": "linode.com",
+        "supportedRecordTypes": [
+            "A",
+            "AAAA",
+            "CNAME",
+            "TXT",
+            "MX",
+            "SOA",
+            "SRV",
+            "CAA"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns1.linode.com",
+            "ns2.linode.com",
+            "ns3.linode.com",
+            "ns4.linode.com",
+            "ns5.linode.com"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://www.linode.com/de/products/dns-manager/",
+                "notes": "recordtypes A, AAAA, CNAME, TXT, MX",
+                "time": "2024-02-27T00:00:00+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.linode.com/docs/products/networking/dns-manager/",
+                "notes": "DNSSEC is not supported and should be disabled on your domain\u2019s registrar.",
+                "time": "2024-02-27T00:00:00+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.linode.com/docs/products/networking/dns-manager/get-started/#add-dns-records",
+                "notes": "nsServers and some NSRecords( A, AAAA, CNAME, TXT, MX, SOA, SRV, CAA)",
+                "time": "2024-02-27T00:00:00+01:00"
+            }
+        ]
+    },
+    "records": {
+        "A": 36,
+        "AAAA": 31,
+        "CNAME": 0,
+        "TXT": 38,
+        "MX": 43,
+        "SOA": 44,
+        "SRV": 0,
+        "CAA": 27
+    },
+    "unofficialRecords": {
+        "CDNSKEY": 7,
+        "CDS": 7,
+        "DMARC": 25,
+        "DNSKEY": 23,
+        "DS": 18,
+        "LOC": 1,
+        "NAPTR": 1,
+        "NS": 44,
+        "NSEC": 15,
+        "NSEC3PARAM": 8,
+        "PTR": 1,
+        "RP": 2,
+        "SPF": 38,
+        "SSHFP": 14
+    },
+    "domains": 44,
+    "percent": 0.006279434850863423
+}

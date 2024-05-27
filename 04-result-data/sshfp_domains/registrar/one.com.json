@@ -1,0 +1,67 @@
+{
+    "registrar": {
+        "_id": "6653cbee86427d6716d419e9",
+        "name": "one.com",
+        "domain": "one.com",
+        "supportedRecordTypes": [
+            "A",
+            "AAAA",
+            "CAA",
+            "CNAME",
+            "DS",
+            "MX",
+            "NS",
+            "TXT",
+            "SRV",
+            "SPF",
+            "TLSA",
+            "DMARC",
+            "SSHFP"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns01.one.com",
+            "ns02.one.com"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://help.one.com/hc/de/articles/115005587669-Wie-ziehe-ich-meine-com-net-Domain-zu-One-com-um",
+                "notes": "ns01.one.com and ns02.one.com as nameserver",
+                "time": "2024-04-13T18:09:10+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://help.one.com/hc/de/articles/115005595925-Verwaltung-Ihrer-DNS-Einstellungen",
+                "notes": "A, AAAA, CAA, CNAME, DS, MX, NS, TXT, SRV, SPF, TLSA, DMARC, SSHFP ",
+                "time": "2024-04-13T18:13:12+02:00"
+            }
+        ]
+    },
+    "records": {
+        "A": 19,
+        "AAAA": 14,
+        "CAA": 9,
+        "CNAME": 0,
+        "DS": 20,
+        "MX": 23,
+        "NS": 23,
+        "TXT": 21,
+        "SRV": 0,
+        "SPF": 21,
+        "TLSA": 0,
+        "DMARC": 13,
+        "SSHFP": 7
+    },
+    "unofficialRecords": {
+        "CDNSKEY": 3,
+        "CDS": 3,
+        "DNSKEY": 23,
+        "NSEC3PARAM": 23,
+        "SOA": 23
+    },
+    "domains": 23,
+    "percent": 0.0032824318538604252
+}

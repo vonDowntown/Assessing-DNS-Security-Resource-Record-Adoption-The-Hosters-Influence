@@ -1,0 +1,68 @@
+{
+    "registrar": {
+        "_id": "6653cbed86427d6716d419cb",
+        "name": "hostinger.com",
+        "domain": "hostinger.com",
+        "supportedRecordTypes": [
+            "A",
+            "CNAME",
+            "MX",
+            "TXT",
+            "AAAA",
+            "NS",
+            "SRV",
+            "CAA"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns1.dns-parking.com",
+            "ns2.dns-parking.com"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://www.hostinger.com/about",
+                "notes": "",
+                "time": "2024-04-04T13:19:02+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://support.hostinger.com/en/articles/1583247-where-to-find-hostinger-nameservers",
+                "notes": "ns1.dns-parking.com, ns2.dns-parking.com",
+                "time": "2024-04-04T13:20:10+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://support.hostinger.com/en/articles/1583249-how-to-manage-dns-records-at-hostinger",
+                "notes": " A, CNAME, MX, TXT, AAAA, NS, SRV, and CAA",
+                "time": "2024-04-04T13:21:36+02:00"
+            },
+            {
+                "method": "RecordScan",
+                "link": "",
+                "notes": "",
+                "time": "2024-03-15T20:45:00+01:00"
+            }
+        ]
+    },
+    "records": {
+        "A": 12,
+        "CNAME": 0,
+        "MX": 11,
+        "TXT": 11,
+        "AAAA": 11,
+        "NS": 12,
+        "SRV": 0,
+        "CAA": 12
+    },
+    "unofficialRecords": {
+        "DMARC": 6,
+        "NSEC": 1,
+        "SOA": 12,
+        "SPF": 11
+    },
+    "domains": 12,
+    "percent": 0.0017125731411445698
+}

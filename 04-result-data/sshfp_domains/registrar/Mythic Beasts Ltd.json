@@ -1,0 +1,91 @@
+{
+    "registrar": {
+        "_id": "6653cbed86427d6716d419c8",
+        "name": "Mythic Beasts Ltd",
+        "domain": "mythic-beasts.com",
+        "supportedRecordTypes": [
+            "A",
+            "AAAA",
+            "CAA",
+            "MX",
+            "SRV",
+            "SSHFP",
+            "TLSA",
+            "ALIAS"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [
+            "45.33.127.156",
+            "93.93.128.67"
+        ],
+        "ipv6": [
+            "2600:3c00:e000:19::1",
+            "2a00:1098:0:80:1000::10"
+        ],
+        "nsServer": [
+            "ns1.mythic-beasts.com",
+            "ns2.mythic-beasts.com",
+            "ns3.mythic-beasts.com"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://www.mythic-beasts.com/support/domains/nameservers",
+                "notes": "ns1 and ns2 and 2 ipv4 and 2 ipv6 namserver",
+                "time": "2024-03-31T21:21:00+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.mythic-beasts.com/article/contact",
+                "notes": "contact page",
+                "time": "2024-03-31T21:25:00+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.mythic-beasts.com/support/api/dnsv2",
+                "notes": "API details",
+                "time": "2024-03-31T21:30:00+01:00"
+            },
+            {
+                "method": "Whois",
+                "link": "",
+                "notes": "",
+                "time": "2024-03-19T15:07:35+01:00"
+            },
+            {
+                "method": "RecordScan",
+                "link": "",
+                "notes": "",
+                "time": "2024-03-15T20:45:00+01:00"
+            }
+        ]
+    },
+    "records": {
+        "A": 74,
+        "AAAA": 61,
+        "CAA": 14,
+        "MX": 70,
+        "SRV": 0,
+        "SSHFP": 9,
+        "TLSA": 0,
+        "ALIAS": 0
+    },
+    "unofficialRecords": {
+        "CDNSKEY": 2,
+        "CDS": 2,
+        "DMARC": 24,
+        "DNSKEY": 28,
+        "DS": 27,
+        "LOC": 1,
+        "NAPTR": 1,
+        "NS": 81,
+        "NSEC": 27,
+        "NSEC3PARAM": 1,
+        "RP": 6,
+        "SOA": 81,
+        "SPF": 70,
+        "TXT": 70
+    },
+    "domains": 81,
+    "percent": 0.011559868702725845
+}
