@@ -1,0 +1,8 @@
+{
+    "type": "DMARC",
+    "SupportedByRegistrars": 340739,
+    "SupportedAndUsedByRegistrars": 31784,
+    "unofficialByRegistrars": 38153,
+    "domains": 112424,
+    "registeredDomains": 69847
+}
