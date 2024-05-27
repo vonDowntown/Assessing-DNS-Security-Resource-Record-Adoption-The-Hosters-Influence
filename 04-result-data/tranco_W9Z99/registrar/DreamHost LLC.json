@@ -1,0 +1,66 @@
+{
+    "registrar": {
+        "_id": "6653d62b6ffc194efcd24720",
+        "name": "DreamHost LLC",
+        "domain": "dreamhost.com",
+        "supportedRecordTypes": [
+            "A",
+            "AAAA",
+            "ALIAS",
+            "CNAME",
+            "MX",
+            "TXT",
+            "NAPTR",
+            "SPF",
+            "SRV",
+            "CAA",
+            "DKIM",
+            "NS"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns1.dreamhost.com",
+            "ns2.dreamhost.com",
+            "ns3.dreamhost.com"
+        ],
+        "source": [
+            {
+                "method": "RecordScan",
+                "link": "",
+                "notes": "",
+                "time": "2024-03-15T20:45:00+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://help.dreamhost.com/hc/en-us/articles/216385467-Nameservers-overview",
+                "notes": "nameservers",
+                "time": "2024-04-04T19:58:08+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://help.dreamhost.com/hc/en-us/articles/360035516812-Adding-custom-DNS-records",
+                "notes": "add records",
+                "time": "2024-04-04T19:59:07+02:00"
+            }
+        ]
+    },
+    "records": {
+        "A": 0,
+        "AAAA": 0,
+        "ALIAS": 0,
+        "CNAME": 0,
+        "MX": 0,
+        "TXT": 0,
+        "NAPTR": 0,
+        "SPF": 0,
+        "SRV": 0,
+        "CAA": 0,
+        "DKIM": 0,
+        "NS": 0
+    },
+    "unofficialRecords": {},
+    "domains": 9052,
+    "percent": 0.0036639822289576025
+}

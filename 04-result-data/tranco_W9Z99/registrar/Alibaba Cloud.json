@@ -1,0 +1,149 @@
+{
+    "registrar": {
+        "_id": "6653d62b6ffc194efcd24712",
+        "name": "Alibaba Cloud",
+        "domain": "alibabacloud.com",
+        "supportedRecordTypes": [
+            "A",
+            "CNAME",
+            "MX",
+            "AAAA",
+            "TXT",
+            "NS",
+            "SRV",
+            "CAA",
+            "PTR"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns1.alidns.com",
+            "ns2.alidns.com",
+            "ns3.alidns.com",
+            "ns4.alidns.com",
+            "ns5.alidns.com",
+            "ns6.alidns.com",
+            "ns7.alidns.com",
+            "ns8.alidns.com",
+            "vip1.alidns.com",
+            "vip2.alidns.com",
+            "vip3.alidns.com",
+            "vip4.alidns.com",
+            "vip5.alidns.com",
+            "vip6.alidns.com",
+            "vip7.alidns.com",
+            "vip8.alidns.com",
+            "ns1.hichina.com",
+            "ns2.hichina.com",
+            "dns1.hichina.com",
+            "dns2.hichina.com",
+            "dns3.hichina.com",
+            "dns4.hichina.com",
+            "dns5.hichina.com",
+            "dns6.hichina.com",
+            "dns7.hichina.com",
+            "dns8.hichina.com",
+            "dns9.hichina.com",
+            "dns10.hichina.com",
+            "dns11.hichina.com",
+            "dns12.hichina.com",
+            "dns13.hichina.com",
+            "dns14.hichina.com",
+            "dns15.hichina.com",
+            "dns16.hichina.com",
+            "dns17.hichina.com",
+            "dns18.hichina.com",
+            "dns19.hichina.com",
+            "dns20.hichina.com",
+            "dns21.hichina.com",
+            "dns22.hichina.com",
+            "dns23.hichina.com",
+            "dns24.hichina.com",
+            "dns25.hichina.com",
+            "dns26.hichina.com",
+            "dns27.hichina.com",
+            "dns28.hichina.com",
+            "dns29.hichina.com",
+            "dns30.hichina.com",
+            "dns31.hichina.com",
+            "dns32.hichina.com",
+            "ns3.hichina.com",
+            "ns4.hichina.com",
+            "ns3.aliyun.com",
+            "ns4.aliyun.com",
+            "ns5.aliyun.com"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://www.alibabacloud.com/help/en/dws/support/domain-name-transfer",
+                "notes": "add alidns",
+                "time": "2024-03-28T16:30:00+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.alibabacloud.com/help/en/alibaba-cloud-dns/latest/create-a-dns-record",
+                "notes": "add records: A, CNAME, MX, AAAA, TXT, NS, SRV, CAA, PTR",
+                "time": "2024-03-28T16:44:00+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.alibabacloud.com/help/en/alibaba-cloud-dns/latest/enable-secondary-dns#topic-2035931",
+                "notes": "vip3/vip4.alidns.com is secondary DNS",
+                "time": "2024-03-28T16:53:00+01:00"
+            },
+            {
+                "method": "Whois",
+                "link": "hichina.com",
+                "notes": "Registrar Alibaba Cloud Computing (Beijing) Co., Ltd., Contact form of aliyun.com, website-> www.net.ce ->  https://wanwang.aliyun.com/",
+                "time": "2024-04-11T16:38:16+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://help.aliyun.com/zh/dns/features?spm=5176.71615.J_2779758610.1.64edd75aCv9yZG",
+                "notes": "aliyun has same record types as alibabacloud",
+                "time": "2024-04-11T16:35:56+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.alibabacloud.com/",
+                "notes": "aliyun.com is referenced",
+                "time": "2024-04-11T16:37:57+02:00"
+            },
+            {
+                "method": "RecordScan",
+                "link": "hichina.com",
+                "notes": "add dns*.hichina.com ans ns*.hichina.com",
+                "time": "2024-04-11T16:42:45+02:00"
+            },
+            {
+                "method": "Whois",
+                "link": "aliyun.com",
+                "notes": "add ns3-ns5.aliyun.com",
+                "time": "2024-04-11T16:45:00+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.alibabacloud.com/help/en/dns/alibaba-cloud-dns-assigned-dns-server",
+                "notes": "vip(1-8).alidns.com, dns(1-32).hichina.com and ns(1-8).alidns.com ",
+                "time": "2024-05-11T19:15:54+02:00"
+            }
+        ],
+        "notes": "what is Explicit or implicit URL forwarding record https://www.alibabacloud.com/help/en/alibaba-cloud-dns/latest/create-a-dns-record#h2-url-6"
+    },
+    "records": {
+        "A": 0,
+        "CNAME": 0,
+        "MX": 0,
+        "AAAA": 0,
+        "TXT": 0,
+        "NS": 0,
+        "SRV": 0,
+        "CAA": 0,
+        "PTR": 0
+    },
+    "unofficialRecords": {},
+    "domains": 33647,
+    "percent": 0.01361931176068675
+}

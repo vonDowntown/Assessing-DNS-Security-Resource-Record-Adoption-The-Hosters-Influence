@@ -1,0 +1,74 @@
+{
+    "registrar": {
+        "_id": "6653d62c6ffc194efcd24736",
+        "name": "netcup",
+        "domain": "www.netcup.de",
+        "supportedRecordTypes": [
+            "A",
+            "AAAA",
+            "MX",
+            "TXT",
+            "CNAME",
+            "SRV",
+            "NS",
+            "DS",
+            "TLSA",
+            "CAA",
+            "SSHFP",
+            "SMIMEA",
+            "OPENPGPKEY"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "root-dns.netcup.net",
+            "second-dns.netcup.net",
+            "third-dns.netcup.net"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://helpcenter.netcup.com/de/wiki/domain/dns-einstellungen/",
+                "notes": "",
+                "time": "2024-03-15T20:37:00+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://ccp.netcup.net/run/webservice/xsd/simpletypes.xsd",
+                "notes": "api reocrdtypes: A|AAAA|MX|TXT|CNAME|SRV|NS|DS|TLSA|CAA|SSHFP|SMIMEA|OPENPGPKEY)",
+                "time": "2024-03-19 15:07:35.978258+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.netcup.de/ueber-netcup/",
+                "notes": "general information",
+                "time": "2024-04-13T18:30:15+02:00"
+            },
+            {
+                "method": "RecordScan",
+                "link": "",
+                "notes": "nameserver: root-dns.netcup.net, second-dns.netcup.net, third-dns.netcup.net",
+                "time": "2024-04-13T18:31:48+02:00"
+            }
+        ]
+    },
+    "records": {
+        "A": 0,
+        "AAAA": 0,
+        "MX": 0,
+        "TXT": 0,
+        "CNAME": 0,
+        "SRV": 0,
+        "NS": 0,
+        "DS": 0,
+        "TLSA": 0,
+        "CAA": 0,
+        "SSHFP": 0,
+        "SMIMEA": 0,
+        "OPENPGPKEY": 0
+    },
+    "unofficialRecords": {},
+    "domains": 674,
+    "percent": 0.0002728152919042669
+}

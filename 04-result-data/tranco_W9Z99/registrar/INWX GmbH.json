@@ -1,0 +1,110 @@
+{
+    "registrar": {
+        "_id": "6653d62b6ffc194efcd24703",
+        "name": "INWX GmbH",
+        "domain": "inwx.de",
+        "supportedRecordTypes": [
+            "A",
+            "AAAA",
+            "AFSDB",
+            "ALIAS",
+            "CAA",
+            "CERT",
+            "HINFO",
+            "HTTPS",
+            "IPSECKEY",
+            "LOC",
+            "MX",
+            "NAPTR",
+            "NS",
+            "OPENPGPKEY",
+            "PTR",
+            "RP",
+            "SMIMEA",
+            "SOA",
+            "SRV",
+            "SSHFP",
+            "SVCB",
+            "TLSA",
+            "TXT",
+            "URI"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns.inwx.de",
+            "ns2.inwx.de",
+            "ns3.inwx.de",
+            "ns.domrobot.com",
+            "ns.domrobot.net",
+            "ns.domrobot.org",
+            "ns3.inwx.eu",
+            "ns.inwx.com",
+            "ns2.inwx.com",
+            "ns4.inwx.com",
+            "ns5.inwx.net"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://kb.inwx.com/de-de/3-nameserver/3-wie-lauten-die-ipv4-und-ipv6-adressen-der-nameserver",
+                "notes": "nsServers",
+                "time": "2024-02-27T00:00:00+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.inwx.de/de/aboutus/support",
+                "notes": "name, email, phone, origin is de",
+                "time": "2024-02-27T00:00:00+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://kb.inwx.com/de-de/3-nameserver/109-welche-record-typen-konnen-genutzt-werden",
+                "notes": "A, AAAA, AFSDB, ALIAS, CAA, CERT, HINFO, HTTPS, IPSECKEY, LOC, MX, NAPTR, NS, OPENPGPKEY, PTR, RP, SMIMEA, SOA, SRV, SSHFP, SVCB, TLSA, TXT, URL(own implementation), URI",
+                "time": "2024-02-27T00:00:00+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.inwx.de/de/news/604/wichtige-%C3%A4nderung-der-nameserver",
+                "notes": "add ns3.inwx.de and  deprecated NS ",
+                "time": "2024-04-04T12:30:00+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://kb.inwx.com/en-us/3-nameserver/3-what-are-the-ipv4-and-ipv6-addresses-of-the-name-servers",
+                "notes": "ns.inwx.com, ns2.inwx.com, ns3.inwx.eu and ns.domrobot.com, ns.domrobot.net, ns.domrobot.org",
+                "time": "2024-04-04T12:30:00+01:00"
+            }
+        ]
+    },
+    "records": {
+        "A": 0,
+        "AAAA": 0,
+        "AFSDB": 0,
+        "ALIAS": 0,
+        "CAA": 0,
+        "CERT": 0,
+        "HINFO": 0,
+        "HTTPS": 0,
+        "IPSECKEY": 0,
+        "LOC": 0,
+        "MX": 0,
+        "NAPTR": 0,
+        "NS": 0,
+        "OPENPGPKEY": 0,
+        "PTR": 0,
+        "RP": 0,
+        "SMIMEA": 0,
+        "SOA": 0,
+        "SRV": 0,
+        "SSHFP": 0,
+        "SVCB": 0,
+        "TLSA": 0,
+        "TXT": 0,
+        "URI": 0
+    },
+    "unofficialRecords": {},
+    "domains": 1681,
+    "percent": 0.0006804191479096034
+}

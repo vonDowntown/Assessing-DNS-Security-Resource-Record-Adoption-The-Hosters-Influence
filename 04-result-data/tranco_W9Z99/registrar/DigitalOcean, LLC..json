@@ -1,0 +1,64 @@
+{
+    "registrar": {
+        "_id": "6653d62c6ffc194efcd2473c",
+        "name": "DigitalOcean, LLC.",
+        "domain": "digitalocean.com",
+        "supportedRecordTypes": [
+            "A",
+            "AAAA",
+            "CNAME",
+            "MX",
+            "TXT",
+            "SPF",
+            "DKIM",
+            "NS",
+            "SRV",
+            "CAA",
+            "PTR"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns1.digitalocean.com",
+            "ns2.digitalocean.com",
+            "ns3.digitalocean.com"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://docs.digitalocean.com/products/networking/dns/getting-started/dns-registrars/",
+                "notes": "nameserveons1/ns2/ns3.digitalocean.com",
+                "time": "2024-04-16T13:58:33+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.digitalocean.com/",
+                "notes": "general information",
+                "time": "2024-04-16T13:59:24+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://docs.digitalocean.com/products/networking/dns/how-to/manage-records/#supported-record-types",
+                "notes": "supports: A, AAAA, CNAME, MX, TXT, SPF, DKIM, NS, SRV, CAA, PTR",
+                "time": "2024-04-16T14:00:21+02:00"
+            }
+        ]
+    },
+    "records": {
+        "A": 0,
+        "AAAA": 0,
+        "CNAME": 0,
+        "MX": 0,
+        "TXT": 0,
+        "SPF": 0,
+        "DKIM": 0,
+        "NS": 0,
+        "SRV": 0,
+        "CAA": 0,
+        "PTR": 0
+    },
+    "unofficialRecords": {},
+    "domains": 8703,
+    "percent": 0.0035227173374522774
+}

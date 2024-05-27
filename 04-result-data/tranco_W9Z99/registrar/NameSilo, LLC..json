@@ -1,0 +1,75 @@
+{
+    "registrar": {
+        "_id": "6653d62c6ffc194efcd2473d",
+        "name": "NameSilo, LLC.",
+        "domain": "www.namesilo.com",
+        "supportedRecordTypes": [
+            "A",
+            "AAAA",
+            "CNAME",
+            "MX",
+            "TXT",
+            "SRV",
+            "CAA",
+            "PTR",
+            "DS"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns1.dnsowl.com",
+            "ns2.dnsowl.com",
+            "ns3.dnsowl.com",
+            "premium-ns1.dnsowl.com",
+            "premium-ns2.dnsowl.com",
+            "premium-ns3.dnsowl.com"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://www.namesilo.com/",
+                "notes": "general information",
+                "time": "2024-04-16T14:19:11+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.namesilo.com/support/v2/articles/domain-manager/dns-troubleshooting",
+                "notes": "nameservers: ns1.dnsowl.com, ns2.dnsowl.com, ns3.dnsowl.com",
+                "time": "2024-04-16T14:25:16+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.namesilo.com/support/v2/articles/domain-manager/dns-manager",
+                "notes": "supports: A, AAAA, CNAME, MX, TXT, SRV, CAA, PTR",
+                "time": "2024-04-16T14:25:20+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.namesilo.com/support/v2/articles/domain-manager/ds-records",
+                "notes": "supports DS records",
+                "time": "2024-04-16T14:26:27+02:00"
+            },
+            {
+                "method": "RecordScan",
+                "link": "https://www.namesilo.com/support/v2/articles/domain-manager/premium-dns",
+                "notes": "add premium-ns1.dnsowl.com, premium-ns2.dnsowl.com, premium-ns3.dnsowl.com, which is undisclosed in docu",
+                "time": "2024-04-16T18:34:50+02:00"
+            }
+        ]
+    },
+    "records": {
+        "A": 0,
+        "AAAA": 0,
+        "CNAME": 0,
+        "MX": 0,
+        "TXT": 0,
+        "SRV": 0,
+        "CAA": 0,
+        "PTR": 0,
+        "DS": 0
+    },
+    "unofficialRecords": {},
+    "domains": 9270,
+    "percent": 0.003752222189840585
+}

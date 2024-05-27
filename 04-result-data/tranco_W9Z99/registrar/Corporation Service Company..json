@@ -1,0 +1,62 @@
+{
+    "registrar": {
+        "_id": "6653d62c6ffc194efcd24726",
+        "name": "Corporation Service Company.",
+        "domain": "https://www.cscglobal.com",
+        "supportedRecordTypes": [],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "udns1.cscdns.net",
+            "udns2.cscdns.org",
+            "dns1.cscdns.net",
+            "dns2.cscdns.net",
+            "pdns1.cscdns.net",
+            "pdns2.cscdns.net"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://www.cscdbs.com/",
+                "notes": "name and website",
+                "time": "2024-04-05T00:02:32+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.cscglobal.com",
+                "notes": "name and website",
+                "time": "2024-04-05T00:16:21+02:00"
+            },
+            {
+                "method": "Whois",
+                "link": "cscdns.com",
+                "notes": "ns server",
+                "time": "2024-04-05T00:06:16+02:00"
+            },
+            {
+                "method": "Whois",
+                "link": "cscdns.org",
+                "notes": "nameserver",
+                "time": "2024-04-05T00:06:16+02:00"
+            },
+            {
+                "method": "Whois",
+                "link": "cscdns.net",
+                "notes": "nameserver",
+                "time": "2024-04-05T00:06:16+02:00"
+            },
+            {
+                "method": "RecordScan",
+                "link": "",
+                "notes": "",
+                "time": "2024-03-15T20:45:00+01:00"
+            }
+        ],
+        "notes": "TODO: Scan for records"
+    },
+    "records": {},
+    "unofficialRecords": {},
+    "domains": 52753,
+    "percent": 0.02135285622229346
+}

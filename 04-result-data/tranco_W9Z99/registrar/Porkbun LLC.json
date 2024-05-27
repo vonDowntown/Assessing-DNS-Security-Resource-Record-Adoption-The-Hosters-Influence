@@ -1,0 +1,71 @@
+{
+    "registrar": {
+        "_id": "6653d62c6ffc194efcd24727",
+        "name": "Porkbun LLC",
+        "domain": "https://porkbun.com/",
+        "supportedRecordTypes": [
+            "A",
+            "AAAA",
+            "MX",
+            "CNAME",
+            "ALIAS",
+            "TXT",
+            "NS",
+            "SRV"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "curitiba.ns.porkbun.com",
+            "fortaleza.ns.porkbun.com",
+            "maceio.ns.porkbun.com",
+            "salvador.ns.porkbun.com"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://porkbun.com/",
+                "notes": "Website and name",
+                "time": "2024-04-05T00:35:18+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://kb.porkbun.com/article/231-how-to-add-dns-records-on-porkbun",
+                "notes": "DNS records",
+                "time": "2024-04-05T00:38:17+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://kb.porkbun.com/article/63-how-to-switch-to-porkbuns-nameservers",
+                "notes": "nameserver",
+                "time": "2024-04-05T00:40:48+02:00"
+            },
+            {
+                "method": "Whois",
+                "link": "",
+                "notes": "",
+                "time": "2024-03-19T15:07:35+01:00"
+            },
+            {
+                "method": "RecordScan",
+                "link": "",
+                "notes": "",
+                "time": "2024-03-15T20:45:00+01:00"
+            }
+        ]
+    },
+    "records": {
+        "A": 0,
+        "AAAA": 0,
+        "MX": 0,
+        "CNAME": 0,
+        "ALIAS": 0,
+        "TXT": 0,
+        "NS": 0,
+        "SRV": 0
+    },
+    "unofficialRecords": {},
+    "domains": 2610,
+    "percent": 0.001056450907819194
+}

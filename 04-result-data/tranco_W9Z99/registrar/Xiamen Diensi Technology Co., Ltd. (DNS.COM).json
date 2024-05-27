@@ -1,0 +1,119 @@
+{
+    "registrar": {
+        "_id": "6653d62b6ffc194efcd24710",
+        "name": "Xiamen Diensi Technology Co., Ltd. (DNS.COM)",
+        "domain": "dns.com",
+        "supportedRecordTypes": [
+            "TXT",
+            "MX",
+            "SPF",
+            "CNAME",
+            "A",
+            "NS",
+            "CAA",
+            "SRV",
+            "AAAA"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "17ex1.dns.com",
+            "17ex2.dns.com",
+            "62ns1.dns.com",
+            "62ns2.dns.com",
+            "dm1.dns.com",
+            "dm2.dns.com",
+            "jinmi1.dns.com",
+            "jinmi2.dns.com",
+            "jm1.dns.com",
+            "jm2.dns.com",
+            "m1.dns.com",
+            "m2.dns.com",
+            "now1.dns.com",
+            "now2.dns.com",
+            "ns1.dns.com",
+            "ns2.dns.com",
+            "ns3.dns.com",
+            "ns4.dns.com",
+            "v1.dns.com",
+            "v2.dns.com"
+        ],
+        "source": [
+            {
+                "method": "RecordScan",
+                "link": "",
+                "notes": "",
+                "time": "2024-03-19T19:55:00+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www-dns-com.translate.goog/supports/503.html?_x_tr_sl=zh-CN&_x_tr_tl=de&_x_tr_hl=de&_x_tr_pto=sc",
+                "notes": "google translated website for dns.com mentions ns*.dns.com and v*.dns.com",
+                "time": "2024-04-08T14:18:05+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.dns.com/supports/255.html",
+                "notes": "google translated TXT, MX and SPF",
+                "time": "2024-05-17T18:14:08+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.dns.com/supports/253.html",
+                "notes": "google translated CNAME",
+                "time": "2024-05-17T18:15:35+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.dns.com/supports/252.html",
+                "notes": "google translated A",
+                "time": "2024-05-17T18:16:51+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.dns.com/supports/254.html",
+                "notes": "google translated MX",
+                "time": "2024-05-17T18:17:30+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.dns.com/supports/471.html",
+                "notes": "google translated NS",
+                "time": "2024-05-17T18:18:26+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.dns.com/supports/755.html",
+                "notes": "google translated CAA Doku broken but seems like it ",
+                "time": "2024-05-17T18:20:15+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.dns.com/supports/2340.html",
+                "notes": "google translated SRV ",
+                "time": "2024-05-18T09:31:07+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.dns.com/supports/514.html",
+                "notes": "google translated AAAA",
+                "time": "2024-05-18T09:36:38+02:00"
+            }
+        ]
+    },
+    "records": {
+        "TXT": 0,
+        "MX": 0,
+        "SPF": 0,
+        "CNAME": 0,
+        "A": 0,
+        "NS": 0,
+        "CAA": 0,
+        "SRV": 0,
+        "AAAA": 0
+    },
+    "unofficialRecords": {},
+    "domains": 17341,
+    "percent": 0.0070191245948247665
+}

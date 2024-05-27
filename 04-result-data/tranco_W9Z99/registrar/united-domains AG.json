@@ -1,0 +1,58 @@
+{
+    "registrar": {
+        "_id": "6653d62c6ffc194efcd24729",
+        "name": "united-domains AG",
+        "domain": "united-domains.de",
+        "supportedRecordTypes": [
+            "A",
+            "MX",
+            "CNAME",
+            "TXT",
+            "SRV",
+            "AAAA",
+            "NS",
+            "CAA"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns.udag.de",
+            "ns.udag.org",
+            "ns.udag.net"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://www.united-domains.de/unternehmen/kontakt/",
+                "notes": "Name",
+                "time": "2024-04-08T15:39:24+02:00"
+            },
+            {
+                "method": "Whois",
+                "link": "udag.net",
+                "notes": "NS, company and connection to united-domains.de",
+                "time": "2024-04-08T15:46:10+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.united-domains.de/beispiel-portfolio/#dns_config",
+                "notes": "A, MX, CNAME, TXT, SRV, AAAA, NS, CAA",
+                "time": "2024-04-08T15:47:04+02:00"
+            }
+        ]
+    },
+    "records": {
+        "A": 0,
+        "MX": 0,
+        "CNAME": 0,
+        "TXT": 0,
+        "SRV": 0,
+        "AAAA": 0,
+        "NS": 0,
+        "CAA": 0
+    },
+    "unofficialRecords": {},
+    "domains": 2426,
+    "percent": 0.0009819731426702547
+}

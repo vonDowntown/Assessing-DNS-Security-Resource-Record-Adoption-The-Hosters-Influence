@@ -1,0 +1,78 @@
+{
+    "registrar": {
+        "_id": "6653d62b6ffc194efcd24704",
+        "name": "Hetzner Online GmbH",
+        "domain": "hetzner.com",
+        "supportedRecordTypes": [
+            "A",
+            "AAAA",
+            "CNAME",
+            "MX",
+            "NS",
+            "SRV",
+            "TXT",
+            "PTR",
+            "CAA",
+            "DS",
+            "TLSA",
+            "DANE",
+            "HINFO",
+            "SOA",
+            "RP"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "hydrogen.ns.hetzner.com",
+            "oxygen.ns.hetzner.com",
+            "helium.ns.hetzner.de",
+            "ns1.first-ns.de",
+            "robotns2.second-ns.de",
+            "robotns3.second-ns.com",
+            "ns1.your-server.de",
+            "ns.second-ns.com",
+            "ns3.second-ns.de"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://www.hetzner.com/legal/legal-notice/",
+                "notes": "name",
+                "time": "2024-02-27T00:00:00+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://docs.hetzner.com/de/dns-console/dns/general/authoritative-name-servers/",
+                "notes": "nameserver",
+                "time": "2024-02-27T00:00:00+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://docs.hetzner.com/de/dns-console/dns/general/dns-overview/",
+                "notes": "recordtypes",
+                "time": "2024-03-28T17:00:40+01:00"
+            }
+        ]
+    },
+    "records": {
+        "A": 0,
+        "AAAA": 0,
+        "CNAME": 0,
+        "MX": 0,
+        "NS": 0,
+        "SRV": 0,
+        "TXT": 0,
+        "PTR": 0,
+        "CAA": 0,
+        "DS": 0,
+        "TLSA": 0,
+        "DANE": 0,
+        "HINFO": 0,
+        "SOA": 0,
+        "RP": 0
+    },
+    "unofficialRecords": {},
+    "domains": 6528,
+    "percent": 0.0026423415809362825
+}

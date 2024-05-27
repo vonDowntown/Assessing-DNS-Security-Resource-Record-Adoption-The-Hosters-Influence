@@ -1,0 +1,61 @@
+{
+    "registrar": {
+        "_id": "6653d62b6ffc194efcd2471e",
+        "name": "XSERVER Inc.",
+        "domain": "www.xserver.jp",
+        "supportedRecordTypes": [
+            "A",
+            "AAAA",
+            "CNAME",
+            "MX",
+            "TXT",
+            "NS",
+            "SRV"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns1.xserver.jp",
+            "ns2.xserver.jp",
+            "ns3.xserver.jp",
+            "ns4.xserver.jp",
+            "ns5.xserver.jp",
+            "ns1.xtwo.ne.jp",
+            "ns2.xtwo.ne.jp",
+            "ns3.xtwo.ne.jp"
+        ],
+        "source": [
+            {
+                "method": "Whois",
+                "link": "xserver.jp",
+                "notes": "",
+                "time": "2024-04-04T19:32:40+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.xserver.ne.jp/manual/man_domain_namesever_setting.php",
+                "notes": "nameserver of old domains",
+                "time": "2024-04-04T19:36:24+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.xserver.ne.jp/manual/man_domain_dns_setting.php",
+                "notes": "DNS records: A, AAAA, CNAME, MX, TXT, NS, SRV",
+                "time": "2024-04-04T19:42:05+02:00"
+            }
+        ]
+    },
+    "records": {
+        "A": 0,
+        "AAAA": 0,
+        "CNAME": 0,
+        "MX": 0,
+        "TXT": 0,
+        "NS": 0,
+        "SRV": 0
+    },
+    "unofficialRecords": {},
+    "domains": 4119,
+    "percent": 0.0016672495361330496
+}

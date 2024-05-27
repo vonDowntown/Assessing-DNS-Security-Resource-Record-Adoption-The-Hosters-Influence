@@ -1,0 +1,57 @@
+{
+    "registrar": {
+        "_id": "6653d62b6ffc194efcd24723",
+        "name": "Enom LLC",
+        "domain": "https://cp.enom.com/",
+        "supportedRecordTypes": [
+            "A",
+            "AAAA",
+            "CNAME",
+            "TXT",
+            "MX",
+            "SPF",
+            "SRV",
+            "NS",
+            "DKIM"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "dns1.name-services.com",
+            "dns2.name-services.com",
+            "dns3.name-services.com",
+            "dns4.name-services.com",
+            "dns5.name-services.com"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://help.enom.com/hc/en-us/articles/115000474012-Managing-DNS-host-records",
+                "notes": "DNS records",
+                "time": "2024-04-05T00:30:27+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://help.enom.com/hc/en-us/articles/115000486451-Nameservers-NS#h_01FR8WZG9C6Y5JJCJ4XMN3VEE5",
+                "notes": "nameservers",
+                "time": "2024-04-05T00:32:14+02:00"
+            }
+        ],
+        "notes": "part of tucows"
+    },
+    "records": {
+        "A": 0,
+        "AAAA": 0,
+        "CNAME": 0,
+        "TXT": 0,
+        "MX": 0,
+        "SPF": 0,
+        "SRV": 0,
+        "NS": 0,
+        "DKIM": 0
+    },
+    "unofficialRecords": {},
+    "domains": 5280,
+    "percent": 0.0021371880434043465
+}
