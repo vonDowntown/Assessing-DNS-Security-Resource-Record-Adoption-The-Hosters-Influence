@@ -1,0 +1,138 @@
+{
+    "registrar": {
+        "_id": "6653cc570f45176013dad52f",
+        "name": "BuddyNS",
+        "domain": "https://www.buddyns.com/",
+        "supportedRecordTypes": [],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "uz53c7fwlc89h7jrbxcsnxfwjw8k6jtg56l4yvhm6p2xf496c0xl40.free.ns.buddyns.com",
+            "uz5qfm8n244kn4qz8mh437w9kzvpudduwyldp5361v9n0vh8sx5ucu.free.ns.buddyns.com",
+            "uz56xw8h7fw656bpfv84pctjbl9rbzbqrw4rpzdhtvzyltpjdmx0zq.free.ns.buddyns.com",
+            "uz52u1wtmumlrx5fwu6nmv22ntcddxcjjw41z8sfd6ur9n7797lrv9.free.ns.buddyns.com",
+            "uz5w6sb91zt99b73bznfkvtd0j1snxby06gg4hr0p8uum27n0hf6cd.free.ns.buddyns.com",
+            "uz5c15kc3lkws2mtwp7l8g9f33yffvvt96y54tlmn41zjy0043purm.free.ns.buddyns.com",
+            "uz5dkwpjfvfwb9rh1qj93mtup0gw65s6j7vqqumch0r9gzlu8qxx39.free.ns.buddyns.com",
+            "uz5154v9zl2nswf05td8yzgtd0jl6mvvjp98ut07ln0ydp2bqh1skn.free.ns.buddyns.com",
+            "uz5x36jqv06q5yulzwcblfzcrk1b479xdttdm1nrgfglzs57bmctl8.free.ns.buddyns.com",
+            "uz5x6wcwzfbjs8fkmkuchydn9339lf7xbxdmnp038cmyjlgg9sprr2.free.ns.buddyns.com",
+            "uz588h0rhwuu3cc03gm9uckw0w42cqr459wn1nxrbzhym2wd81zydb.free.ns.buddyns.com",
+            "g.free.ns.buddyns.com",
+            "l.free.ns.buddyns.com",
+            "k.free.ns.buddyns.com",
+            "d.free.ns.buddyns.com",
+            "h.free.ns.buddyns.com",
+            "b.free.ns.buddyns.com",
+            "e.free.ns.buddyns.com",
+            "j.free.ns.buddyns.com",
+            "f.free.ns.buddyns.com",
+            "c.free.ns.buddyns.com",
+            "i.free.ns.buddyns.com",
+            "uz5x6wcwzfbjs8fkmkuchydn9339lf7xbxdmnp038cmyjlgg9sprr2.pro.ns.buddyns.com",
+            "uz52u1wtmumlrx5fwu6nmv22ntcddxcjjw41z8sfd6ur9n7797lrv9.pro.ns.buddyns.com",
+            "uz5dkwpjfvfwb9rh1qj93mtup0gw65s6j7vqqumch0r9gzlu8qxx39.pro.ns.buddyns.com",
+            "uz588h0rhwuu3cc03gm9uckw0w42cqr459wn1nxrbzhym2wd81zydb.pro.ns.buddyns.com",
+            "uz5x36jqv06q5yulzwcblfzcrk1b479xdttdm1nrgfglzs57bmctl8.pro.ns.buddyns.com",
+            "uz5c15kc3lkws2mtwp7l8g9f33yffvvt96y54tlmn41zjy0043purm.pro.ns.buddyns.com",
+            "uz56xw8h7fw656bpfv84pctjbl9rbzbqrw4rpzdhtvzyltpjdmx0zq.pro.ns.buddyns.com",
+            "uz5qfm8n244kn4qz8mh437w9kzvpudduwyldp5361v9n0vh8sx5ucu.pro.ns.buddyns.com",
+            "uz5w6sb91zt99b73bznfkvtd0j1snxby06gg4hr0p8uum27n0hf6cd.pro.ns.buddyns.com",
+            "uz53c7fwlc89h7jrbxcsnxfwjw8k6jtg56l4yvhm6p2xf496c0xl40.pro.ns.buddyns.com",
+            "uz5154v9zl2nswf05td8yzgtd0jl6mvvjp98ut07ln0ydp2bqh1skn.pro.ns.buddyns.com",
+            "l.pro.ns.buddyns.com",
+            "b.pro.ns.buddyns.com",
+            "f.pro.ns.buddyns.com",
+            "g.pro.ns.buddyns.com",
+            "k.pro.ns.buddyns.com",
+            "h.pro.ns.buddyns.com",
+            "c.pro.ns.buddyns.com",
+            "e.pro.ns.buddyns.com",
+            "i.pro.ns.buddyns.com",
+            "d.pro.ns.buddyns.com",
+            "j.pro.ns.buddyns.com",
+            "e.ast.ns.buddyns.com",
+            "d.ast.ns.buddyns.com",
+            "b.ast.ns.buddyns.com",
+            "c.ast.ns.buddyns.com",
+            "uz5c0c3s8l2rl9wzv47ju3fxnk8l4ly0r56j888sg6nqrmy0db4mn2.e.ast.ns.buddyns.com",
+            "uz5c0c3s8l2rl9wzv47ju3fxnk8l4ly0r56j888sg6nqrmy0db4mn2.c.ast.ns.buddyns.com",
+            "uz5c0c3s8l2rl9wzv47ju3fxnk8l4ly0r56j888sg6nqrmy0db4mn2.b.ast.ns.buddyns.com",
+            "uz5c0c3s8l2rl9wzv47ju3fxnk8l4ly0r56j888sg6nqrmy0db4mn2.d.ast.ns.buddyns.com"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://www.buddyns.com/about/",
+                "notes": "general information",
+                "time": "2024-04-15T19:54:52+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.buddyns.com/support/setup/zone-delegation/free/",
+                "notes": "free ns: *.free.ns.buddyns.com, uz53c7fwlc89h7jrbxcsnxfwjw8k6jtg56l4yvhm6p2xf496c0xl40.free.ns.buddyns.com,uz5qfm8n244kn4qz8mh437w9kzvpudduwyldp5361v9n0vh8sx5ucu.free.ns.buddyns.com,uz56xw8h7fw656bpfv84pctjbl9rbzbqrw4rpzdhtvzyltpjdmx0zq.free.ns.buddyns.com,uz52u1wtmumlrx5fwu6nmv22ntcddxcjjw41z8sfd6ur9n7797lrv9.free.ns.buddyns.com,uz5w6sb91zt99b73bznfkvtd0j1snxby06gg4hr0p8uum27n0hf6cd.free.ns.buddyns.com,uz5c15kc3lkws2mtwp7l8g9f33yffvvt96y54tlmn41zjy0043purm.free.ns.buddyns.com,uz5dkwpjfvfwb9rh1qj93mtup0gw65s6j7vqqumch0r9gzlu8qxx39.free.ns.buddyns.com,uz5154v9zl2nswf05td8yzgtd0jl6mvvjp98ut07ln0ydp2bqh1skn.free.ns.buddyns.com,uz5x36jqv06q5yulzwcblfzcrk1b479xdttdm1nrgfglzs57bmctl8.free.ns.buddyns.com,uz5x6wcwzfbjs8fkmkuchydn9339lf7xbxdmnp038cmyjlgg9sprr2.free.ns.buddyns.com,uz588h0rhwuu3cc03gm9uckw0w42cqr459wn1nxrbzhym2wd81zydb.free.ns.buddyns.com",
+                "time": "2024-04-15T20:01:57+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.buddyns.com/support/setup/zone-delegation/pro/",
+                "notes": "pro ns: uz5x6wcwzfbjs8fkmkuchydn9339lf7xbxdmnp038cmyjlgg9sprr2.pro.ns.buddyns.com, uz52u1wtmumlrx5fwu6nmv22ntcddxcjjw41z8sfd6ur9n7797lrv9.pro.ns.buddyns.com, uz5dkwpjfvfwb9rh1qj93mtup0gw65s6j7vqqumch0r9gzlu8qxx39.pro.ns.buddyns.com, uz588h0rhwuu3cc03gm9uckw0w42cqr459wn1nxrbzhym2wd81zydb.pro.ns.buddyns.com, uz5x36jqv06q5yulzwcblfzcrk1b479xdttdm1nrgfglzs57bmctl8.pro.ns.buddyns.com, uz5c15kc3lkws2mtwp7l8g9f33yffvvt96y54tlmn41zjy0043purm.pro.ns.buddyns.com, uz56xw8h7fw656bpfv84pctjbl9rbzbqrw4rpzdhtvzyltpjdmx0zq.pro.ns.buddyns.com, uz5qfm8n244kn4qz8mh437w9kzvpudduwyldp5361v9n0vh8sx5ucu.pro.ns.buddyns.com, uz5w6sb91zt99b73bznfkvtd0j1snxby06gg4hr0p8uum27n0hf6cd.pro.ns.buddyns.com, uz53c7fwlc89h7jrbxcsnxfwjw8k6jtg56l4yvhm6p2xf496c0xl40.pro.ns.buddyns.com, uz5154v9zl2nswf05td8yzgtd0jl6mvvjp98ut07ln0ydp2bqh1skn.pro.ns.buddyns.com, l.pro.ns.buddyns.com, b.pro.ns.buddyns.com, f.pro.ns.buddyns.com, g.pro.ns.buddyns.com, k.pro.ns.buddyns.com, h.pro.ns.buddyns.com, c.pro.ns.buddyns.com, e.pro.ns.buddyns.com, i.pro.ns.buddyns.com, d.pro.ns.buddyns.com, j.pro.ns.buddyns.com,",
+                "time": "2024-04-15T20:06:36+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.buddyns.com/support/setup/zone-delegation/astronaut/",
+                "notes": "austronaut dns: e.ast.ns.buddyns.com, d.ast.ns.buddyns.com, b.ast.ns.buddyns.com, c.ast.ns.buddyns.com, uz5c0c3s8l2rl9wzv47ju3fxnk8l4ly0r56j888sg6nqrmy0db4mn2.e.ast.ns.buddyns.com, uz5c0c3s8l2rl9wzv47ju3fxnk8l4ly0r56j888sg6nqrmy0db4mn2.c.ast.ns.buddyns.com, uz5c0c3s8l2rl9wzv47ju3fxnk8l4ly0r56j888sg6nqrmy0db4mn2.b.ast.ns.buddyns.com, uz5c0c3s8l2rl9wzv47ju3fxnk8l4ly0r56j888sg6nqrmy0db4mn2.d.ast.ns.buddyns.com",
+                "time": "2024-04-16T13:37:12+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.buddyns.com/faq/#security",
+                "notes": "'BuddyNS offers a basic DNS replication service (secondary DNS) '",
+                "time": "2024-04-16T13:40:21+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.buddyns.com/faq/#dns-extensions",
+                "notes": "AAAA, AXFT, NOTIFY, WWW, CAA, DNSSEC",
+                "time": "2024-04-16T13:42:21+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.buddyns.com/support/api/v2/",
+                "notes": "No option to manage records directly",
+                "time": "2024-04-16T13:48:21+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://gitlab.com/BuddyNS/buddyns-python",
+                "notes": "No option to manage records directly",
+                "time": "2024-04-16T13:48:21+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://app.swaggerhub.com/apis-docs/buddyns/BuddyNS/2.0.2",
+                "notes": "No option to manage records directly",
+                "time": "2024-04-16T13:48:21+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": " https://github.com/apache/libcloud",
+                "notes": "No option to manage records directly",
+                "time": "2024-04-16T13:48:21+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://github.com/apache/libcloud/blob/2eaeb01ee95d8d4835053a84725670db69c6db49/libcloud/dns/drivers/buddyns.py",
+                "notes": "No option to manage records directly",
+                "time": "2024-04-16T13:48:21+02:00"
+            }
+        ],
+        "notes": "Secondary DNS"
+    },
+    "records": {},
+    "unofficialRecords": {},
+    "domains": 92,
+    "percent": 6.773740857290533e-05
+}

@@ -1,0 +1,101 @@
+{
+    "registrar": {
+        "_id": "6653cc570f45176013dad4ff",
+        "name": "Google LLC",
+        "domain": "googledomains.com",
+        "supportedRecordTypes": [
+            "A",
+            "AAAA",
+            "ALIAS",
+            "CNAME",
+            "MX",
+            "SPF",
+            "NS",
+            "SOA",
+            "CAA",
+            "DNSKEY",
+            "DS",
+            "PTR",
+            "SSHFP",
+            "TLSA",
+            "TXT",
+            "SRV"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns-cloud-a1.googledomains.com",
+            "ns-cloud-a2.googledomains.com",
+            "ns-cloud-a3.googledomains.com",
+            "ns-cloud-a4.googledomains.com",
+            "ns-cloud-b1.googledomains.com",
+            "ns-cloud-b2.googledomains.com",
+            "ns-cloud-b3.googledomains.com",
+            "ns-cloud-b4.googledomains.com",
+            "ns-cloud-c1.googledomains.com",
+            "ns-cloud-c2.googledomains.com",
+            "ns-cloud-c3.googledomains.com",
+            "ns-cloud-c4.googledomains.com",
+            "ns-cloud-d1.googledomains.com",
+            "ns-cloud-d2.googledomains.com",
+            "ns-cloud-d3.googledomains.com",
+            "ns-cloud-d4.googledomains.com",
+            "ns-cloud-e1.googledomains.com",
+            "ns-cloud-e2.googledomains.com",
+            "ns-cloud-e3.googledomains.com",
+            "ns-cloud-e4.googledomains.com",
+            "ns-cloud1.googledomains.com",
+            "ns-cloud2.googledomains.com",
+            "ns-cloud3.googledomains.com",
+            "ns-cloud4.googledomains.com"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://support.google.com/domains/answer/4632243?sjid=1074253920147972000-EU",
+                "notes": "Supported dns record types",
+                "time": "2024-03-15T20:37:00+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://support.google.com/domains/answer/10751068",
+                "notes": "moar supported dns record types",
+                "time": "2024-03-15T20:37:00+01:00"
+            },
+            {
+                "method": "RecordScan",
+                "link": "",
+                "notes": "Nameserver",
+                "time": "2024-03-15T20:45:00+01:00"
+            },
+            {
+                "method": "Whois",
+                "link": "googledomains.com",
+                "notes": "Org Name",
+                "time": "2024-03-31T20:30:00+01:00"
+            }
+        ]
+    },
+    "records": {
+        "A": 0,
+        "AAAA": 0,
+        "ALIAS": 0,
+        "CNAME": 0,
+        "MX": 0,
+        "SPF": 0,
+        "NS": 0,
+        "SOA": 0,
+        "CAA": 0,
+        "DNSKEY": 0,
+        "DS": 0,
+        "PTR": 0,
+        "SSHFP": 0,
+        "TLSA": 0,
+        "TXT": 0,
+        "SRV": 0
+    },
+    "unofficialRecords": {},
+    "domains": 15002,
+    "percent": 0.011045615254464411
+}

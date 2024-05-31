@@ -1,0 +1,83 @@
+{
+    "registrar": {
+        "_id": "6653cc570f45176013dad4f6",
+        "name": "TransIP",
+        "domain": "transip.nl",
+        "supportedRecordTypes": [
+            "A",
+            "AAAA",
+            "CNAME",
+            "MX",
+            "TXT",
+            "SFP",
+            "DKIM",
+            "CAA",
+            "SRV",
+            "NS",
+            "TLSA",
+            "NAPTR",
+            "ALIAS",
+            "DS"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns0.transip.net",
+            "ns1.transip.nl",
+            "ns2.transip.eu",
+            "ns0.transip.nl",
+            "ns2.transip.nl",
+            "ns1.transip.net",
+            "ns2.transip.net",
+            "ns0.transip.eu",
+            "ns1.transip.eu",
+            "ns0.transdns.eu",
+            "ns1.transdns.eu",
+            "ns2.transdns.eu",
+            "ns0.transip.be",
+            "ns1.transip.be",
+            "ns2.transip.be"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://www.transip.nl/knowledgebase/nameservers/1593-de-transip-nameservers",
+                "notes": "nsServers, name, origin is nl, \u00fcbersetzt mit firefox",
+                "time": "2024-02-26T00:00:00+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.transip.eu/knowledgebase/entry/155-dns-and-nameservers/",
+                "notes": "A, AAAA, CNAME, MX, TXT, SFP, DKIM, CAA, SRV, NS, TLSA, NAPTR, ALIAS, DS",
+                "time": "2024-02-26T00:00:00+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.transip.eu/knowledgebase/entry/1593-the-transip-nameservers/",
+                "notes": "nsServers and add old servers from before 2018",
+                "time": "2024-05-11T16:45:42+02:00"
+            }
+        ],
+        "notes": "maybee more"
+    },
+    "records": {
+        "A": 0,
+        "AAAA": 0,
+        "CNAME": 0,
+        "MX": 0,
+        "TXT": 0,
+        "SFP": 0,
+        "DKIM": 0,
+        "CAA": 0,
+        "SRV": 0,
+        "NS": 0,
+        "TLSA": 0,
+        "NAPTR": 0,
+        "ALIAS": 0,
+        "DS": 0
+    },
+    "unofficialRecords": {},
+    "domains": 2493,
+    "percent": 0.0018355365170897064
+}

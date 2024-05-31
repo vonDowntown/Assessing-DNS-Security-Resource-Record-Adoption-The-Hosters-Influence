@@ -1,0 +1,64 @@
+{
+    "registrar": {
+        "_id": "6640b12147fb4bd5d0004484",
+        "name": "Joshua Anderson/FreeDNS",
+        "domain": "afraid.org",
+        "supportedRecordTypes": [
+            "A",
+            "AAAA",
+            "CNAME",
+            "MX",
+            "NS",
+            "TXT",
+            "SPF",
+            "LOC",
+            "RP",
+            "SRV",
+            "CAA"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns1.afraid.org",
+            "ns2.afraid.org",
+            "ns3.afraid.org",
+            "ns4.afraid.org"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://freedns.afraid.org/faq/type.php",
+                "notes": "A, AAAA, CNAME, MX, NS, TXT, SPF, LOC, RP, SRV",
+                "time": "2024-04-04T12:45:00+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://freedns.afraid.org/news/",
+                "notes": "News updates added: CAA, ",
+                "time": "2024-04-04T12:45:00+01:00"
+            },
+            {
+                "method": "RecordScan",
+                "link": "",
+                "notes": "add some *.afraid.org ns server",
+                "time": "2024-04-04T12:45:00+01:00"
+            }
+        ]
+    },
+    "records": {
+        "A": 0,
+        "AAAA": 0,
+        "CNAME": 0,
+        "MX": 0,
+        "NS": 0,
+        "TXT": 0,
+        "SPF": 0,
+        "LOC": 0,
+        "RP": 0,
+        "SRV": 0,
+        "CAA": 0
+    },
+    "unofficialRecords": {},
+    "domains": 634
+}

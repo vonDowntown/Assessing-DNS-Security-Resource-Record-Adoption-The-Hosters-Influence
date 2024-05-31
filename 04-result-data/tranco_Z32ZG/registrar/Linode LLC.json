@@ -1,0 +1,60 @@
+{
+    "registrar": {
+        "_id": "6653cc570f45176013dad4fa",
+        "name": "Linode LLC",
+        "domain": "linode.com",
+        "supportedRecordTypes": [
+            "A",
+            "AAAA",
+            "CNAME",
+            "TXT",
+            "MX",
+            "SOA",
+            "SRV",
+            "CAA"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns1.linode.com",
+            "ns2.linode.com",
+            "ns3.linode.com",
+            "ns4.linode.com",
+            "ns5.linode.com"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://www.linode.com/de/products/dns-manager/",
+                "notes": "recordtypes A, AAAA, CNAME, TXT, MX",
+                "time": "2024-02-27T00:00:00+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.linode.com/docs/products/networking/dns-manager/",
+                "notes": "DNSSEC is not supported and should be disabled on your domain\u2019s registrar.",
+                "time": "2024-02-27T00:00:00+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.linode.com/docs/products/networking/dns-manager/get-started/#add-dns-records",
+                "notes": "nsServers and some NSRecords( A, AAAA, CNAME, TXT, MX, SOA, SRV, CAA)",
+                "time": "2024-02-27T00:00:00+01:00"
+            }
+        ]
+    },
+    "records": {
+        "A": 0,
+        "AAAA": 0,
+        "CNAME": 0,
+        "TXT": 0,
+        "MX": 0,
+        "SOA": 0,
+        "SRV": 0,
+        "CAA": 0
+    },
+    "unofficialRecords": {},
+    "domains": 1875,
+    "percent": 0.0013805178377630162
+}

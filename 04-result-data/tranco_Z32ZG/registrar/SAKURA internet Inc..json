@@ -1,0 +1,77 @@
+{
+    "registrar": {
+        "_id": "6653cc570f45176013dad522",
+        "name": "SAKURA internet Inc.",
+        "domain": "www.sakura.ad.jp",
+        "supportedRecordTypes": [
+            "A",
+            "CNAME",
+            "MX",
+            "NS",
+            "AAAA",
+            "TXT",
+            "CAA",
+            "DMARC",
+            "DKIM"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns1.dns.ne.jp",
+            "ns2.dns.ne.jp"
+        ],
+        "source": [
+            {
+                "method": "RecordScan",
+                "link": "",
+                "notes": " ns1.dns.ne.jp and ns2.dns.ne.jp are nameserver",
+                "time": "2024-04-12T12:32:43+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "SOA Record -> dns.sakura.ad.jp. dns.sakura.ad.jp. 2024010600 900 300 3600000 3600 ",
+                "notes": "SOA record mentions sakura.ad.jp",
+                "time": "2024-04-12T12:34:49+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://help.sakura.ad.jp/domain/2305/",
+                "notes": "ns1.dns.ne.jp and ns2.dns.ne.jp are nameserver for Sakura Internet",
+                "time": "2024-04-12T12:36:00+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "www.sakura.ad.jp",
+                "notes": "Basic information about Sakura Internet",
+                "time": "2024-04-12T12:38:39+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://help.sakura.ad.jp/domain/2712/",
+                "notes": "DNS records: A, CNAME, MX, NS, AAAA, TXT, CAA",
+                "time": "2024-04-12T12:40:00+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://help.sakura.ad.jp/mail/2811/",
+                "notes": "DMARC and DKIM Support",
+                "time": "2024-04-12T12:45:28+02:00"
+            }
+        ]
+    },
+    "records": {
+        "A": 0,
+        "CNAME": 0,
+        "MX": 0,
+        "NS": 0,
+        "AAAA": 0,
+        "TXT": 0,
+        "CAA": 0,
+        "DMARC": 0,
+        "DKIM": 0
+    },
+    "unofficialRecords": {},
+    "domains": 8428,
+    "percent": 0.006205335646222241
+}

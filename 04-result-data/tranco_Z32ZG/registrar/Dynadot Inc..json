@@ -1,0 +1,105 @@
+{
+    "registrar": {
+        "_id": "6653cc570f45176013dad518",
+        "name": "Dynadot Inc.",
+        "domain": "https://www.dynadot.com",
+        "supportedRecordTypes": [
+            "CNAME",
+            "A",
+            "MX",
+            "TXT",
+            "DKIM",
+            "SRV",
+            "SPF",
+            "ANAME"
+        ],
+        "extraPaidRecordTypes": [],
+        "ipv4": [],
+        "ipv6": [],
+        "nsServer": [
+            "ns1.dyna-ns.net",
+            "ns2.dyna-ns.net"
+        ],
+        "source": [
+            {
+                "method": "Documentation",
+                "link": "https://www.dynadot.com",
+                "notes": "",
+                "time": "2024-03-15T20:37:00+01:00"
+            },
+            {
+                "method": "Whois",
+                "link": "dyna-ns.net",
+                "notes": "",
+                "time": "2024-03-19T15:07:35+01:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.dynadot.com/community/help/question/create-CNAME",
+                "notes": "add CNAME",
+                "time": "2024-04-04T20:57:44+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.dynadot.com/community/help/question/create-A-record",
+                "notes": "add A",
+                "time": "2024-04-04T20:57:44+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.dynadot.com/community/help/question/MX-DNS-set-up",
+                "notes": "add MX",
+                "time": "2024-04-04T20:57:44+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.dynadot.com/community/help/question/create-TXT-record",
+                "notes": "add TXT",
+                "time": "2024-04-04T20:57:44+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.dynadot.com/community/help/question/enter-DKIM",
+                "notes": "add DKIM",
+                "time": "2024-04-04T20:57:44+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.dynadot.com/community/help/question/add-SRV-record",
+                "notes": "add SRV",
+                "time": "2024-04-04T20:57:44+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.dynadot.com/community/help/question/SPF-records",
+                "notes": "add SPF",
+                "time": "2024-04-04T20:57:44+02:00"
+            },
+            {
+                "method": "Documentation",
+                "link": "https://www.dynadot.com/community/help/question/enter-aname-record-for-domain",
+                "notes": "add ANAME",
+                "time": "2024-04-04T20:57:44+02:00"
+            },
+            {
+                "method": "RecordScan",
+                "link": "",
+                "notes": "",
+                "time": "2024-03-15T20:45:00+01:00"
+            }
+        ]
+    },
+    "records": {
+        "CNAME": 0,
+        "A": 0,
+        "MX": 0,
+        "TXT": 0,
+        "DKIM": 0,
+        "SRV": 0,
+        "SPF": 0,
+        "ANAME": 0
+    },
+    "unofficialRecords": {},
+    "domains": 3145,
+    "percent": 0.002315588586541166
+}
